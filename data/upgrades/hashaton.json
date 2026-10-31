@@ -267,7 +267,7 @@
     {
      "name": "Seasoned Cryomancer",
      "tier": "consider",
-     "why": "Draws two and discards two when it enters, and tapping and stunning creatures when you discard nonland cards.",
+     "why": "Draws two and discards two when it enters, and taps and stuns an opposing creature whenever you discard a nonland card.",
      "sources": [
       {
        "label": "Moxfield: 1 of 23 recent Bracket 2-3 Hashaton lists",
