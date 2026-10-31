@@ -179,6 +179,28 @@ const communityBadge = p => {
     : `<span class="tag" title="Found by searching the set; no Hashaton list uses it yet">Claude's pick</span>`;
 };
 const STATUS = { want: 'Want it', added: 'Got it / added', pass: 'Pass' };
+const STATUS_SHORT = { want: '♥ Want', added: '✓ Got', pass: '✕ Pass' };
+
+function showDetail(p, info) {
+  if (!p) return;
+  const i = info[p.name];
+  let m = document.getElementById('modal');
+  if (!m) { m = document.createElement('div'); m.id = 'modal'; document.body.appendChild(m); }
+  m.innerHTML = `<div class="modal-bg"></div><div class="modal-box">
+    <button class="modal-x" aria-label="Close">✕</button>
+    <img src="${esc(i?.img || imageFor(p.name))}" alt="${esc(p.name)}">
+    <div><h2>${esc(p.name)}</h2><div class="muted small">${esc(p.set)}</div>
+      <p>${esc(p.why)}</p>
+      ${p.cut ? `<p class="cut"><b>Suggested cut:</b> ${esc(p.cut)}${p.cutWhy ? ` · ${esc(p.cutWhy)}` : ''}</p>` : ''}
+      ${p.sources?.length ? `<p class="small"><b>Sources</b><br>${p.sources.map(src => `<a href="${esc(src.url)}" target="_blank" rel="noopener">${esc(src.label)}</a>`).join('<br>')}</p>` : ''}
+      <p class="small"><a href="${esc(i?.uri || `https://scryfall.com/search?q=!%22${encodeURIComponent(p.name)}%22`)}" target="_blank" rel="noopener">Open on Scryfall</a></p>
+    </div></div>`;
+  m.hidden = false;
+  const close = () => { m.hidden = true; };
+  m.querySelector('.modal-bg').onclick = close;
+  m.querySelector('.modal-x').onclick = close;
+  document.onkeydown = e => { if (e.key === 'Escape') close(); };
+}
 
 function renderUpgrades(el, deckId, upgrades, info, deck) {
   if (!upgrades?.sets?.length) {
@@ -190,37 +212,34 @@ function renderUpgrades(el, deckId, upgrades, info, deck) {
   const st = getStatus(deckId);
   el.innerHTML = `
     <div class="toolbar">
-      <span class="muted">Researched ${esc(upgrades.researchedAt)} · ${esc(upgrades.method || '')}</span>
+      <span class="muted">Researched ${esc(upgrades.researchedAt)} · tap a card for the reason and suggested cut</span>
       <label>Show <select id="flt">
         <option value="open">Not decided yet</option><option value="want">Want it</option>
         <option value="added">Added</option><option value="pass">Passed</option><option value="all">Everything</option>
       </select></label>
     </div>
-    ${upgrades.summary ? `<div class="note">${esc(upgrades.summary)}</div>` : ''}
+    ${upgrades.summary ? `<details class="note"><summary>How these were picked</summary><p>${esc(upgrades.summary)}</p><p class="muted small">${esc(upgrades.method || '')}</p></details>` : ''}
     ${upgrades.sets.map(s => {
       const picks = [...(s.picks || [])].sort((a, b) => (a.tier === 'strong' ? 0 : 1) - (b.tier === 'strong' ? 0 : 1) || community(b) - community(a)).filter(p => filter === 'all' || (filter === 'open' ? !st[p.name] : st[p.name] === filter));
       return `<section class="group set-group">
         <h2>${esc(s.name)} <span class="muted">${esc(s.code?.toUpperCase() || '')} · ${esc(s.released || '')}</span></h2>
         ${s.note ? `<p class="muted">${esc(s.note)}</p>` : ''}
-        ${picks.length ? `<div class="upgrade-list">${picks.map(p => {
+        ${picks.length ? `<div class="card-grid big">${picks.map(p => {
           const i = info[p.name];
           const owned = inDeck.has(p.name);
-          return `<div class="upgrade">
-            ${cardTile(p.name, i)}
-            <div class="upgrade-body">
-              <div class="upgrade-title">${esc(p.name)} ${p.tier === 'strong' ? '<span class="tag hot">Strong fit</span>' : '<span class="tag">Worth a look</span>'}
-                ${i?.price ? `<span class="tag">$${esc(i.price)}</span>` : ''} ${owned ? '<span class="tag">already in deck</span>' : ''}
-                ${communityBadge(p)}</div>
-              <p>${esc(p.why)}</p>
-              ${p.cut ? `<p class="cut"><b>Suggested cut:</b> <span class="row-card" data-img="${esc(info[p.cut]?.img || imageFor(p.cut))}">${esc(p.cut)}</span>${p.cutWhy ? ` · ${esc(p.cutWhy)}` : ''}</p>` : ''}
-              ${p.cardText ? `<p class="muted small"><a href="${esc(p.cardText)}" target="_blank" rel="noopener">Card text</a></p>` : ''}
-              ${p.sources?.length ? `<p class="muted small">Sources: ${p.sources.map(src => `<a href="${esc(src.url)}" target="_blank" rel="noopener">${esc(src.label)}</a>`).join(' · ')}</p>` : ''}
-              <div class="status">${Object.entries(STATUS).map(([k, v]) => `<button data-card="${esc(p.name)}" data-s="${k}" class="${st[p.name] === k ? 'on' : ''}">${v}</button>`).join('')}</div>
-            </div></div>`;
+          const img = i?.img || imageFor(p.name);
+          return `<div class="pick ${st[p.name] ? 'decided-' + st[p.name] : ''}">
+            <button class="pick-img" data-detail="${esc(p.name)}" title="Show why"><img loading="lazy" src="${esc(img)}" alt="${esc(p.name)}"></button>
+            <div class="pick-tags">${p.tier === 'strong' ? '<span class="tag hot">Strong</span>' : '<span class="tag">Maybe</span>'}
+              ${communityBadge(p)} ${i?.price ? `<span class="tag">$${esc(i.price)}</span>` : ''} ${owned ? '<span class="tag">in deck</span>' : ''}</div>
+            <div class="status compact">${Object.entries(STATUS_SHORT).map(([k, v]) => `<button data-card="${esc(p.name)}" data-s="${k}" class="${st[p.name] === k ? 'on' : ''}" title="${esc(STATUS[k])}">${v}</button>`).join('')}</div>
+          </div>`;
         }).join('')}</div>` : '<p class="muted">Nothing in this view for this set.</p>'}
         ${s.skipped?.length && filter === 'all' ? `<details><summary>Considered but skipped (${s.skipped.length})</summary><ul>${s.skipped.map(k => `<li><b>${esc(k.name)}</b>: ${esc(k.reason)}</li>`).join('')}</ul></details>` : ''}
       </section>`;
     }).join('')}`;
+  const byName = Object.fromEntries(upgrades.sets.flatMap(s => (s.picks || []).map(p => [p.name, { ...p, set: s.name }])));
+  el.querySelectorAll('.pick-img').forEach(b => b.onclick = () => showDetail(byName[b.dataset.detail], info));
   const flt = el.querySelector('#flt'); flt.value = filter;
   flt.onchange = () => { localStorage.setItem('upgrade-filter', flt.value); renderUpgrades(el, deckId, upgrades, info, deck); };
   el.querySelectorAll('.status button').forEach(b => b.onclick = () => {

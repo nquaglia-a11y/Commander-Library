@@ -48,7 +48,8 @@ main { max-width: 1280px; margin: 0 auto; padding: 24px; }
 select, input, textarea { background: var(--panel2); color: var(--text); border: 1px solid #333849; border-radius: 6px; padding: 6px 8px; font: inherit; }
 
 .group h2 { font-size: 18px; border-bottom: 1px solid #2a2e3b; padding-bottom: 6px; margin-top: 28px; }
-.card-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 14px; }
+.card-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 16px; }
+.card-grid.big { grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 20px; }
 .card { position: relative; text-align: center; }
 .card img { width: 100%; aspect-ratio: 488 / 680; border-radius: 4.75% / 3.5%; background: var(--panel2); display: block; transition: transform .15s; }
 .card img:hover { transform: scale(1.04); }
@@ -92,3 +93,22 @@ details { margin-top: 12px; color: var(--muted); }
 .shop .thumb img { width: 46px; border-radius: 4px; display: block; }
 .shop button { background: var(--panel2); color: var(--text); border: 1px solid #39405a; border-radius: 6px; padding: 4px 10px; cursor: pointer; }
 @media (max-width: 800px) { .shop th:nth-child(4), .shop td:nth-child(4) { display: none; } }
+
+.pick { display: flex; flex-direction: column; gap: 6px; }
+.pick-img { padding: 0; border: 0; background: none; cursor: pointer; }
+.pick-img img { width: 100%; aspect-ratio: 488 / 680; border-radius: 4.75% / 3.5%; background: var(--panel2); display: block; transition: transform .15s; }
+.pick-img img:hover { transform: scale(1.03); }
+.pick-tags { display: flex; flex-wrap: wrap; gap: 4px; justify-content: center; }
+.status.compact { margin-top: 0; gap: 4px; justify-content: center; }
+.status.compact button { padding: 3px 8px; font-size: 13px; }
+.status.compact button[data-s="want"].on { background: #e0577a; border-color: #e0577a; color: #fff; }
+.status.compact button[data-s="pass"].on { background: #555b6e; border-color: #555b6e; color: #fff; }
+.pick.decided-pass .pick-img img { opacity: .45; }
+#modal[hidden] { display: none; }
+.modal-bg { position: fixed; inset: 0; background: rgba(0,0,0,.7); z-index: 20; }
+.modal-box { position: fixed; z-index: 21; top: 50%; left: 50%; transform: translate(-50%, -50%); width: min(820px, 94vw); max-height: 90vh; overflow: auto;
+  background: var(--panel); border-radius: 14px; padding: 22px; display: grid; grid-template-columns: 300px 1fr; gap: 22px; }
+.modal-box img { width: 100%; border-radius: 12px; }
+.modal-box h2 { margin: 0; }
+.modal-x { position: absolute; top: 10px; right: 12px; background: none; border: 0; color: var(--muted); font-size: 20px; cursor: pointer; }
+@media (max-width: 700px) { .modal-box { grid-template-columns: 1fr; } .modal-box img { width: 70%; margin: 0 auto; } .card-grid.big { grid-template-columns: repeat(2, 1fr); gap: 10px; } .card-grid { grid-template-columns: repeat(2, 1fr); } }
