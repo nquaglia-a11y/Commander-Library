@@ -6,7 +6,7 @@
   "Bracket 2-3",
   "No Game Changers"
  ],
- "summary": "Hashaton copies every creature card you discard as a 4/4 Zombie for {2}{U}, and the copy keeps the card's abilities. So the best new cards are cheap ways to discard (looting, connive, landcycling creatures) and big creatures whose abilities are great on a 4/4 body. First pass: Secrets of Strixhaven and Marvel Super Heroes still have card search pages I couldn't read yet, so more ideas may come. The green badge means 3 or more community sources include the card; \"Claude's pick\" means I found it in the set but no Hashaton list uses it yet, which is where the less obvious ideas are.",
+ "summary": "Hashaton copies every creature card you discard as a 4/4 Zombie for {2}{U}, and the copy keeps the card's abilities. So the best new cards are cheap ways to discard (looting, connive, landcycling creatures) and big creatures whose abilities are great on a 4/4 body. The green badge means 3 or more community sources include the card; \"Claude's pick\" means I found it in the set but no Hashaton list uses it yet, which is where the less obvious ideas are.",
  "sets": [
   {
    "code": "fra",
@@ -507,9 +507,56 @@
        "kind": "community"
       }
      ]
+    },
+    {
+     "name": "Infernal Rebirth",
+     "tier": "strong",
+     "why": "Returns one or two creature cards from your graveyard to your hand, so you can discard them again for more Hashaton copies. Early on, landcycle it for {2} instead.",
+     "sources": [
+      {
+       "label": "Scryfall set search",
+       "url": "https://scryfall.com/search?q=id%3C%3Dwub+-is%3Areprint+(e%3Asos+or+e%3Asoc+or+e%3Amsh+or+e%3Amsc+or+e%3Atmt+or+e%3Atmc)+(o%3Adiscard+or+o%3Aconnive+or+o%3A%22from+your+graveyard%22+or+o%3Acycling)",
+       "kind": "analysis"
+      }
+     ]
+    },
+    {
+     "name": "Madame Masque",
+     "tier": "consider",
+     "why": "Connives when she enters, and her copy as a 4/4 Zombie connives again. Card flow plus a discard.",
+     "sources": [
+      {
+       "label": "Scryfall set search",
+       "url": "https://scryfall.com/search?q=id%3C%3Dwub+-is%3Areprint+(e%3Asos+or+e%3Asoc+or+e%3Amsh+or+e%3Amsc+or+e%3Atmt+or+e%3Atmc)+(o%3Adiscard+or+o%3Aconnive+or+o%3A%22from+your+graveyard%22+or+o%3Acycling)",
+       "kind": "analysis"
+      }
+     ]
+    },
+    {
+     "name": "Atlantean Skirmisher",
+     "tier": "consider",
+     "why": "Two-mana creature that connives (draw, then discard) every time it attacks.",
+     "sources": [
+      {
+       "label": "Scryfall set search",
+       "url": "https://scryfall.com/search?q=id%3C%3Dwub+-is%3Areprint+(e%3Asos+or+e%3Asoc+or+e%3Amsh+or+e%3Amsc+or+e%3Atmt+or+e%3Atmc)+(o%3Adiscard+or+o%3Aconnive+or+o%3A%22from+your+graveyard%22+or+o%3Acycling)",
+       "kind": "analysis"
+      }
+     ]
+    },
+    {
+     "name": "Grim Reaper, Lethal Legionnaire",
+     "tier": "consider",
+     "why": "When it attacks you can pay {3}{B} to return a creature card from your graveyard to the battlefield attacking.",
+     "sources": [
+      {
+       "label": "Scryfall set search",
+       "url": "https://scryfall.com/search?q=id%3C%3Dwub+-is%3Areprint+(e%3Asos+or+e%3Asoc+or+e%3Amsh+or+e%3Amsc+or+e%3Atmt+or+e%3Atmc)+(o%3Adiscard+or+o%3Aconnive+or+o%3A%22from+your+graveyard%22+or+o%3Acycling)",
+       "kind": "analysis"
+      }
+     ]
     }
-   ],
-   "note": "Only the first of four search result pages could be read."
+   ]
   },
   {
    "code": "sos",
@@ -563,6 +610,30 @@
        "kind": "community"
       }
      ]
+    },
+    {
+     "name": "Pull from the Grave",
+     "tier": "consider",
+     "why": "Three mana: return up to two creature cards from your graveyard to your hand and gain 2 life. Refuels your discard engine.",
+     "sources": [
+      {
+       "label": "Scryfall set search",
+       "url": "https://scryfall.com/search?q=id%3C%3Dwub+-is%3Areprint+(e%3Asos+or+e%3Asoc+or+e%3Amsh+or+e%3Amsc+or+e%3Atmt+or+e%3Atmc)+(o%3Adiscard+or+o%3Aconnive+or+o%3A%22from+your+graveyard%22+or+o%3Acycling)",
+       "kind": "analysis"
+      }
+     ]
+    },
+    {
+     "name": "Cheerful Osteomancer",
+     "tier": "consider",
+     "why": "Creature with a built-in Raise Dead you can cast as a copy, so it's a body plus a way to rebuy a creature to discard again.",
+     "sources": [
+      {
+       "label": "Scryfall set search",
+       "url": "https://scryfall.com/search?q=id%3C%3Dwub+-is%3Areprint+(e%3Asos+or+e%3Asoc+or+e%3Amsh+or+e%3Amsc+or+e%3Atmt+or+e%3Atmc)+(o%3Adiscard+or+o%3Aconnive+or+o%3A%22from+your+graveyard%22+or+o%3Acycling)",
+       "kind": "analysis"
+      }
+     ]
     }
    ],
    "skipped": [
@@ -570,8 +641,7 @@
      "name": "Forum Necroscribe",
      "reason": "Its reanimation needs spells that target creatures, which this deck has few of."
     }
-   ],
-   "note": "Only the first of four search result pages could be read."
+   ]
   },
   {
    "code": "tmt",
