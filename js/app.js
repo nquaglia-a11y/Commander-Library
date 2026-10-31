@@ -172,7 +172,7 @@ function renderDecklist(el, cards, info) {
   vw.onchange = () => { localStorage.setItem('view-mode', vw.value); renderDecklist(el, cards, info); };
 }
 
-const STATUS = { want: 'Want it', added: 'Added', pass: 'Pass' };
+const STATUS = { want: 'Want it', added: 'Got it / added', pass: 'Pass' };
 
 function renderUpgrades(el, deckId, upgrades, info, deck) {
   if (!upgrades?.sets?.length) {
@@ -192,7 +192,7 @@ function renderUpgrades(el, deckId, upgrades, info, deck) {
     </div>
     ${upgrades.summary ? `<div class="note">${esc(upgrades.summary)}</div>` : ''}
     ${upgrades.sets.map(s => {
-      const picks = (s.picks || []).filter(p => filter === 'all' || (filter === 'open' ? !st[p.name] : st[p.name] === filter));
+      const picks = [...(s.picks || [])].sort((a, b) => (a.tier === 'strong' ? 0 : 1) - (b.tier === 'strong' ? 0 : 1) || (b.sources?.length || 0) - (a.sources?.length || 0)).filter(p => filter === 'all' || (filter === 'open' ? !st[p.name] : st[p.name] === filter));
       return `<section class="group set-group">
         <h2>${esc(s.name)} <span class="muted">${esc(s.code?.toUpperCase() || '')} · ${esc(s.released || '')}</span></h2>
         ${s.note ? `<p class="muted">${esc(s.note)}</p>` : ''}
@@ -203,7 +203,8 @@ function renderUpgrades(el, deckId, upgrades, info, deck) {
             ${cardTile(p.name, i)}
             <div class="upgrade-body">
               <div class="upgrade-title">${esc(p.name)} ${p.tier === 'strong' ? '<span class="tag hot">Strong fit</span>' : '<span class="tag">Worth a look</span>'}
-                ${i?.price ? `<span class="tag">$${esc(i.price)}</span>` : ''} ${owned ? '<span class="tag">already in deck</span>' : ''}</div>
+                ${i?.price ? `<span class="tag">$${esc(i.price)}</span>` : ''} ${owned ? '<span class="tag">already in deck</span>' : ''}
+                ${p.sources?.length ? `<span class="tag ${p.sources.length >= 3 ? 'good' : ''}" title="How many independent sources recommend it">${p.sources.length} source${p.sources.length > 1 ? 's' : ''}</span>` : ''}</div>
               <p>${esc(p.why)}</p>
               ${p.cut ? `<p class="cut"><b>Suggested cut:</b> <span class="row-card" data-img="${esc(info[p.cut]?.img || imageFor(p.cut))}">${esc(p.cut)}</span>${p.cutWhy ? ` · ${esc(p.cutWhy)}` : ''}</p>` : ''}
               ${p.sources?.length ? `<p class="muted small">Sources: ${p.sources.map(src => `<a href="${esc(src.url)}" target="_blank" rel="noopener">${esc(src.label)}</a>`).join(' · ')}</p>` : ''}
@@ -235,6 +236,50 @@ async function viewSets() {
       <td>${s.researched ? '✓' : '<span class="muted">not yet</span>'}</td>
       <td><a href="https://edhrec.com/sets/${esc(s.code)}" target="_blank" rel="noopener">EDHREC</a></td></tr>`).join('')}
     </tbody></table>`;
+}
+
+const PRIORITY = { 1: 'Next to buy', 2: 'Soon', 3: 'Someday' };
+const prioKey = 'shopping-priority-v1';
+const getPrio = () => JSON.parse(localStorage.getItem(prioKey) || '{}');
+
+async function viewShopping() {
+  const decks = await listDecks();
+  const ups = await Promise.all(decks.map(d => json(`data/upgrades/${d.id}.json`)));
+  const items = [];
+  decks.forEach((d, i) => {
+    const st = getStatus(d.id);
+    for (const s of ups[i]?.sets || []) for (const p of s.picks || []) {
+      if (st[p.name] === 'want') items.push({ ...p, deck: d, set: s });
+    }
+  });
+  const info = await getCards(items.map(x => x.name));
+  const prio = getPrio();
+  const pk = x => `${x.deck.id}|${x.name}`;
+  items.sort((a, b) => (prio[pk(a)] || 2) - (prio[pk(b)] || 2) || a.deck.name.localeCompare(b.deck.name));
+  const total = items.reduce((s, x) => s + (parseFloat(info[x.name]?.price) || 0), 0);
+  const nextTotal = items.filter(x => (prio[pk(x)] || 2) === 1).reduce((s, x) => s + (parseFloat(info[x.name]?.price) || 0), 0);
+  const tcg = n => `https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=${encodeURIComponent(n)}`;
+  const ck = n => `https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=${encodeURIComponent(n)}`;
+  app.innerHTML = `<section class="hero"><h1>Shopping list</h1>
+    <p class="muted">Every upgrade you marked "Want it", across all decks. Set a priority to build your next-in-line list.</p></section>
+    ${items.length ? `<div class="totals"><div><b>${items.length}</b> cards</div>
+      <div>Next to buy: <b>$${nextTotal.toFixed(2)}</b></div><div>Everything: <b>$${total.toFixed(2)}</b></div>
+      <div class="muted small">Prices are Scryfall's TCGplayer market price, for reference.</div></div>
+    <table class="shop"><thead><tr><th></th><th>Card</th><th>For deck</th><th>Swap out</th><th>Price</th><th>Priority</th><th>Buy</th><th></th></tr></thead><tbody>
+    ${items.map(x => { const i = info[x.name]; return `<tr>
+      <td><span class="row-card thumb" data-img="${esc(i?.img || imageFor(x.name))}"><img src="${esc(i?.img || imageFor(x.name))}" alt=""></span></td>
+      <td><b>${esc(x.name)}</b><div class="muted small">${esc(x.set.name)}</div></td>
+      <td><a href="#/deck/${esc(x.deck.id)}/upgrades">${esc(x.deck.name)}</a></td>
+      <td>${x.cut ? esc(x.cut) : '<span class="muted">your call</span>'}</td>
+      <td>${i?.price ? '$' + esc(i.price) : '<span class="muted">?</span>'}</td>
+      <td><select data-k="${esc(pk(x))}" class="prio">${Object.entries(PRIORITY).map(([v, l]) => `<option value="${v}" ${(prio[pk(x)] || 2) == v ? 'selected' : ''}>${l}</option>`).join('')}</select></td>
+      <td class="small"><a href="${tcg(x.name)}" target="_blank" rel="noopener">TCGplayer</a> · <a href="${ck(x.name)}" target="_blank" rel="noopener">Card Kingdom</a></td>
+      <td><button class="bought" data-deck="${esc(x.deck.id)}" data-card="${esc(x.name)}">Got it</button></td></tr>`; }).join('')}
+    </tbody></table>` : '<p class="muted">Nothing here yet. Open a deck\'s Upgrades tab and press "Want it" on cards you like.</p>'}`;
+  app.querySelectorAll('.prio').forEach(sel => sel.onchange = () => {
+    const p = getPrio(); p[sel.dataset.k] = Number(sel.value); localStorage.setItem(prioKey, JSON.stringify(p)); viewShopping();
+  });
+  app.querySelectorAll('.bought').forEach(b => b.onclick = () => { setStatus(b.dataset.deck, b.dataset.card, 'added'); viewShopping(); });
 }
 
 function viewImport() {
@@ -273,6 +318,7 @@ async function route() {
     if (page === 'deck' && id) await viewDeck(decodeURIComponent(id), tab || 'deck');
     else if (page === 'sets') await viewSets();
     else if (page === 'import') viewImport();
+    else if (page === 'shopping') await viewShopping();
     else await viewLibrary();
   } catch (e) {
     console.error(e);
