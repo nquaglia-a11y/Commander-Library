@@ -1,12 +1,12 @@
 {
  "deck": "hashaton",
  "researchedAt": "2026-10-31",
- "method": "Set card search in Esper colors for discard, graveyard and copy effects, cross-checked with Hashaton's EDHREC page",
+ "method": "Each set searched for Esper discard, graveyard and copy cards, then checked against EDHREC's Hashaton page and its self-discard, reanimator and zombie themes, and recently updated Hashaton decks on Archidekt",
  "rules": [
   "Bracket 2-3",
   "No Game Changers"
  ],
- "summary": "Hashaton copies every creature card you discard as a 4/4 Zombie for {2}{U}, and the copy keeps the card's abilities. So the best new cards are cheap ways to discard (looting, connive, landcycling creatures) and big creatures whose abilities are great on a 4/4 body. First pass: Secrets of Strixhaven, Marvel Super Heroes, The Hobbit and Reality Fracture still have card search pages I couldn't read yet, so more ideas may come.",
+ "summary": "Hashaton copies every creature card you discard as a 4/4 Zombie for {2}{U}, and the copy keeps the card's abilities. So the best new cards are cheap ways to discard (looting, connive, landcycling creatures) and big creatures whose abilities are great on a 4/4 body. First pass: Secrets of Strixhaven, Marvel Super Heroes, The Hobbit and Reality Fracture still have card search pages I couldn't read yet, so more ideas may come. The green badge means 3 or more community sources include the card; \"Claude's pick\" means I found it in the set but no Hashaton list uses it yet, which is where the less obvious ideas are.",
  "sets": [
   {
    "code": "fra",
@@ -21,8 +21,14 @@
      "cutWhy": "another expensive defensive creature",
      "sources": [
       {
-       "label": "EDHREC Hashaton page",
-       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist"
+       "label": "EDHREC Hashaton",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton zombies",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/zombies",
+       "kind": "community"
       }
      ]
     },
@@ -34,14 +40,27 @@
      "cutWhy": "Liliana does more work every turn",
      "sources": [
       {
-       "label": "EDHREC Hashaton page",
-       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist"
+       "label": "EDHREC Hashaton",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist",
+       "kind": "community"
       },
       {
-       "label": "Card text",
-       "url": "https://mtgassist.com/cards/Reality-Fracture/Liliana-the-Faultless/"
+       "label": "EDHREC Hashaton self-discard",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/self-discard",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton reanimator",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/reanimator",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton zombies",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/zombies",
+       "kind": "community"
       }
-     ]
+     ],
+     "cardText": "https://mtgassist.com/cards/Reality-Fracture/Liliana-the-Faultless/"
     },
     {
      "name": "Arni, Humble Scribe",
@@ -49,10 +68,12 @@
      "why": "Three-mana looter with no activation cost: tap to draw then discard. It untaps whenever another nontoken creature enters, so a reanimation turn can loot several times.",
      "sources": [
       {
-       "label": "Card text",
-       "url": "https://mtgassist.com/cards/Reality-Fracture/Arni-Humble-Scribe/"
+       "label": "EDHREC Hashaton self-discard",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/self-discard",
+       "kind": "community"
       }
-     ]
+     ],
+     "cardText": "https://mtgassist.com/cards/Reality-Fracture/Arni-Humble-Scribe/"
     },
     {
      "name": "Divining Duelist",
@@ -60,10 +81,84 @@
      "why": "Flash 3/2 that can loot when it enters. Instant-speed discard lets you hold up Hashaton mana on opponents' turns.",
      "sources": [
       {
-       "label": "mtg.wtf search",
-       "url": "https://mtg.wtf/?q=(e%3Afra+or+e%3Afrc+or+e%3Ahob+or+e%3Ahoc)+ci%3Awub+(o%3Adiscard+or+o%3Agraveyard)"
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=(e%3Afra+or+e%3Afrc+or+e%3Ahob+or+e%3Ahoc)+ci%3Awub+(o%3Adiscard+or+o%3Agraveyard)",
+       "kind": "analysis"
       }
      ]
+    },
+    {
+     "name": "Turbulent Shore",
+     "tier": "strong",
+     "why": "Plains Island dual that enters untapped once opponents have eight lands. It has land types, so Stockman and Jennika's landcycling can find it, and it counts as an Island for Wonder. Shows up across every Hashaton list on EDHREC.",
+     "cut": "Terramorphic Expanse",
+     "cutWhy": "slower fixing",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton self-discard",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/self-discard",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton reanimator",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/reanimator",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton zombies",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/zombies",
+       "kind": "community"
+      }
+     ],
+     "cardText": "https://mtgassist.com/cards/Reality-Fracture/Turbulent-Shore/"
+    },
+    {
+     "name": "Turbulent Wetlands",
+     "tier": "strong",
+     "why": "The Island Swamp version of Turbulent Shore, with the same upsides.",
+     "cut": "Arcane Sanctum",
+     "cutWhy": "always enters tapped",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton self-discard",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/self-discard",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton reanimator",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/reanimator",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton zombies",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/zombies",
+       "kind": "community"
+      }
+     ],
+     "cardText": "https://mtgassist.com/cards/Reality-Fracture/Turbulent-Wetlands/"
+    },
+    {
+     "name": "Darksteel Angel",
+     "tier": "consider",
+     "why": "Nine mana, so it's discard fodder: Hashaton turns it into a 4/4 flying, indestructible Zombie that says you can't lose the game. Strong, but can feel oppressive at a Bracket 2 table.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton reanimator",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/reanimator",
+       "kind": "community"
+      }
+     ],
+     "cardText": "https://mtgassist.com/cards/Reality-Fracture/Darksteel-Angel/"
     }
    ],
    "skipped": [
@@ -90,14 +185,32 @@
      "cutWhy": "situational counterspell creature",
      "sources": [
       {
-       "label": "EDHREC Hashaton page",
-       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist"
+       "label": "EDHREC Hashaton",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist",
+       "kind": "community"
       },
       {
-       "label": "Card text",
-       "url": "https://mtgassist.com/cards/The-Hobbit/Bard-King-of-Dale/"
+       "label": "EDHREC Hashaton self-discard",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/self-discard",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton reanimator",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/reanimator",
+       "kind": "community"
+      },
+      {
+       "label": "Archidekt: Hashaton b3 (Oct 2026)",
+       "url": "https://archidekt.com/decks/27856148/202610_hashaton_b3_inet_copy",
+       "kind": "community"
+      },
+      {
+       "label": "Archidekt: Hash's Loot & Scoot",
+       "url": "https://archidekt.com/decks/20845798/hashs_loot_scoot",
+       "kind": "community"
       }
-     ]
+     ],
+     "cardText": "https://mtgassist.com/cards/The-Hobbit/Bard-King-of-Dale/"
     },
     {
      "name": "Captain of Umbar",
@@ -105,8 +218,9 @@
      "why": "Three-mana creature with {1}, tap: draw then discard. A steady discard outlet every turn.",
      "sources": [
       {
-       "label": "mtg.wtf search",
-       "url": "https://mtg.wtf/?q=(e%3Afra+or+e%3Afrc+or+e%3Ahob+or+e%3Ahoc)+ci%3Awub+(o%3Adiscard+or+o%3Agraveyard)"
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=(e%3Afra+or+e%3Afrc+or+e%3Ahob+or+e%3Ahoc)+ci%3Awub+(o%3Adiscard+or+o%3Agraveyard)",
+       "kind": "analysis"
       }
      ]
     },
@@ -118,8 +232,9 @@
      "cutWhy": "more flexible at the same job",
      "sources": [
       {
-       "label": "mtg.wtf search",
-       "url": "https://mtg.wtf/?q=(e%3Afra+or+e%3Afrc+or+e%3Ahob+or+e%3Ahoc)+ci%3Awub+(o%3Adiscard+or+o%3Agraveyard)"
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=(e%3Afra+or+e%3Afrc+or+e%3Ahob+or+e%3Ahoc)+ci%3Awub+(o%3Adiscard+or+o%3Agraveyard)",
+       "kind": "analysis"
       }
      ]
     },
@@ -129,8 +244,9 @@
      "why": "Enchantment that returns a creature card from your graveyard to hand when it enters, so you can discard it again for another Hashaton copy.",
      "sources": [
       {
-       "label": "mtg.wtf search",
-       "url": "https://mtg.wtf/?q=(e%3Afra+or+e%3Afrc+or+e%3Ahob+or+e%3Ahoc)+ci%3Awub+(o%3Adiscard+or+o%3Agraveyard)"
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=(e%3Afra+or+e%3Afrc+or+e%3Ahob+or+e%3Ahoc)+ci%3Awub+(o%3Adiscard+or+o%3Agraveyard)",
+       "kind": "analysis"
       }
      ]
     }
@@ -149,8 +265,9 @@
      "cutWhy": "weaker discard outlet",
      "sources": [
       {
-       "label": "mtg.wtf search",
-       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Amsh+or+e%3Amsc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acycling+or+o%3Amadness+or+o%3Acopy)"
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Amsh+or+e%3Amsc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acycling+or+o%3Amadness+or+o%3Acopy)",
+       "kind": "analysis"
       }
      ]
     },
@@ -162,8 +279,9 @@
      "cutWhy": "Newspaper ramps and discards",
      "sources": [
       {
-       "label": "mtg.wtf search",
-       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Amsh+or+e%3Amsc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acycling+or+o%3Amadness+or+o%3Acopy)"
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Amsh+or+e%3Amsc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acycling+or+o%3Amadness+or+o%3Acopy)",
+       "kind": "analysis"
       }
      ]
     },
@@ -173,8 +291,9 @@
      "why": "Returns a creature card with mana value 3 or less from your graveyard, to the battlefield if you gained life this turn (Liliana the Faultless and Gray Merchant help).",
      "sources": [
       {
-       "label": "mtg.wtf search",
-       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Amsh+or+e%3Amsc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acycling+or+o%3Amadness+or+o%3Acopy)"
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Amsh+or+e%3Amsc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acycling+or+o%3Amadness+or+o%3Acopy)",
+       "kind": "analysis"
       }
      ]
     }
@@ -192,12 +311,14 @@
      "why": "Mass reanimation: pay X life to return every artifact and creature card with mana value exactly X. Good when you've discarded several big creatures of the same cost.",
      "sources": [
       {
-       "label": "mtg.wtf search",
-       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Asos+or+e%3Asoc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acopy+or+o%3Acycling+or+o%3Amadness)"
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Asos+or+e%3Asoc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acopy+or+o%3Acycling+or+o%3Amadness)",
+       "kind": "analysis"
       },
       {
        "label": "EDHREC Secrets of Strixhaven",
-       "url": "https://edhrec.com/sets/sos"
+       "url": "https://edhrec.com/sets/sos",
+       "kind": "analysis"
       }
      ]
     }
@@ -223,8 +344,9 @@
      "cutWhy": "slow five-drop",
      "sources": [
       {
-       "label": "mtg.wtf search",
-       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Atmt+or+e%3Atmc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acycling+or+o%3Amadness+or+o%3Acopy)"
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Atmt+or+e%3Atmc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acycling+or+o%3Amadness+or+o%3Acopy)",
+       "kind": "analysis"
       }
      ]
     },
@@ -236,8 +358,9 @@
      "cutWhy": "Stockman fixes mana and feeds the commander",
      "sources": [
       {
-       "label": "mtg.wtf search",
-       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Atmt+or+e%3Atmc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acycling+or+o%3Amadness+or+o%3Acopy)"
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Atmt+or+e%3Atmc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acycling+or+o%3Amadness+or+o%3Acopy)",
+       "kind": "analysis"
       }
      ]
     },
@@ -247,8 +370,9 @@
      "why": "Swampcycling {2} creature with menace. Same idea as Stockman: a land early, a Hashaton trigger either way.",
      "sources": [
       {
-       "label": "mtg.wtf search",
-       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Atmt+or+e%3Atmc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acycling+or+o%3Amadness+or+o%3Acopy)"
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Atmt+or+e%3Atmc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acycling+or+o%3Amadness+or+o%3Acopy)",
+       "kind": "analysis"
       }
      ]
     },
@@ -258,8 +382,9 @@
      "why": "Plainscycling {2} creature that makes a 2/2 when it enters. Another landcycler for the white side.",
      "sources": [
       {
-       "label": "mtg.wtf search",
-       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Atmt+or+e%3Atmc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acycling+or+o%3Amadness+or+o%3Acopy)"
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Atmt+or+e%3Atmc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acycling+or+o%3Amadness+or+o%3Acopy)",
+       "kind": "analysis"
       }
      ]
     },
@@ -269,8 +394,9 @@
      "why": "Orzhov 3-drop: combat damage returns a creature card from your graveyard to hand, or to the battlefield if it was sneaked in.",
      "sources": [
       {
-       "label": "mtg.wtf search",
-       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Atmt+or+e%3Atmc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acycling+or+o%3Amadness+or+o%3Acopy)"
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Atmt+or+e%3Atmc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acycling+or+o%3Amadness+or+o%3Acopy)",
+       "kind": "analysis"
       }
      ]
     }
@@ -289,12 +415,29 @@
      "cutWhy": "low-impact populate",
      "sources": [
       {
-       "label": "EDHREC Hashaton page",
-       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist"
+       "label": "EDHREC Hashaton",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist",
+       "kind": "community"
       },
       {
-       "label": "mtg.wtf search",
-       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Aecl+or+e%3Aecc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acopy+or+o%3Acycling)"
+       "label": "EDHREC Hashaton reanimator",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/reanimator",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton zombies",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/zombies",
+       "kind": "community"
+      },
+      {
+       "label": "Archidekt: Hash's Loot & Scoot",
+       "url": "https://archidekt.com/decks/20845798/hashs_loot_scoot",
+       "kind": "community"
+      },
+      {
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Aecl+or+e%3Aecc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acopy+or+o%3Acycling)",
+       "kind": "analysis"
       }
      ]
     },
@@ -306,8 +449,9 @@
      "cutWhy": "slow and rarely activated",
      "sources": [
       {
-       "label": "mtg.wtf search",
-       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Aecl+or+e%3Aecc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acopy+or+o%3Acycling)"
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Aecl+or+e%3Aecc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acopy+or+o%3Acycling)",
+       "kind": "analysis"
       }
      ]
     },
@@ -317,8 +461,9 @@
      "why": "Two-mana creature with a free outlet: discard a card to give it indestructible. One of EDHREC's highest-lift cards for Hashaton. Overlaps with Trained Pronghorn, so pick one.",
      "sources": [
       {
-       "label": "EDHREC Hashaton page",
-       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist"
+       "label": "EDHREC Hashaton",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist",
+       "kind": "community"
       }
      ]
     },
@@ -328,8 +473,9 @@
      "why": "Whenever creatures enter from your graveyard, makes a token copy of one of them. Pairs with Living Death, Sun Titan and Sister Hospitaller.",
      "sources": [
       {
-       "label": "mtg.wtf search",
-       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Aecl+or+e%3Aecc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acopy+or+o%3Acycling)"
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Aecl+or+e%3Aecc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acopy+or+o%3Acycling)",
+       "kind": "analysis"
       }
      ]
     },
@@ -339,8 +485,9 @@
      "why": "Convoke instant: draw three, discard one. Your Zombie tokens can pay for it.",
      "sources": [
       {
-       "label": "mtg.wtf search",
-       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Aecl+or+e%3Aecc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acopy+or+o%3Acycling)"
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Aecl+or+e%3Aecc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acopy+or+o%3Acycling)",
+       "kind": "analysis"
       }
      ]
     }

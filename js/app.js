@@ -172,6 +172,12 @@ function renderDecklist(el, cards, info) {
   vw.onchange = () => { localStorage.setItem('view-mode', vw.value); renderDecklist(el, cards, info); };
 }
 
+const community = p => (p.sources || []).filter(x => x.kind !== 'analysis').length;
+const communityBadge = p => {
+  const n = community(p);
+  return n ? `<span class="tag ${n >= 3 ? 'good' : ''}" title="How many community sources include this card">In ${n} source${n > 1 ? 's' : ''}</span>`
+    : `<span class="tag" title="Found by searching the set; no Hashaton list uses it yet">Claude's pick</span>`;
+};
 const STATUS = { want: 'Want it', added: 'Got it / added', pass: 'Pass' };
 
 function renderUpgrades(el, deckId, upgrades, info, deck) {
@@ -192,7 +198,7 @@ function renderUpgrades(el, deckId, upgrades, info, deck) {
     </div>
     ${upgrades.summary ? `<div class="note">${esc(upgrades.summary)}</div>` : ''}
     ${upgrades.sets.map(s => {
-      const picks = [...(s.picks || [])].sort((a, b) => (a.tier === 'strong' ? 0 : 1) - (b.tier === 'strong' ? 0 : 1) || (b.sources?.length || 0) - (a.sources?.length || 0)).filter(p => filter === 'all' || (filter === 'open' ? !st[p.name] : st[p.name] === filter));
+      const picks = [...(s.picks || [])].sort((a, b) => (a.tier === 'strong' ? 0 : 1) - (b.tier === 'strong' ? 0 : 1) || community(b) - community(a)).filter(p => filter === 'all' || (filter === 'open' ? !st[p.name] : st[p.name] === filter));
       return `<section class="group set-group">
         <h2>${esc(s.name)} <span class="muted">${esc(s.code?.toUpperCase() || '')} · ${esc(s.released || '')}</span></h2>
         ${s.note ? `<p class="muted">${esc(s.note)}</p>` : ''}
@@ -204,9 +210,10 @@ function renderUpgrades(el, deckId, upgrades, info, deck) {
             <div class="upgrade-body">
               <div class="upgrade-title">${esc(p.name)} ${p.tier === 'strong' ? '<span class="tag hot">Strong fit</span>' : '<span class="tag">Worth a look</span>'}
                 ${i?.price ? `<span class="tag">$${esc(i.price)}</span>` : ''} ${owned ? '<span class="tag">already in deck</span>' : ''}
-                ${p.sources?.length ? `<span class="tag ${p.sources.length >= 3 ? 'good' : ''}" title="How many independent sources recommend it">${p.sources.length} source${p.sources.length > 1 ? 's' : ''}</span>` : ''}</div>
+                ${communityBadge(p)}</div>
               <p>${esc(p.why)}</p>
               ${p.cut ? `<p class="cut"><b>Suggested cut:</b> <span class="row-card" data-img="${esc(info[p.cut]?.img || imageFor(p.cut))}">${esc(p.cut)}</span>${p.cutWhy ? ` · ${esc(p.cutWhy)}` : ''}</p>` : ''}
+              ${p.cardText ? `<p class="muted small"><a href="${esc(p.cardText)}" target="_blank" rel="noopener">Card text</a></p>` : ''}
               ${p.sources?.length ? `<p class="muted small">Sources: ${p.sources.map(src => `<a href="${esc(src.url)}" target="_blank" rel="noopener">${esc(src.label)}</a>`).join(' · ')}</p>` : ''}
               <div class="status">${Object.entries(STATUS).map(([k, v]) => `<button data-card="${esc(p.name)}" data-s="${k}" class="${st[p.name] === k ? 'on' : ''}">${v}</button>`).join('')}</div>
             </div></div>`;
