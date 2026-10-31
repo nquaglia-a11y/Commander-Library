@@ -112,3 +112,11 @@ details { margin-top: 12px; color: var(--muted); }
 .modal-box h2 { margin: 0; }
 .modal-x { position: absolute; top: 10px; right: 12px; background: none; border: 0; color: var(--muted); font-size: 20px; cursor: pointer; }
 @media (max-width: 700px) { .modal-box { grid-template-columns: 1fr; } .modal-box img { width: 70%; margin: 0 auto; } .card-grid.big { grid-template-columns: repeat(2, 1fr); gap: 10px; } .card-grid { grid-template-columns: repeat(2, 1fr); } }
+
+details.set-group > summary { list-style: none; cursor: pointer; }
+details.set-group > summary::-webkit-details-marker { display: none; }
+details.set-group > summary h2::before { content: "▸"; display: inline-block; width: 1.1em; color: var(--muted); transition: transform .15s; }
+details.set-group[open] > summary h2::before { transform: rotate(90deg); }
+details.set-group > summary h2:hover { color: var(--accent); }
+.count-pill { background: var(--panel2); color: var(--muted); border-radius: 999px; padding: 0 9px; font-size: 13px; margin-left: 6px; vertical-align: middle; }
+.btn-lite { background: var(--panel2); color: var(--text); border: 1px solid #39405a; border-radius: 6px; padding: 5px 12px; cursor: pointer; font: inherit; }

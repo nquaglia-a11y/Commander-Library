@@ -9,6 +9,3067 @@
  "summary": "Hashaton copies every creature card you discard as a 4/4 Zombie for {2}{U}, and the copy keeps the card's abilities. So the best new cards are cheap ways to discard (looting, connive, landcycling creatures) and big creatures whose abilities are great on a 4/4 body. The green badge means 3 or more community sources include the card; \"Claude's pick\" means I found it in the set but no Hashaton list uses it yet, which is where the less obvious ideas are.",
  "sets": [
   {
+   "code": "edhrec",
+   "name": "EDHREC Recommendations",
+   "released": "All sets",
+   "kind": "edhrec",
+   "note": "Cards Hashaton players commonly run in Bracket 2 and 3 that aren't in your deck, from EDHREC's bracket pages and average decks. Game Changers removed (Consecrated Sphinx, Smothering Tithe, Rhystic Study, Fierce Guardianship, Cyclonic Rift, Teferi's Protection, Demonic Tutor, Farewell). Sorted by how often they're played.",
+   "picks": [
+    {
+     "name": "Talisman of Dominance",
+     "tier": "strong",
+     "why": "Played in 65% of Bracket 2 Hashaton decks, 70% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 65,
+      "b3": 70,
+      "avg": "11"
+     },
+     "group": "Mana rock"
+    },
+    {
+     "name": "Exotic Orchard",
+     "tier": "strong",
+     "why": "Played in 67% of Bracket 2 Hashaton decks, 68% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 67,
+      "b3": 68,
+      "avg": "11"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Talisman of Hierarchy",
+     "tier": "strong",
+     "why": "Played in 59% of Bracket 2 Hashaton decks, 62% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 59,
+      "b3": 62,
+      "avg": "11"
+     },
+     "group": "Mana rock"
+    },
+    {
+     "name": "Caves of Koilos",
+     "tier": "strong",
+     "why": "Played in 59% of Bracket 2 Hashaton decks, 61% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 59,
+      "b3": 61,
+      "avg": "11"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Watery Grave",
+     "tier": "strong",
+     "why": "Played in 39% of Bracket 2 Hashaton decks, 61% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 39,
+      "b3": 61,
+      "avg": "11"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Underground River",
+     "tier": "strong",
+     "why": "Played in 57% of Bracket 2 Hashaton decks, 60% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 57,
+      "b3": 60,
+      "avg": "11"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Godless Shrine",
+     "tier": "strong",
+     "why": "Played in 39% of Bracket 2 Hashaton decks, 60% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 39,
+      "b3": 60,
+      "avg": "11"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Sunken Hollow",
+     "tier": "strong",
+     "why": "Played in 59% of Bracket 2 Hashaton decks, 48% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 59,
+      "b3": 48,
+      "avg": "11"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Hallowed Fountain",
+     "tier": "strong",
+     "why": "Played in 38% of Bracket 2 Hashaton decks, 59% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 38,
+      "b3": 59,
+      "avg": "11"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Adarkar Wastes",
+     "tier": "strong",
+     "why": "Played in 57% of Bracket 2 Hashaton decks, 58% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 57,
+      "b3": 58,
+      "avg": "11"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Prairie Stream",
+     "tier": "strong",
+     "why": "Played in 56% of Bracket 2 Hashaton decks, 46% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 56,
+      "b3": 46,
+      "avg": "11"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Cryptbreaker",
+     "tier": "strong",
+     "why": "Played in 52% of Bracket 2 Hashaton decks, 34% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 52,
+      "b3": 34,
+      "avg": "11"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Rona, Herald of Invasion",
+     "tier": "strong",
+     "why": "Played in 41% of Bracket 2 Hashaton decks, 51% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 41,
+      "b3": 51,
+      "avg": "11"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Archon of Cruelty",
+     "tier": "strong",
+     "why": "Played in 29% of Bracket 2 Hashaton decks, 50% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 29,
+      "b3": 50,
+      "avg": "11"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Damn",
+     "tier": "strong",
+     "why": "Played in 50% of Bracket 2 Hashaton decks, 44% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 50,
+      "b3": 44,
+      "avg": "11"
+     },
+     "group": "Sorcery"
+    },
+    {
+     "name": "The Scarab God",
+     "tier": "strong",
+     "why": "Played in 49% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": null,
+      "b3": 49,
+      "avg": "11"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Psychic Frog",
+     "tier": "strong",
+     "why": "Played in 48% of Bracket 2 Hashaton decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 48,
+      "b3": null,
+      "avg": "11"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Raffine's Tower",
+     "tier": "strong",
+     "why": "Played in 35% of Bracket 2 Hashaton decks, 47% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 35,
+      "b3": 47,
+      "avg": "11"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Talisman of Progress",
+     "tier": "strong",
+     "why": "Played in 38% of Bracket 2 Hashaton decks, 46% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 38,
+      "b3": 46,
+      "avg": "11"
+     },
+     "group": "Mana rock"
+    },
+    {
+     "name": "Temmet, Naktamun's Will",
+     "tier": "strong",
+     "why": "Played in 45% of Bracket 2 Hashaton decks, 31% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 45,
+      "b3": 31,
+      "avg": "11"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Ledger Shredder",
+     "tier": "strong",
+     "why": "Played in 29% of Bracket 2 Hashaton decks, 45% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 29,
+      "b3": 45,
+      "avg": "11"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Animate Dead",
+     "tier": "strong",
+     "why": "Played in 28% of Bracket 2 Hashaton decks, 45% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 28,
+      "b3": 45,
+      "avg": "11"
+     },
+     "group": "Enchantment"
+    },
+    {
+     "name": "An Offer You Can't Refuse",
+     "tier": "strong",
+     "why": "Played in 24% of Bracket 2 Hashaton decks, 43% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 24,
+      "b3": 43,
+      "avg": "11"
+     },
+     "group": "Instant"
+    },
+    {
+     "name": "Victimize",
+     "tier": "strong",
+     "why": "Played in 36% of Bracket 2 Hashaton decks, 43% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 36,
+      "b3": 43,
+      "avg": "11"
+     },
+     "group": "Sorcery"
+    },
+    {
+     "name": "Kitsa, Otterball Elite",
+     "tier": "strong",
+     "why": "Played in 27% of Bracket 2 Hashaton decks, 42% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 27,
+      "b3": 42,
+      "avg": "11"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "On Wings of Gold",
+     "tier": "strong",
+     "why": "Played in 42% of Bracket 2 Hashaton decks, 26% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 42,
+      "b3": 26,
+      "avg": "11"
+     },
+     "group": "Enchantment"
+    },
+    {
+     "name": "Vohar, Vodalian Desecrator",
+     "tier": "strong",
+     "why": "Played in 34% of Bracket 2 Hashaton decks, 41% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 34,
+      "b3": 41,
+      "avg": "11"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Reanimate",
+     "tier": "strong",
+     "why": "Played in 39% of Bracket 2 Hashaton decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 39,
+      "b3": null,
+      "avg": "11"
+     },
+     "group": "Sorcery"
+    },
+    {
+     "name": "Fellwar Stone",
+     "tier": "strong",
+     "why": "Played in 30% of Bracket 2 Hashaton decks, 38% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 30,
+      "b3": 38,
+      "avg": "11"
+     },
+     "group": "Mana rock"
+    },
+    {
+     "name": "Massacre Wurm",
+     "tier": "strong",
+     "why": "Played in 25% of Bracket 2 Hashaton decks, 37% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 25,
+      "b3": 37,
+      "avg": "11"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Despark",
+     "tier": "strong",
+     "why": "Played in 36% of Bracket 2 Hashaton decks, 25% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 36,
+      "b3": 25,
+      "avg": "11"
+     },
+     "group": "Instant"
+    },
+    {
+     "name": "Polluted Delta",
+     "tier": "strong",
+     "why": "Played in 26% of Bracket 2 Hashaton decks, 49% of Bracket 3 decks, in the Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 26,
+      "b3": 49,
+      "avg": "01"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Raffine, Scheming Seer",
+     "tier": "strong",
+     "why": "Played in 27% of Bracket 2 Hashaton decks, 33% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 27,
+      "b3": 33,
+      "avg": "11"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Bitter Triumph",
+     "tier": "strong",
+     "why": "Played in 32% of Bracket 2 Hashaton decks, 33% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 32,
+      "b3": 33,
+      "avg": "11"
+     },
+     "group": "Instant"
+    },
+    {
+     "name": "Flooded Strand",
+     "tier": "strong",
+     "why": "Played in 26% of Bracket 2 Hashaton decks, 48% of Bracket 3 decks, in the Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 26,
+      "b3": 48,
+      "avg": "01"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Oversold Cemetery",
+     "tier": "strong",
+     "why": "Played in 30% of Bracket 2 Hashaton decks, 28% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 30,
+      "b3": 28,
+      "avg": "11"
+     },
+     "group": "Enchantment"
+    },
+    {
+     "name": "Malcolm, Alluring Scoundrel",
+     "tier": "strong",
+     "why": "Played in 28% of Bracket 2 Hashaton decks, 28% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 28,
+      "b3": 28,
+      "avg": "11"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Bone Miser",
+     "tier": "strong",
+     "why": "Played in 25% of Bracket 2 Hashaton decks, 28% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 25,
+      "b3": 28,
+      "avg": "11"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Windfall",
+     "tier": "strong",
+     "why": "Played in 22% of Bracket 2 Hashaton decks, 27% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 22,
+      "b3": 27,
+      "avg": "11"
+     },
+     "group": "Sorcery"
+    },
+    {
+     "name": "Marsh Flats",
+     "tier": "strong",
+     "why": "Played in 24% of Bracket 2 Hashaton decks, 42% of Bracket 3 decks, in the Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 24,
+      "b3": 42,
+      "avg": "01"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Lost Monarch of Ifnir",
+     "tier": "strong",
+     "why": "Played in 41% of Bracket 2 Hashaton decks, 25% of Bracket 3 decks, in the Bracket 2 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 41,
+      "b3": 25,
+      "avg": "10"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Faithful Mending",
+     "tier": "strong",
+     "why": "Played in 23% of Bracket 2 Hashaton decks, 26% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 23,
+      "b3": 26,
+      "avg": "11"
+     },
+     "group": "Instant"
+    },
+    {
+     "name": "Nezahal, Primal Tide",
+     "tier": "strong",
+     "why": "Played in 23% of Bracket 2 Hashaton decks, 40% of Bracket 3 decks, in the Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 23,
+      "b3": 40,
+      "avg": "01"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Esper Sentinel",
+     "tier": "consider",
+     "why": "Played in 17% of Bracket 2 Hashaton decks, 38% of Bracket 3 decks, in the Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 17,
+      "b3": 38,
+      "avg": "01"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Elesh Norn, Grand Cenobite",
+     "tier": "consider",
+     "why": "Played in 16% of Bracket 2 Hashaton decks, 38% of Bracket 3 decks, in the Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 16,
+      "b3": 38,
+      "avg": "01"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Unholy Grotto",
+     "tier": "consider",
+     "why": "Played in 38% of Bracket 2 Hashaton decks, 25% of Bracket 3 decks, in the Bracket 2 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 38,
+      "b3": 25,
+      "avg": "10"
+     },
+     "group": "Utility"
+    },
+    {
+     "name": "Vault of Champions",
+     "tier": "consider",
+     "why": "Played in 25% of Bracket 2 Hashaton decks, 38% of Bracket 3 decks, in the Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 25,
+      "b3": 38,
+      "avg": "01"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Morphic Pool",
+     "tier": "consider",
+     "why": "Played in 25% of Bracket 2 Hashaton decks, 38% of Bracket 3 decks, in the Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 25,
+      "b3": 38,
+      "avg": "01"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Sea of Clouds",
+     "tier": "consider",
+     "why": "Played in 25% of Bracket 2 Hashaton decks, 38% of Bracket 3 decks, in the Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 25,
+      "b3": 38,
+      "avg": "01"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Metamorphosis Fanatic",
+     "tier": "consider",
+     "why": "Played in 22% of Bracket 2 Hashaton decks, 36% of Bracket 3 decks, in the Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 22,
+      "b3": 36,
+      "avg": "01"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Sheoldred, Whispering One",
+     "tier": "consider",
+     "why": "Played in 19% of Bracket 2 Hashaton decks, 36% of Bracket 3 decks, in the Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 19,
+      "b3": 36,
+      "avg": "01"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Fetid Pools",
+     "tier": "consider",
+     "why": "Played in 36% of Bracket 2 Hashaton decks, 22% of Bracket 3 decks, in the Bracket 2 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 36,
+      "b3": 22,
+      "avg": "10"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Zombie Master",
+     "tier": "consider",
+     "why": "Played in 35% of Bracket 2 Hashaton decks, 22% of Bracket 3 decks, in the Bracket 2 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 35,
+      "b3": 22,
+      "avg": "10"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Irrigated Farmland",
+     "tier": "consider",
+     "why": "Played in 33% of Bracket 2 Hashaton decks, 20% of Bracket 3 decks, in the Bracket 2 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 33,
+      "b3": 20,
+      "avg": "10"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Avacyn, Angel of Hope",
+     "tier": "consider",
+     "why": "Played in 33% of Bracket 3 decks, in the Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": null,
+      "b3": 33,
+      "avg": "01"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Peregrine Drake",
+     "tier": "consider",
+     "why": "Played in 23% of Bracket 2 Hashaton decks, 32% of Bracket 3 decks, in the Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 23,
+      "b3": 32,
+      "avg": "01"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Temple of Deceit",
+     "tier": "consider",
+     "why": "Played in 32% of Bracket 2 Hashaton decks, 20% of Bracket 3 decks, in the Bracket 2 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 32,
+      "b3": 20,
+      "avg": "10"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Champion of Wits",
+     "tier": "consider",
+     "why": "Played in 31% of Bracket 2 Hashaton decks, 20% of Bracket 3 decks, in the Bracket 2 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 31,
+      "b3": 20,
+      "avg": "10"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Wayward Servant",
+     "tier": "consider",
+     "why": "Played in 30% of Bracket 2 Hashaton decks, in the Bracket 2 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 30,
+      "b3": null,
+      "avg": "10"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Valgavoth, Terror Eater",
+     "tier": "consider",
+     "why": "Played in 16% of Bracket 2 Hashaton decks, 30% of Bracket 3 decks, in the Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 16,
+      "b3": 30,
+      "avg": "01"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Jin-Gitaxias, Core Augur",
+     "tier": "consider",
+     "why": "Played in 29% of Bracket 3 decks, in the Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": null,
+      "b3": 29,
+      "avg": "01"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Dark Ritual",
+     "tier": "consider",
+     "why": "Played in 15% of Bracket 2 Hashaton decks, 28% of Bracket 3 decks, in the Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 15,
+      "b3": 28,
+      "avg": "01"
+     },
+     "group": "Instant"
+    },
+    {
+     "name": "Careful Study",
+     "tier": "consider",
+     "why": "Played in 19% of Bracket 2 Hashaton decks, 28% of Bracket 3 decks, in the Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 19,
+      "b3": 28,
+      "avg": "01"
+     },
+     "group": "Sorcery"
+    },
+    {
+     "name": "Eternal Skylord",
+     "tier": "consider",
+     "why": "Played in 27% of Bracket 2 Hashaton decks, in the Bracket 2 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 27,
+      "b3": null,
+      "avg": "10"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Lord of the Accursed",
+     "tier": "consider",
+     "why": "Played in 27% of Bracket 2 Hashaton decks, in the Bracket 2 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 27,
+      "b3": null,
+      "avg": "10"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Forgotten Creation",
+     "tier": "consider",
+     "why": "Played in 26% of Bracket 2 Hashaton decks, in the Bracket 2 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 26,
+      "b3": null,
+      "avg": "10"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "God-Eternal Oketra",
+     "tier": "consider",
+     "why": "Played in 26% of Bracket 2 Hashaton decks, in the Bracket 2 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 26,
+      "b3": null,
+      "avg": "10"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Rot Hulk",
+     "tier": "consider",
+     "why": "Played in 25% of Bracket 2 Hashaton decks, in the Bracket 2 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 25,
+      "b3": null,
+      "avg": "10"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Swan Song",
+     "tier": "consider",
+     "why": "Played in 11% of Bracket 2 Hashaton decks, 25% of Bracket 3 decks, in the Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 11,
+      "b3": 25,
+      "avg": "01"
+     },
+     "group": "Instant"
+    },
+    {
+     "name": "Bone Shards",
+     "tier": "consider",
+     "why": "Played in 20% of Bracket 2 Hashaton decks, in the Bracket 2 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 20,
+      "b3": null,
+      "avg": "10"
+     },
+     "group": "Sorcery"
+    },
+    {
+     "name": "Liliana, Death's Majesty",
+     "tier": "consider",
+     "why": "Played in 20% of Bracket 2 Hashaton decks, 10% of Bracket 3 decks, in the Bracket 2 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 20,
+      "b3": 10,
+      "avg": "10"
+     },
+     "group": "Planeswalker"
+    },
+    {
+     "name": "Temple of Silence",
+     "tier": "consider",
+     "why": "Played in 32% of Bracket 2 Hashaton decks, 20% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 32,
+      "b3": 20,
+      "avg": "00"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Shipwreck Marsh",
+     "tier": "consider",
+     "why": "Played in 24% of Bracket 2 Hashaton decks, 31% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 24,
+      "b3": 31,
+      "avg": "00"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Archfiend of Ifnir",
+     "tier": "strong",
+     "why": "Played in in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": null,
+      "b3": null,
+      "avg": "11"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Tortured Existence",
+     "tier": "strong",
+     "why": "Played in in the Bracket 2 and Bracket 3 average deck.",
+     "sources": [
+      {
+       "label": "EDHREC average deck, Bracket 2",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC average deck, Bracket 3",
+       "url": "https://edhrec.com/average-decks/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": null,
+      "b3": null,
+      "avg": "11"
+     },
+     "group": "Enchantment"
+    },
+    {
+     "name": "Geier Reach Sanitarium",
+     "tier": "consider",
+     "why": "Played in 26% of Bracket 2 Hashaton decks, 29% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 26,
+      "b3": 29,
+      "avg": "00"
+     },
+     "group": "Utility"
+    },
+    {
+     "name": "Deserted Beach",
+     "tier": "consider",
+     "why": "Played in 23% of Bracket 2 Hashaton decks, 27% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 23,
+      "b3": 27,
+      "avg": "00"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Sphinx of the Second Sun",
+     "tier": "consider",
+     "why": "Played in 19% of Bracket 2 Hashaton decks, 26% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 19,
+      "b3": 26,
+      "avg": "00"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Hullbreaker Horror",
+     "tier": "consider",
+     "why": "Played in 15% of Bracket 2 Hashaton decks, 26% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 15,
+      "b3": 26,
+      "avg": "00"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Corpse Knight",
+     "tier": "consider",
+     "why": "Played in 25% of Bracket 2 Hashaton decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 25,
+      "b3": null,
+      "avg": "00"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Rune-Scarred Demon",
+     "tier": "consider",
+     "why": "Played in 15% of Bracket 2 Hashaton decks, 25% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 15,
+      "b3": 25,
+      "avg": "00"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Matzalantli, the Great Door",
+     "tier": "consider",
+     "why": "Played in 22% of Bracket 2 Hashaton decks, 25% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 22,
+      "b3": 25,
+      "avg": "00"
+     },
+     "group": "Utility"
+    },
+    {
+     "name": "Witch Enchanter",
+     "tier": "consider",
+     "why": "Played in 15% of Bracket 2 Hashaton decks, 25% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 15,
+      "b3": 25,
+      "avg": "00"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Undead Augur",
+     "tier": "consider",
+     "why": "Played in 24% of Bracket 2 Hashaton decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 24,
+      "b3": null,
+      "avg": "00"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Toxic Deluge",
+     "tier": "consider",
+     "why": "Played in 15% of Bracket 2 Hashaton decks, 24% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 15,
+      "b3": 24,
+      "avg": "00"
+     },
+     "group": "Sorcery"
+    },
+    {
+     "name": "Lightning Greaves",
+     "tier": "consider",
+     "why": "Played in 18% of Bracket 2 Hashaton decks, 24% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 18,
+      "b3": 24,
+      "avg": "00"
+     },
+     "group": "Utility"
+    },
+    {
+     "name": "Ash Barrens",
+     "tier": "consider",
+     "why": "Played in 24% of Bracket 2 Hashaton decks, 13% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 24,
+      "b3": 13,
+      "avg": "00"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Shattered Sanctum",
+     "tier": "consider",
+     "why": "Played in 20% of Bracket 2 Hashaton decks, 24% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 20,
+      "b3": 24,
+      "avg": "00"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Gloomlake Verge",
+     "tier": "consider",
+     "why": "Played in 16% of Bracket 2 Hashaton decks, 24% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 16,
+      "b3": 24,
+      "avg": "00"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Sire of Stagnation",
+     "tier": "consider",
+     "why": "Played in 24% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": null,
+      "b3": 24,
+      "avg": "00"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Lazotep Chancellor",
+     "tier": "consider",
+     "why": "Played in 23% of Bracket 2 Hashaton decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 23,
+      "b3": null,
+      "avg": "00"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Varina, Lich Queen",
+     "tier": "consider",
+     "why": "Played in 23% of Bracket 2 Hashaton decks, 17% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 23,
+      "b3": 17,
+      "avg": "00"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Undercity Sewers",
+     "tier": "consider",
+     "why": "Played in 16% of Bracket 2 Hashaton decks, 23% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 16,
+      "b3": 23,
+      "avg": "00"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Ojer Taq, Deepest Foundation",
+     "tier": "consider",
+     "why": "Played in 23% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": null,
+      "b3": 23,
+      "avg": "00"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Lotho, Corrupt Shirriff",
+     "tier": "consider",
+     "why": "Played in 23% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": null,
+      "b3": 23,
+      "avg": "00"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Arcane Denial",
+     "tier": "consider",
+     "why": "Played in 16% of Bracket 2 Hashaton decks, 22% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 16,
+      "b3": 22,
+      "avg": "00"
+     },
+     "group": "Instant"
+    },
+    {
+     "name": "Sink into Stupor",
+     "tier": "consider",
+     "why": "Played in 12% of Bracket 2 Hashaton decks, 22% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 12,
+      "b3": 22,
+      "avg": "00"
+     },
+     "group": "Instant"
+    },
+    {
+     "name": "Otawara, Soaring City",
+     "tier": "consider",
+     "why": "Played in 12% of Bracket 2 Hashaton decks, 22% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 12,
+      "b3": 22,
+      "avg": "00"
+     },
+     "group": "Utility"
+    },
+    {
+     "name": "Meticulous Archive",
+     "tier": "consider",
+     "why": "Played in 14% of Bracket 2 Hashaton decks, 22% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 14,
+      "b3": 22,
+      "avg": "00"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Gravecrawler",
+     "tier": "consider",
+     "why": "Played in 21% of Bracket 2 Hashaton decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 21,
+      "b3": null,
+      "avg": "00"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Obsessive Stitcher",
+     "tier": "consider",
+     "why": "Played in 21% of Bracket 2 Hashaton decks, 20% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 21,
+      "b3": 20,
+      "avg": "00"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Cemetery Reaper",
+     "tier": "consider",
+     "why": "Played in 21% of Bracket 2 Hashaton decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 21,
+      "b3": null,
+      "avg": "00"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Dovin's Veto",
+     "tier": "consider",
+     "why": "Played in 14% of Bracket 2 Hashaton decks, 21% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 14,
+      "b3": 21,
+      "avg": "00"
+     },
+     "group": "Instant"
+    },
+    {
+     "name": "Cryptcaller Chariot",
+     "tier": "consider",
+     "why": "Played in 21% of Bracket 2 Hashaton decks, 13% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 21,
+      "b3": 13,
+      "avg": "00"
+     },
+     "group": "Utility"
+    },
+    {
+     "name": "Commander's Sphere",
+     "tier": "consider",
+     "why": "Played in 21% of Bracket 2 Hashaton decks, 10% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 21,
+      "b3": 10,
+      "avg": "00"
+     },
+     "group": "Mana rock"
+    },
+    {
+     "name": "Shadowy Backstreet",
+     "tier": "consider",
+     "why": "Played in 16% of Bracket 2 Hashaton decks, 21% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 16,
+      "b3": 21,
+      "avg": "00"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Bleachbone Verge",
+     "tier": "consider",
+     "why": "Played in 15% of Bracket 2 Hashaton decks, 21% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 15,
+      "b3": 21,
+      "avg": "00"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Floodfarm Verge",
+     "tier": "consider",
+     "why": "Played in 14% of Bracket 2 Hashaton decks, 21% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 14,
+      "b3": 21,
+      "avg": "00"
+     },
+     "group": "Land"
+    },
+    {
+     "name": "Pull from Tomorrow",
+     "tier": "consider",
+     "why": "Played in 20% of Bracket 2 Hashaton decks, 12% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 20,
+      "b3": 12,
+      "avg": "00"
+     },
+     "group": "Instant"
+    },
+    {
+     "name": "Anguished Unmaking",
+     "tier": "consider",
+     "why": "Played in 19% of Bracket 2 Hashaton decks, 20% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 19,
+      "b3": 20,
+      "avg": "00"
+     },
+     "group": "Instant"
+    },
+    {
+     "name": "Deadly Rollick",
+     "tier": "consider",
+     "why": "Played in 7% of Bracket 2 Hashaton decks, 20% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 2",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/core",
+       "kind": "community"
+      },
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": 7,
+      "b3": 20,
+      "avg": "00"
+     },
+     "group": "Instant"
+    },
+    {
+     "name": "Riptide Gearhulk",
+     "tier": "consider",
+     "why": "Played in 20% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": null,
+      "b3": 20,
+      "avg": "00"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Mondrak, Glory Dominus",
+     "tier": "consider",
+     "why": "Played in 20% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": null,
+      "b3": 20,
+      "avg": "00"
+     },
+     "group": "Creature"
+    },
+    {
+     "name": "Toxrill, the Corrosive",
+     "tier": "consider",
+     "why": "Played in 20% of Bracket 3 decks.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton, Bracket 3",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/upgraded",
+       "kind": "community"
+      }
+     ],
+     "edhrec": {
+      "b2": null,
+      "b3": 20,
+      "avg": "00"
+     },
+     "group": "Creature"
+    }
+   ]
+  },
+  {
    "code": "fra",
    "name": "Reality Fracture",
    "released": "2026-10-02",

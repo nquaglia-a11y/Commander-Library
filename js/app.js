@@ -208,11 +208,15 @@ function renderUpgrades(el, deckId, upgrades, info, deck) {
     return;
   }
   const inDeck = new Set(deck.cards.filter(c => c.board !== 'maybe').map(c => c.name));
+  const inMaybe = new Set(deck.cards.filter(c => c.board === 'maybe').map(c => c.name));
+  const openKey = `open-sets-${deckId}`;
+  const openSets = JSON.parse(localStorage.getItem(openKey) || '{}');
   const filter = localStorage.getItem('upgrade-filter') || 'open';
   const st = getStatus(deckId);
   el.innerHTML = `
     <div class="toolbar">
       <span class="muted">Researched ${esc(upgrades.researchedAt)} · tap a card for the reason and suggested cut</span>
+      <button id="expand-all" class="btn-lite">Open / close all</button>
       <label>Show <select id="flt">
         <option value="open">Not decided yet</option><option value="want">Want it</option>
         <option value="added">Added</option><option value="pass">Passed</option><option value="all">Everything</option>
@@ -220,9 +224,11 @@ function renderUpgrades(el, deckId, upgrades, info, deck) {
     </div>
     ${upgrades.summary ? `<details class="note"><summary>How these were picked</summary><p>${esc(upgrades.summary)}</p><p class="muted small">${esc(upgrades.method || '')}</p></details>` : ''}
     ${upgrades.sets.map(s => {
-      const picks = [...(s.picks || [])].sort((a, b) => (a.tier === 'strong' ? 0 : 1) - (b.tier === 'strong' ? 0 : 1) || community(b) - community(a)).filter(p => filter === 'all' || (filter === 'open' ? !st[p.name] : st[p.name] === filter));
-      return `<section class="group set-group">
-        <h2>${esc(s.name)} <span class="muted">${esc(s.code?.toUpperCase() || '')} · ${esc(s.released || '')}</span></h2>
+      const pct = p => Math.max(p.edhrec?.b2 || 0, p.edhrec?.b3 || 0) + (p.edhrec?.avg || '').split('1').length * 5;
+      const picks = [...(s.picks || [])].sort(s.kind === 'edhrec' ? (a, b) => pct(b) - pct(a) : (a, b) => (a.tier === 'strong' ? 0 : 1) - (b.tier === 'strong' ? 0 : 1) || community(b) - community(a)).filter(p => filter === 'all' || (filter === 'open' ? !st[p.name] : st[p.name] === filter));
+      const isOpen = openSets[s.code] ?? false;
+      return `<details class="group set-group" data-code="${esc(s.code)}" ${isOpen ? 'open' : ''}>
+        <summary><h2>${esc(s.name)} <span class="muted">${s.kind === 'edhrec' ? 'Bracket 2-3 staples' : esc(s.code?.toUpperCase() || '') + ' · ' + esc(s.released || '')}</span> <span class="count-pill">${picks.length}</span></h2></summary>
         ${s.note ? `<p class="muted">${esc(s.note)}</p>` : ''}
         ${picks.length ? `<div class="card-grid big">${picks.map(p => {
           const i = info[p.name];
@@ -231,15 +237,20 @@ function renderUpgrades(el, deckId, upgrades, info, deck) {
           return `<div class="pick ${st[p.name] ? 'decided-' + st[p.name] : ''}">
             <button class="pick-img" data-detail="${esc(p.name)}" title="Show why"><img loading="lazy" src="${esc(img)}" alt="${esc(p.name)}"></button>
             <div class="pick-tags">${p.tier === 'strong' ? '<span class="tag hot">Strong</span>' : '<span class="tag">Maybe</span>'}
-              ${communityBadge(p)} ${i?.price ? `<span class="tag">$${esc(i.price)}</span>` : ''} ${owned ? '<span class="tag">in deck</span>' : ''}</div>
+              ${p.edhrec ? `<span class="tag good" title="Share of Bracket 2 / Bracket 3 Hashaton decks on EDHREC">${[p.edhrec.b2 != null ? 'B2 ' + p.edhrec.b2 + '%' : '', p.edhrec.b3 != null ? 'B3 ' + p.edhrec.b3 + '%' : ''].filter(Boolean).join(' · ') || 'Average deck'}</span>` : communityBadge(p)} ${i?.price ? `<span class="tag">$${esc(i.price)}</span>` : ''} ${owned ? '<span class="tag">in deck</span>' : ''} ${inMaybe.has(p.name) ? '<span class="tag">in maybeboard</span>' : ''}</div>
             <div class="status compact">${Object.entries(STATUS_SHORT).map(([k, v]) => `<button data-card="${esc(p.name)}" data-s="${k}" class="${st[p.name] === k ? 'on' : ''}" title="${esc(STATUS[k])}">${v}</button>`).join('')}</div>
           </div>`;
         }).join('')}</div>` : '<p class="muted">Nothing in this view for this set.</p>'}
         ${s.skipped?.length && filter === 'all' ? `<details><summary>Considered but skipped (${s.skipped.length})</summary><ul>${s.skipped.map(k => `<li><b>${esc(k.name)}</b>: ${esc(k.reason)}</li>`).join('')}</ul></details>` : ''}
-      </section>`;
+      </details>`;
     }).join('')}`;
   const byName = Object.fromEntries(upgrades.sets.flatMap(s => (s.picks || []).map(p => [p.name, { ...p, set: s.name }])));
   el.querySelectorAll('.pick-img').forEach(b => b.onclick = () => showDetail(byName[b.dataset.detail], info));
+  el.querySelectorAll('details.set-group').forEach(dt => dt.addEventListener('toggle', () => {
+    const o = JSON.parse(localStorage.getItem(openKey) || '{}'); o[dt.dataset.code] = dt.open; localStorage.setItem(openKey, JSON.stringify(o));
+  }));
+  const expand = el.querySelector('#expand-all');
+  if (expand) expand.onclick = () => { const all = [...el.querySelectorAll('details.set-group')]; const open = !all.every(d => d.open); all.forEach(d => { d.open = open; }); };
   const flt = el.querySelector('#flt'); flt.value = filter;
   flt.onchange = () => { localStorage.setItem('upgrade-filter', flt.value); renderUpgrades(el, deckId, upgrades, info, deck); };
   el.querySelectorAll('.status button').forEach(b => b.onclick = () => {
