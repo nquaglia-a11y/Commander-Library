@@ -1,7 +1,7 @@
 {
  "deck": "hashaton",
  "researchedAt": "2026-10-31",
- "method": "Each set searched for Esper discard, graveyard and copy cards, then checked against EDHREC's Hashaton page and its self-discard, reanimator and zombie themes, and recently updated Hashaton decks on Archidekt",
+ "method": "Each set searched for Esper discard, graveyard and copy cards, then checked against EDHREC (main page and self-discard, reanimator and zombie themes), the most-viewed Bracket 3 Hashaton decks on Archidekt, and the most-liked and 23 most recently updated Bracket 2-3 Hashaton decks on Moxfield",
  "rules": [
   "Bracket 2-3",
   "No Game Changers"
@@ -28,6 +28,11 @@
       {
        "label": "EDHREC Hashaton zombies",
        "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/zombies",
+       "kind": "community"
+      },
+      {
+       "label": "Moxfield: 1 of 23 recent Bracket 2-3 Hashaton lists",
+       "url": "https://moxfield.com/decks/public?q=hashaton",
        "kind": "community"
       }
      ]
@@ -57,6 +62,11 @@
       {
        "label": "EDHREC Hashaton zombies",
        "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/zombies",
+       "kind": "community"
+      },
+      {
+       "label": "Moxfield: 2 of 23 recent Bracket 2-3 Hashaton lists",
+       "url": "https://moxfield.com/decks/public?q=hashaton",
        "kind": "community"
       }
      ],
@@ -113,6 +123,11 @@
        "label": "EDHREC Hashaton zombies",
        "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/zombies",
        "kind": "community"
+      },
+      {
+       "label": "Archidekt: Entombophobia (top viewed B3)",
+       "url": "https://archidekt.com/decks/11043091/entombophobia",
+       "kind": "community"
       }
      ],
      "cardText": "https://mtgassist.com/cards/Reality-Fracture/Turbulent-Shore/"
@@ -143,6 +158,11 @@
        "label": "EDHREC Hashaton zombies",
        "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/zombies",
        "kind": "community"
+      },
+      {
+       "label": "Moxfield: 2 of 23 recent Bracket 2-3 Hashaton lists",
+       "url": "https://moxfield.com/decks/public?q=hashaton",
+       "kind": "community"
       }
      ],
      "cardText": "https://mtgassist.com/cards/Reality-Fracture/Turbulent-Wetlands/"
@@ -155,6 +175,16 @@
       {
        "label": "EDHREC Hashaton reanimator",
        "url": "https://edhrec.com/commanders/hashaton-scarabs-fist/reanimator",
+       "kind": "community"
+      },
+      {
+       "label": "Archidekt: Hashaton's knockoff sweatshop (top viewed B3)",
+       "url": "https://archidekt.com/decks/10990683/hashatons_knockoff_sweatshop",
+       "kind": "community"
+      },
+      {
+       "label": "Moxfield: 3 of 23 recent Bracket 2-3 Hashaton lists",
+       "url": "https://moxfield.com/decks/public?q=hashaton",
        "kind": "community"
       }
      ],
@@ -177,6 +207,45 @@
    "name": "The Hobbit",
    "released": "2026-08",
    "picks": [
+    {
+     "name": "Wizard's Staff",
+     "tier": "strong",
+     "why": "Equipment: if a triggered ability of the equipped creature triggers, it triggers an additional time. Equip Hashaton and every creature you discard can make two Zombie copies (you pay {2}{U} for each). It also doubles the enter triggers of your Zombie copies if you move it onto them.",
+     "sources": [
+      {
+       "label": "Moxfield: most-liked Bracket 2-3 Hashaton list (maybeboard)",
+       "url": "https://moxfield.com/decks/GPwxZBENw0GvYTPfeZoYDQ",
+       "kind": "community"
+      },
+      {
+       "label": "Moxfield: 1 of 23 recent Bracket 2-3 Hashaton lists",
+       "url": "https://moxfield.com/decks/public?q=hashaton",
+       "kind": "community"
+      }
+     ]
+    },
+    {
+     "name": "The Queen of Dale",
+     "tier": "strong",
+     "why": "Two-mana creature that loots whenever an opponent casts their first noncreature spell each turn, and makes a 1/1 when you discard a nonland card. Free discard on every opponent's turn.",
+     "sources": [
+      {
+       "label": "Archidekt: Hashaton - Reanimated (top viewed B3)",
+       "url": "https://archidekt.com/decks/11657708/hashaton_reanimated",
+       "kind": "community"
+      },
+      {
+       "label": "Moxfield: most-liked Bracket 2-3 Hashaton list (maybeboard)",
+       "url": "https://moxfield.com/decks/GPwxZBENw0GvYTPfeZoYDQ",
+       "kind": "community"
+      },
+      {
+       "label": "Moxfield: 3 of 23 recent Bracket 2-3 Hashaton lists",
+       "url": "https://moxfield.com/decks/public?q=hashaton",
+       "kind": "community"
+      }
+     ]
+    },
     {
      "name": "Bard, King of Dale",
      "tier": "strong",
@@ -208,6 +277,11 @@
        "label": "Archidekt: Hash's Loot & Scoot",
        "url": "https://archidekt.com/decks/20845798/hashs_loot_scoot",
        "kind": "community"
+      },
+      {
+       "label": "Moxfield: 8 of 23 recent Bracket 2-3 Hashaton lists",
+       "url": "https://moxfield.com/decks/public?q=hashaton",
+       "kind": "community"
       }
      ],
      "cardText": "https://mtgassist.com/cards/The-Hobbit/Bard-King-of-Dale/"
@@ -231,6 +305,11 @@
      "cut": "Negate",
      "cutWhy": "more flexible at the same job",
      "sources": [
+      {
+       "label": "Moxfield: 1 of 23 recent Bracket 2-3 Hashaton lists",
+       "url": "https://moxfield.com/decks/public?q=hashaton",
+       "kind": "community"
+      },
       {
        "label": "Set search",
        "url": "https://mtg.wtf/?q=(e%3Afra+or+e%3Afrc+or+e%3Ahob+or+e%3Ahoc)+ci%3Awub+(o%3Adiscard+or+o%3Agraveyard)",
@@ -279,6 +358,11 @@
      "cutWhy": "Newspaper ramps and discards",
      "sources": [
       {
+       "label": "Moxfield: 1 of 23 recent Bracket 2-3 Hashaton lists",
+       "url": "https://moxfield.com/decks/public?q=hashaton",
+       "kind": "community"
+      },
+      {
        "label": "Set search",
        "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Amsh+or+e%3Amsc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acycling+or+o%3Amadness+or+o%3Acopy)",
        "kind": "analysis"
@@ -296,6 +380,18 @@
        "kind": "analysis"
       }
      ]
+    },
+    {
+     "name": "M.O.D.O.K.",
+     "tier": "consider",
+     "why": "Five-mana flying lifelinker: pay 3 life to connive (draw then discard) on your turn, as often as you like. A repeatable outlet that grows itself.",
+     "sources": [
+      {
+       "label": "Moxfield: 1 of 23 recent Bracket 2-3 Hashaton lists",
+       "url": "https://moxfield.com/decks/public?q=hashaton",
+       "kind": "community"
+      }
+     ]
     }
    ],
    "note": "Only the first of four search result pages could be read."
@@ -305,6 +401,25 @@
    "name": "Secrets of Strixhaven",
    "released": "2026-04",
    "picks": [
+    {
+     "name": "Turbulent Moor",
+     "tier": "strong",
+     "why": "The Plains Swamp member of the Turbulent cycle (from the Strixhaven Commander decks). Same upsides as Turbulent Shore and Wetlands: fetchable with landcycling and untapped later in the game.",
+     "sources": [
+      {
+       "label": "Archidekt: Entombophobia (top viewed B3)",
+       "url": "https://archidekt.com/decks/11043091/entombophobia",
+       "kind": "community"
+      },
+      {
+       "label": "Moxfield: 2 of 23 recent Bracket 2-3 Hashaton lists",
+       "url": "https://moxfield.com/decks/public?q=hashaton",
+       "kind": "community"
+      }
+     ],
+     "cut": "Escape Tunnel",
+     "cutWhy": "slow basic-land fetch"
+    },
     {
      "name": "Fix What's Broken",
      "tier": "consider",
@@ -319,6 +434,18 @@
        "label": "EDHREC Secrets of Strixhaven",
        "url": "https://edhrec.com/sets/sos",
        "kind": "analysis"
+      }
+     ]
+    },
+    {
+     "name": "Erode",
+     "tier": "consider",
+     "why": "One-mana instant that destroys a creature or planeswalker; its controller may fetch a basic land. Another Swords to Plowshares-style answer, and it hits planeswalkers.",
+     "sources": [
+      {
+       "label": "Moxfield: 2 of 23 recent Bracket 2-3 Hashaton lists",
+       "url": "https://moxfield.com/decks/public?q=hashaton",
+       "kind": "community"
       }
      ]
     }
@@ -336,6 +463,20 @@
    "name": "Teenage Mutant Ninja Turtles",
    "released": "2026-03",
    "picks": [
+    {
+     "name": "Armaggon, Future Shark",
+     "tier": "strong",
+     "why": "Eight mana with flash, so it's perfect discard fodder: for {2}{U} Hashaton makes a 4/4 Zombie copy whose enter trigger destroys up to three creatures. Cheap repeatable removal that only this commander can get.",
+     "sources": [
+      {
+       "label": "Moxfield: 3 of 23 recent Bracket 2-3 Hashaton lists",
+       "url": "https://moxfield.com/decks/public?q=hashaton",
+       "kind": "community"
+      }
+     ],
+     "cut": "Butcher of Malakir",
+     "cutWhy": "Armaggon's removal is targeted and one-sided"
+    },
     {
      "name": "The Cloning of Shredder",
      "tier": "strong",
@@ -435,6 +576,16 @@
        "kind": "community"
       },
       {
+       "label": "Archidekt: Entombophobia (top viewed B3)",
+       "url": "https://archidekt.com/decks/11043091/entombophobia",
+       "kind": "community"
+      },
+      {
+       "label": "Moxfield: 1 of 23 recent Bracket 2-3 Hashaton lists",
+       "url": "https://moxfield.com/decks/public?q=hashaton",
+       "kind": "community"
+      },
+      {
        "label": "Set search",
        "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Aecl+or+e%3Aecc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acopy+or+o%3Acycling)",
        "kind": "analysis"
@@ -456,13 +607,40 @@
      ]
     },
     {
+     "name": "Curious Colossus",
+     "tier": "strong",
+     "why": "Seven mana, so you'll usually discard it: the 4/4 Zombie copy's enter trigger turns every creature one opponent controls into a 1/1 with no abilities.",
+     "sources": [
+      {
+       "label": "Archidekt: Hashaton - Reanimated (top viewed B3)",
+       "url": "https://archidekt.com/decks/11657708/hashaton_reanimated",
+       "kind": "community"
+      },
+      {
+       "label": "Moxfield: 1 of 23 recent Bracket 2-3 Hashaton lists",
+       "url": "https://moxfield.com/decks/public?q=hashaton",
+       "kind": "community"
+      }
+     ]
+    },
+    {
      "name": "Iron-Shield Elf",
      "tier": "consider",
-     "why": "Two-mana creature with a free outlet: discard a card to give it indestructible. One of EDHREC's highest-lift cards for Hashaton. Overlaps with Trained Pronghorn, so pick one.",
+     "why": "Two-mana creature with a free outlet: discard a card to give it indestructible. One of EDHREC's highest-lift cards for Hashaton and in several recent Moxfield lists. Overlaps with Trained Pronghorn, so it can replace it if you want a second free outlet.",
      "sources": [
       {
        "label": "EDHREC Hashaton",
        "url": "https://edhrec.com/commanders/hashaton-scarabs-fist",
+       "kind": "community"
+      },
+      {
+       "label": "Archidekt: Entombophobia (top viewed B3)",
+       "url": "https://archidekt.com/decks/11043091/entombophobia",
+       "kind": "community"
+      },
+      {
+       "label": "Moxfield: 4 of 23 recent Bracket 2-3 Hashaton lists",
+       "url": "https://moxfield.com/decks/public?q=hashaton",
        "kind": "community"
       }
      ]
