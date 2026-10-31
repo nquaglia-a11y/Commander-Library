@@ -1,0 +1,9 @@
+[
+  { "code": "trk", "name": "Star Trek", "released": "2026-11-13", "researched": false },
+  { "code": "fra", "name": "Reality Fracture", "released": "2026-10-02", "researched": true },
+  { "code": "hob", "name": "The Hobbit", "released": "2026-08", "researched": true },
+  { "code": "msh", "name": "Marvel Super Heroes", "released": "2026-06", "researched": true },
+  { "code": "sos", "name": "Secrets of Strixhaven", "released": "2026-04", "researched": true },
+  { "code": "tmt", "name": "Teenage Mutant Ninja Turtles", "released": "2026-03", "researched": true },
+  { "code": "ecl", "name": "Lorwyn Eclipsed", "released": "2026-01", "researched": true }
+]

@@ -1,0 +1,360 @@
+{
+ "deck": "hashaton",
+ "researchedAt": "2026-10-31",
+ "method": "Set card search in Esper colors for discard, graveyard and copy effects, cross-checked with Hashaton's EDHREC page",
+ "rules": [
+  "Bracket 2-3",
+  "No Game Changers"
+ ],
+ "summary": "Hashaton copies every creature card you discard as a 4/4 Zombie for {2}{U}, and the copy keeps the card's abilities. So the best new cards are cheap ways to discard (looting, connive, landcycling creatures) and big creatures whose abilities are great on a 4/4 body. First pass: Secrets of Strixhaven, Marvel Super Heroes, The Hobbit and Reality Fracture still have card search pages I couldn't read yet, so more ideas may come.",
+ "sets": [
+  {
+   "code": "fra",
+   "name": "Reality Fracture",
+   "released": "2026-10-02",
+   "picks": [
+    {
+     "name": "Avacyn, Angel of Horror",
+     "tier": "strong",
+     "why": "Eight mana to cast, but you'll mostly discard it. For {2}{U} Hashaton gives you a 4/4 flying, deathtouch Avacyn that returns each of your nontoken creatures to the battlefield when it dies. Already one of the most-played new cards in Hashaton decks on EDHREC.",
+     "cut": "Teysa, Envoy of Ghosts",
+     "cutWhy": "another expensive defensive creature",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton page",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist"
+      }
+     ]
+    },
+    {
+     "name": "Liliana the Faultless",
+     "tier": "strong",
+     "why": "A one-mana repeatable discard outlet: {1}, tap, discard a card to give Hashaton or another creature hexproof. Protects your commander and feeds its trigger at the same time. Also gains life as creatures enter.",
+     "cut": "Wonder",
+     "cutWhy": "Liliana does more work every turn",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton page",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist"
+      },
+      {
+       "label": "Card text",
+       "url": "https://mtgassist.com/cards/Reality-Fracture/Liliana-the-Faultless/"
+      }
+     ]
+    },
+    {
+     "name": "Arni, Humble Scribe",
+     "tier": "consider",
+     "why": "Three-mana looter with no activation cost: tap to draw then discard. It untaps whenever another nontoken creature enters, so a reanimation turn can loot several times.",
+     "sources": [
+      {
+       "label": "Card text",
+       "url": "https://mtgassist.com/cards/Reality-Fracture/Arni-Humble-Scribe/"
+      }
+     ]
+    },
+    {
+     "name": "Divining Duelist",
+     "tier": "consider",
+     "why": "Flash 3/2 that can loot when it enters. Instant-speed discard lets you hold up Hashaton mana on opponents' turns.",
+     "sources": [
+      {
+       "label": "mtg.wtf search",
+       "url": "https://mtg.wtf/?q=(e%3Afra+or+e%3Afrc+or+e%3Ahob+or+e%3Ahoc)+ci%3Awub+(o%3Adiscard+or+o%3Agraveyard)"
+      }
+     ]
+    }
+   ],
+   "skipped": [
+    {
+     "name": "Samut, Tyrant of Naktamun",
+     "reason": "Gives your spells split second; doesn't help a creature-discard plan."
+    },
+    {
+     "name": "Darklight Phoenix",
+     "reason": "Wants creatures dying, not discarding."
+    }
+   ]
+  },
+  {
+   "code": "hob",
+   "name": "The Hobbit",
+   "released": "2026-08",
+   "picks": [
+    {
+     "name": "Bard, King of Dale",
+     "tier": "strong",
+     "why": "Doubles your tokens and your extra card draw. Every Hashaton trigger makes two Zombie copies, and your loot effects draw double. Works as a 4/4 token copy too, so you can discard it and still get the effect.",
+     "cut": "Draining Whelk",
+     "cutWhy": "situational counterspell creature",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton page",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist"
+      },
+      {
+       "label": "Card text",
+       "url": "https://mtgassist.com/cards/The-Hobbit/Bard-King-of-Dale/"
+      }
+     ]
+    },
+    {
+     "name": "Captain of Umbar",
+     "tier": "consider",
+     "why": "Three-mana creature with {1}, tap: draw then discard. A steady discard outlet every turn.",
+     "sources": [
+      {
+       "label": "mtg.wtf search",
+       "url": "https://mtg.wtf/?q=(e%3Afra+or+e%3Afrc+or+e%3Ahob+or+e%3Ahoc)+ci%3Awub+(o%3Adiscard+or+o%3Agraveyard)"
+      }
+     ]
+    },
+    {
+     "name": "Confusticate and Bebother",
+     "tier": "consider",
+     "why": "Flexible instant: soft counter, or draw two and discard one. Covers interaction and a discard in one card.",
+     "cut": "Negate",
+     "cutWhy": "more flexible at the same job",
+     "sources": [
+      {
+       "label": "mtg.wtf search",
+       "url": "https://mtg.wtf/?q=(e%3Afra+or+e%3Afrc+or+e%3Ahob+or+e%3Ahoc)+ci%3Awub+(o%3Adiscard+or+o%3Agraveyard)"
+      }
+     ]
+    },
+    {
+     "name": "Along the Crooked Way",
+     "tier": "consider",
+     "why": "Enchantment that returns a creature card from your graveyard to hand when it enters, so you can discard it again for another Hashaton copy.",
+     "sources": [
+      {
+       "label": "mtg.wtf search",
+       "url": "https://mtg.wtf/?q=(e%3Afra+or+e%3Afrc+or+e%3Ahob+or+e%3Ahoc)+ci%3Awub+(o%3Adiscard+or+o%3Agraveyard)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "msh",
+   "name": "Marvel Super Heroes",
+   "released": "2026-06",
+   "picks": [
+    {
+     "name": "A.I.M. Scientists",
+     "tier": "strong",
+     "why": "Connives when it enters, and has basic landcycling {2}. Landcycling counts as discarding a creature card, so early it fetches a land and still triggers Hashaton.",
+     "cut": "Trained Pronghorn",
+     "cutWhy": "weaker discard outlet",
+     "sources": [
+      {
+       "label": "mtg.wtf search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Amsh+or+e%3Amsc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acycling+or+o%3Amadness+or+o%3Acopy)"
+      }
+     ]
+    },
+    {
+     "name": "Daily Bugle Newspaper",
+     "tier": "strong",
+     "why": "Two-mana artifact: {2}, tap to loot and make a Treasure. A discard outlet that also ramps, so it pays for Hashaton's {2}{U}.",
+     "cut": "Bender's Waterskin",
+     "cutWhy": "Newspaper ramps and discards",
+     "sources": [
+      {
+       "label": "mtg.wtf search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Amsh+or+e%3Amsc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acycling+or+o%3Amadness+or+o%3Acopy)"
+      }
+     ]
+    },
+    {
+     "name": "Doctor Jane Foster",
+     "tier": "consider",
+     "why": "Returns a creature card with mana value 3 or less from your graveyard, to the battlefield if you gained life this turn (Liliana the Faultless and Gray Merchant help).",
+     "sources": [
+      {
+       "label": "mtg.wtf search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Amsh+or+e%3Amsc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acycling+or+o%3Amadness+or+o%3Acopy)"
+      }
+     ]
+    }
+   ],
+   "note": "Only the first of four search result pages could be read."
+  },
+  {
+   "code": "sos",
+   "name": "Secrets of Strixhaven",
+   "released": "2026-04",
+   "picks": [
+    {
+     "name": "Fix What's Broken",
+     "tier": "consider",
+     "why": "Mass reanimation: pay X life to return every artifact and creature card with mana value exactly X. Good when you've discarded several big creatures of the same cost.",
+     "sources": [
+      {
+       "label": "mtg.wtf search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Asos+or+e%3Asoc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acopy+or+o%3Acycling+or+o%3Amadness)"
+      },
+      {
+       "label": "EDHREC Secrets of Strixhaven",
+       "url": "https://edhrec.com/sets/sos"
+      }
+     ]
+    }
+   ],
+   "skipped": [
+    {
+     "name": "Forum Necroscribe",
+     "reason": "Its reanimation needs spells that target creatures, which this deck has few of."
+    }
+   ],
+   "note": "Only the first of four search result pages could be read."
+  },
+  {
+   "code": "tmt",
+   "name": "Teenage Mutant Ninja Turtles",
+   "released": "2026-03",
+   "picks": [
+    {
+     "name": "The Cloning of Shredder",
+     "tier": "strong",
+     "why": "Saga that exiles a creature card from your graveyard and makes a token copy of it, then makes more copies on chapters II and III. Three copies of your best discarded creature for six mana.",
+     "cut": "Noosegraf Mob",
+     "cutWhy": "slow five-drop",
+     "sources": [
+      {
+       "label": "mtg.wtf search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Atmt+or+e%3Atmc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acycling+or+o%3Amadness+or+o%3Acopy)"
+      }
+     ]
+    },
+    {
+     "name": "Stockman, Mad Fly-entist",
+     "tier": "strong",
+     "why": "Islandcycling {2} on a creature: early game it finds a land and triggers Hashaton. Later it's a flyer that loots when it enters.",
+     "cut": "Muster the Departed",
+     "cutWhy": "Stockman fixes mana and feeds the commander",
+     "sources": [
+      {
+       "label": "mtg.wtf search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Atmt+or+e%3Atmc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acycling+or+o%3Amadness+or+o%3Acopy)"
+      }
+     ]
+    },
+    {
+     "name": "Bebop, Warthog Warrior",
+     "tier": "consider",
+     "why": "Swampcycling {2} creature with menace. Same idea as Stockman: a land early, a Hashaton trigger either way.",
+     "sources": [
+      {
+       "label": "mtg.wtf search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Atmt+or+e%3Atmc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acycling+or+o%3Amadness+or+o%3Acopy)"
+      }
+     ]
+    },
+    {
+     "name": "Jennika, Bad Apple Big Sister",
+     "tier": "consider",
+     "why": "Plainscycling {2} creature that makes a 2/2 when it enters. Another landcycler for the white side.",
+     "sources": [
+      {
+       "label": "mtg.wtf search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Atmt+or+e%3Atmc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acycling+or+o%3Amadness+or+o%3Acopy)"
+      }
+     ]
+    },
+    {
+     "name": "Karai, Future of the Foot",
+     "tier": "consider",
+     "why": "Orzhov 3-drop: combat damage returns a creature card from your graveyard to hand, or to the battlefield if it was sneaked in.",
+     "sources": [
+      {
+       "label": "mtg.wtf search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Atmt+or+e%3Atmc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acycling+or+o%3Amadness+or+o%3Acopy)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ecl",
+   "name": "Lorwyn Eclipsed",
+   "released": "2026-01",
+   "picks": [
+    {
+     "name": "Thirst for Identity",
+     "tier": "strong",
+     "why": "Instant: draw three, then discard two unless you discard a creature card. In this deck you'll almost always discard one creature, which triggers Hashaton. Already showing up in Hashaton lists on EDHREC.",
+     "cut": "Wake the Reflections",
+     "cutWhy": "low-impact populate",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton page",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist"
+      },
+      {
+       "label": "mtg.wtf search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Aecl+or+e%3Aecc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acopy+or+o%3Acycling)"
+      }
+     ]
+    },
+    {
+     "name": "Grave Venerations",
+     "tier": "strong",
+     "why": "Makes you the monarch, returns a creature card from your graveyard to hand each end step while you stay monarch (so you can discard it again), and drains when your creatures die. Your 4/4 Zombies help keep the crown.",
+     "cut": "Grimoire of the Dead",
+     "cutWhy": "slow and rarely activated",
+     "sources": [
+      {
+       "label": "mtg.wtf search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Aecl+or+e%3Aecc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acopy+or+o%3Acycling)"
+      }
+     ]
+    },
+    {
+     "name": "Iron-Shield Elf",
+     "tier": "consider",
+     "why": "Two-mana creature with a free outlet: discard a card to give it indestructible. One of EDHREC's highest-lift cards for Hashaton. Overlaps with Trained Pronghorn, so pick one.",
+     "sources": [
+      {
+       "label": "EDHREC Hashaton page",
+       "url": "https://edhrec.com/commanders/hashaton-scarabs-fist"
+      }
+     ]
+    },
+    {
+     "name": "Twilight Diviner",
+     "tier": "consider",
+     "why": "Whenever creatures enter from your graveyard, makes a token copy of one of them. Pairs with Living Death, Sun Titan and Sister Hospitaller.",
+     "sources": [
+      {
+       "label": "mtg.wtf search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Aecl+or+e%3Aecc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acopy+or+o%3Acycling)"
+      }
+     ]
+    },
+    {
+     "name": "Unexpected Assistance",
+     "tier": "consider",
+     "why": "Convoke instant: draw three, discard one. Your Zombie tokens can pay for it.",
+     "sources": [
+      {
+       "label": "mtg.wtf search",
+       "url": "https://mtg.wtf/?q=ci%3Awub+(e%3Aecl+or+e%3Aecc)+(o%3Adiscard+or+o%3Agraveyard+or+t%3Azombie+or+o%3Acopy+or+o%3Acycling)"
+      }
+     ]
+    }
+   ],
+   "skipped": [
+    {
+     "name": "Emptiness and Deceit",
+     "reason": "Their enter abilities check what mana was spent, so a Hashaton token copy gets nothing."
+    },
+    {
+     "name": "Silvergill Peddler",
+     "reason": "Only loots when tapped; weaker than the other looters."
+    }
+   ]
+  }
+ ]
+}

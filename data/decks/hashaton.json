@@ -1,0 +1,1224 @@
+{
+  "id": "hashaton",
+  "name": "Tutankamon Hashaton",
+  "colors": [
+    "W",
+    "U",
+    "B"
+  ],
+  "bracket": "2-3",
+  "source": "https://archidekt.com/decks/16734023/tutankamon_hashaton",
+  "importedAt": "2026-10-31",
+  "commanders": [
+    "Hashaton, Scarab's Fist"
+  ],
+  "cards": [
+    {
+      "qty": 1,
+      "name": "Accursed Duneyard",
+      "set": "drc",
+      "num": "20",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Angel of the Ruins",
+      "set": "eoc",
+      "num": "63",
+      "categories": [
+        "Removal / Interaction",
+        "Cheat Creatures"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Arcane Sanctum",
+      "set": "drc",
+      "num": "146",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Arcane Signet",
+      "set": "eoc",
+      "num": "53",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Ash Barrens",
+      "set": "tdc",
+      "num": "339",
+      "categories": [
+        "Land"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Ashen Rider",
+      "set": "2x2",
+      "num": "173",
+      "categories": [
+        "Removal / Interaction",
+        "Cheat Creatures"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Azorius Chancery",
+      "set": "dsc",
+      "num": "261",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Azorius Signet",
+      "set": "tdc",
+      "num": "312",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Bender's Waterskin",
+      "set": "tla",
+      "num": "255",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Blazing Archon",
+      "set": "rvr",
+      "num": "8",
+      "categories": [
+        "Protection",
+        "Cheat Creatures"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Body Double",
+      "set": "cmm",
+      "num": "75",
+      "categories": [
+        "Populate / Tokens",
+        "Clones"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Bojuka Bog",
+      "set": "eoc",
+      "num": "149",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Brokers Hideout",
+      "set": "snc",
+      "num": "248",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Butcher of Malakir",
+      "set": "lcc",
+      "num": "187",
+      "categories": [
+        "Removal / Interaction",
+        "Cheat Creatures"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Cephalid Coliseum",
+      "set": "tdc",
+      "num": "349",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Cephalid Inkshrouder",
+      "set": "jud",
+      "num": "36",
+      "categories": [
+        "Discard",
+        "Protection"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Champions of Minas Tirith",
+      "set": "ltc",
+      "num": "10",
+      "categories": [
+        "Protection",
+        "Cheat Creatures"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Charcoal Diamond",
+      "set": "clb",
+      "num": "305",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Coalition Relic",
+      "set": "dmc",
+      "num": "180",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Command Tower",
+      "set": "eoc",
+      "num": "59",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Contaminated Landscape",
+      "set": "mh3",
+      "num": "218",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Counterspell",
+      "set": "dsc",
+      "num": "114",
+      "categories": [
+        "Removal / Interaction"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Cryptbreaker",
+      "set": "drc",
+      "num": "41",
+      "categories": [
+        "Discard",
+        "Draw"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Curator of Mysteries",
+      "set": "afc",
+      "num": "81",
+      "categories": [
+        "Discard Payoff",
+        "Cycling"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Darien, King of Kjeldor",
+      "set": "mkc",
+      "num": "59",
+      "categories": [
+        "Populate / Tokens",
+        "Cheat Creatures"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Deep Gnome Terramancer",
+      "set": "clb",
+      "num": "658",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Deepfathom Skulker",
+      "set": "ogw",
+      "num": "43",
+      "categories": [
+        "Cheat Creatures",
+        "Draw"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Diluvian Primordial",
+      "set": "otc",
+      "num": "96",
+      "categories": [
+        "Recursion",
+        "Cheat Creatures",
+        "Theft"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Dimir Aqueduct",
+      "set": "dsc",
+      "num": "270",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Dimir Signet",
+      "set": "drc",
+      "num": "129",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Distant Melody",
+      "set": "lcc",
+      "num": "154",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Draining Whelk",
+      "set": "tsr",
+      "num": "62",
+      "categories": [
+        "Removal / Interaction",
+        "Cheat Creatures"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Drowned Catacomb",
+      "set": "drc",
+      "num": "152",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Ertai Resurrected",
+      "set": "dmu",
+      "num": "199",
+      "categories": [
+        "Removal / Interaction",
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Escape Tunnel",
+      "set": "eoc",
+      "num": "157",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Evolving Wilds",
+      "set": "eoc",
+      "num": "158",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Exotic Orchard",
+      "set": "eoc",
+      "num": "159",
+      "categories": [
+        "Land"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Firemind Vessel",
+      "set": "cmm",
+      "num": "383",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Frantic Search",
+      "set": "tdc",
+      "num": "153",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Fumigate",
+      "set": "eoc",
+      "num": "65",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Ghostly Pilferer",
+      "set": "otc",
+      "num": "98",
+      "categories": [
+        "Discard",
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Glacial Fortress",
+      "set": "eoc",
+      "num": "160",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Gleaming Overseer",
+      "set": "drc",
+      "num": "116",
+      "categories": [
+        "Protection",
+        "Evasion / Buff",
+        "Tokens"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Go for the Throat",
+      "set": "j25",
+      "num": "447",
+      "categories": [
+        "Removal / Interaction"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Grave Titan",
+      "set": "drc",
+      "num": "42",
+      "categories": [
+        "Populate / Tokens",
+        "Cheat Creatures",
+        "Tokens"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Gravespawn Sovereign",
+      "set": "scd",
+      "num": "79",
+      "categories": [
+        "Disc + Recursion"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Gray Merchant of Asphodel",
+      "set": "dsc",
+      "num": "142",
+      "categories": [
+        "Drain"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Grimoire of the Dead",
+      "set": "scd",
+      "num": "265",
+      "categories": [
+        "Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Guardian of New Benalia",
+      "set": "dmu",
+      "num": "19",
+      "categories": [
+        "Discard"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Gyruda, Doom of Depths",
+      "set": "iko",
+      "num": "221",
+      "categories": [
+        "Mill"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Hashaton, Scarab's Fist",
+      "set": "drc",
+      "num": "1",
+      "categories": [],
+      "board": "commander"
+    },
+    {
+      "qty": 1,
+      "name": "Hour of Reckoning",
+      "set": "tdc",
+      "num": "120",
+      "categories": [
+        "Removal / Interaction",
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Hyena Umbra",
+      "set": "2x2",
+      "num": "13",
+      "categories": [
+        "Protection"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Inspired Sphinx",
+      "set": "scd",
+      "num": "55",
+      "categories": [
+        "Draw",
+        "Cheat Creatures"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Intangible Virtue",
+      "set": "inr",
+      "num": "29",
+      "categories": [
+        "Evasion / Buff",
+        "Anthem"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 6,
+      "name": "Island",
+      "set": "tla",
+      "num": "283",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Isolated Chapel",
+      "set": "tdc",
+      "num": "373",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Isperia, Supreme Judge",
+      "set": "c20",
+      "num": "217",
+      "categories": [
+        "Draw",
+        "Cheat Creatures"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Junk Winder",
+      "set": "blc",
+      "num": "169",
+      "categories": [
+        "Draw",
+        "Cheat Creatures",
+        "Removal / Interaction"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Levitation",
+      "set": "m12",
+      "num": "61",
+      "categories": [
+        "Evasion / Buff"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Likeness Looter",
+      "set": "woe",
+      "num": "208",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Living Death",
+      "set": "tdc",
+      "num": "185",
+      "categories": [
+        "Removal / Interaction",
+        "Discard Payoff",
+        "Disc + Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Luminate Primordial",
+      "set": "gtc",
+      "num": "20",
+      "categories": [
+        "Cheat Creatures",
+        "Removal / Interaction"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Macabre Waltz",
+      "set": "fdn",
+      "num": "177",
+      "categories": [
+        "Discard",
+        "Disc + Recursion",
+        "Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Maestros Theater",
+      "set": "eoc",
+      "num": "167",
+      "categories": [
+        "Land"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Merfolk Looter",
+      "set": "afc",
+      "num": "86",
+      "categories": [
+        "Discard",
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Midnight Clock",
+      "set": "drc",
+      "num": "79",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Monument to Endurance",
+      "set": "dft",
+      "num": "237",
+      "categories": [
+        "Discard Payoff",
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Muster the Departed",
+      "set": "mh3",
+      "num": "36",
+      "categories": [
+        "Tokens"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Myriad Landscape",
+      "set": "eoc",
+      "num": "169",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Negate",
+      "set": "tmt",
+      "num": "47",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Noosegraf Mob",
+      "set": "bbd",
+      "num": "151",
+      "categories": [
+        "Populate / Tokens",
+        "Cheat Creatures"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Obscura Storefront",
+      "set": "dsc",
+      "num": "291",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Orzhov Basilica",
+      "set": "drc",
+      "num": "164",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Orzhov Signet",
+      "set": "tdc",
+      "num": "323",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Overseer of the Damned",
+      "set": "mkc",
+      "num": "132",
+      "categories": [
+        "Removal / Interaction",
+        "Cheat Creatures"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Path of Ancestry",
+      "set": "tdc",
+      "num": "382",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Path to Exile",
+      "set": "blc",
+      "num": "147",
+      "categories": [
+        "Removal / Interaction"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Phantatog",
+      "set": "ody",
+      "num": "291",
+      "categories": [
+        "Discard"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Phial of Galadriel",
+      "set": "ltr",
+      "num": "248",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 6,
+      "name": "Plains",
+      "set": "tle",
+      "num": "304",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Promise of Aclazotz // Foul Rebirth",
+      "set": "lcc",
+      "num": "84",
+      "categories": [
+        "Populate / Tokens"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Prophet of the Scarab",
+      "set": "drc",
+      "num": "9",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Putrid Imp",
+      "set": "tor",
+      "num": "77",
+      "categories": [
+        "Discard"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Reliquary Tower",
+      "set": "tdc",
+      "num": "386",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Renewed Solidarity",
+      "set": "drc",
+      "num": "7",
+      "categories": [
+        "Populate / Tokens",
+        "Tokens"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Restless Dreams",
+      "set": "tor",
+      "num": "79",
+      "categories": [
+        "Disc + Recursion"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Rhet-Tomb Mystic",
+      "set": "drc",
+      "num": "10",
+      "categories": [
+        "Discard"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Rootborn Defenses",
+      "set": "clu",
+      "num": "71",
+      "categories": [
+        "Protection",
+        "Removal / Interaction"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Sandstone Oracle",
+      "set": "cmm",
+      "num": "406",
+      "categories": [
+        "Draw",
+        "Cheat Creatures"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Seasoned Hallowblade",
+      "set": "m21",
+      "num": "34",
+      "categories": [
+        "Discard"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Sister Hospitaller",
+      "set": "40k",
+      "num": "141",
+      "categories": [
+        "Recursion",
+        "Cheat Creatures",
+        "Disc + Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Skirge Familiar",
+      "set": "mh2",
+      "num": "276",
+      "categories": [
+        "Discard",
+        "Cheat Creatures",
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Sky Diamond",
+      "set": "scd",
+      "num": "273",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Sol Ring",
+      "set": "eoc",
+      "num": "57",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Sphinx of Enlightenment",
+      "set": "j25",
+      "num": "364",
+      "categories": [
+        "Draw",
+        "Cheat Creatures"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Steel Hellkite",
+      "set": "tdc",
+      "num": "327",
+      "categories": [
+        "Removal / Interaction"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Sun Titan",
+      "set": "tdc",
+      "num": "133",
+      "categories": [
+        "Recursion",
+        "Cheat Creatures",
+        "Disc + Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Sunscorch Regent",
+      "set": "blc",
+      "num": "158",
+      "categories": [
+        "Cheat Creatures"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 5,
+      "name": "Swamp",
+      "set": "tla",
+      "num": "284",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Swords to Plowshares",
+      "set": "eoc",
+      "num": "45",
+      "categories": [
+        "Removal / Interaction"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Temple of Deceit",
+      "set": "drc",
+      "num": "176",
+      "categories": [
+        "Land"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Temple of Enlightenment",
+      "set": "eoc",
+      "num": "186",
+      "categories": [
+        "Land"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Temple of Silence",
+      "set": "tdc",
+      "num": "406",
+      "categories": [
+        "Land"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Terramorphic Expanse",
+      "set": "eoc",
+      "num": "62",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Teysa, Envoy of Ghosts",
+      "set": "c21",
+      "num": "230",
+      "categories": [
+        "Protection",
+        "Cheat Creatures"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "The Unagi of Kyoshi Island",
+      "set": "tla",
+      "num": "77",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Tortured Existence",
+      "set": "plst",
+      "num": "STH-74",
+      "categories": [
+        "Disc + Recursion"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Trained Pronghorn",
+      "set": "jud",
+      "num": "30",
+      "categories": [
+        "Discard"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Undertaker",
+      "set": "mmq",
+      "num": "167",
+      "categories": [
+        "Discard",
+        "Disc + Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Wake the Reflections",
+      "set": "plst",
+      "num": "MM3-28",
+      "categories": [
+        "Populate / Tokens"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Wayfarer's Bauble",
+      "set": "tdc",
+      "num": "335",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Welcome the Dead",
+      "set": "tdc",
+      "num": "30",
+      "categories": [
+        "Discard",
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Windreader Sphinx",
+      "set": "j25",
+      "num": "391",
+      "categories": [
+        "Cheat Creatures",
+        "Draw"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Wonder",
+      "set": "tdc",
+      "num": "170",
+      "categories": [
+        "Evasion / Buff"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Zombie",
+      "set": "tcmm",
+      "num": "13",
+      "categories": [
+        "Tokens & Extras"
+      ],
+      "board": "extra"
+    }
+  ]
+}
