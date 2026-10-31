@@ -6,7 +6,7 @@
   "Bracket 2-3",
   "No Game Changers"
  ],
- "summary": "Hashaton copies every creature card you discard as a 4/4 Zombie for {2}{U}, and the copy keeps the card's abilities. So the best new cards are cheap ways to discard (looting, connive, landcycling creatures) and big creatures whose abilities are great on a 4/4 body. First pass: Secrets of Strixhaven, Marvel Super Heroes, The Hobbit and Reality Fracture still have card search pages I couldn't read yet, so more ideas may come. The green badge means 3 or more community sources include the card; \"Claude's pick\" means I found it in the set but no Hashaton list uses it yet, which is where the less obvious ideas are.",
+ "summary": "Hashaton copies every creature card you discard as a 4/4 Zombie for {2}{U}, and the copy keeps the card's abilities. So the best new cards are cheap ways to discard (looting, connive, landcycling creatures) and big creatures whose abilities are great on a 4/4 body. First pass: Secrets of Strixhaven and Marvel Super Heroes still have card search pages I couldn't read yet, so more ideas may come. The green badge means 3 or more community sources include the card; \"Claude's pick\" means I found it in the set but no Hashaton list uses it yet, which is where the less obvious ideas are.",
  "sets": [
   {
    "code": "fra",
@@ -189,6 +189,97 @@
       }
      ],
      "cardText": "https://mtgassist.com/cards/Reality-Fracture/Darksteel-Angel/"
+    },
+    {
+     "name": "Murmuring Volume",
+     "tier": "strong",
+     "why": "Three-mana rock that taps for any color and has {2}, tap, discard a card: draw a card. Ramp and a repeatable discard outlet in one slot.",
+     "sources": [
+      {
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=(e%3Afra+or+e%3Afrc+or+e%3Ahob+or+e%3Ahoc)+ci%3Awub+(o%3Adiscard+or+o%3Agraveyard)",
+       "kind": "analysis"
+      }
+     ],
+     "cut": "Coalition Relic",
+     "cutWhy": "Volume also discards"
+    },
+    {
+     "name": "Occult Epiphany",
+     "tier": "strong",
+     "why": "Instant: draw X, then discard X, and make a 1/1 flier for each card type you discarded. Lets you pitch several creatures at once for Hashaton at the end of an opponent's turn.",
+     "sources": [
+      {
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=(e%3Afra+or+e%3Afrc+or+e%3Ahob+or+e%3Ahoc)+ci%3Awub+(o%3Adiscard+or+o%3Agraveyard)",
+       "kind": "analysis"
+      }
+     ]
+    },
+    {
+     "name": "Proft, Sinister Mastermind",
+     "tier": "consider",
+     "why": "A creature you can discard for {B} as removal (-3/-1). Discarding it also triggers Hashaton, so you get the removal and a 4/4 Zombie copy.",
+     "sources": [
+      {
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=(e%3Afra+or+e%3Afrc+or+e%3Ahob+or+e%3Ahoc)+ci%3Awub+(o%3Adiscard+or+o%3Agraveyard)",
+       "kind": "analysis"
+      }
+     ]
+    },
+    {
+     "name": "Rewrite Regrets",
+     "tier": "consider",
+     "why": "Four-mana sorcery that returns a creature with mana value 6 or less from your graveyard to the battlefield.",
+     "sources": [
+      {
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=(e%3Afra+or+e%3Afrc+or+e%3Ahob+or+e%3Ahoc)+ci%3Awub+(o%3Adiscard+or+o%3Agraveyard)",
+       "kind": "analysis"
+      }
+     ]
+    },
+    {
+     "name": "Sphinx of False Conclusions",
+     "tier": "consider",
+     "why": "Flash flier that loots whenever it attacks, and makes a token copy of itself when it dies.",
+     "sources": [
+      {
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=(e%3Afra+or+e%3Afrc+or+e%3Ahob+or+e%3Ahoc)+ci%3Awub+(o%3Adiscard+or+o%3Agraveyard)",
+       "kind": "analysis"
+      }
+     ]
+    },
+    {
+     "name": "The Echoverse Fulcrum",
+     "tier": "consider",
+     "why": "Two-mana artifact that loots when it enters and can later be exiled for {5} to destroy all creatures. Your Zombie copies are tokens, so you rebuild fast.",
+     "sources": [
+      {
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=(e%3Afra+or+e%3Afrc+or+e%3Ahob+or+e%3Ahoc)+ci%3Awub+(o%3Adiscard+or+o%3Agraveyard)",
+       "kind": "analysis"
+      }
+     ]
+    },
+    {
+     "name": "Seasoned Cryomancer",
+     "tier": "consider",
+     "why": "Draws two and discards two when it enters, and tapping and stunning creatures when you discard nonland cards.",
+     "sources": [
+      {
+       "label": "Moxfield: 1 of 23 recent Bracket 2-3 Hashaton lists",
+       "url": "https://moxfield.com/decks/public?q=hashaton",
+       "kind": "community"
+      },
+      {
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=(e%3Afra+or+e%3Afrc+or+e%3Ahob+or+e%3Ahoc)+ci%3Awub+(o%3Adiscard+or+o%3Agraveyard)",
+       "kind": "analysis"
+      }
+     ]
     }
    ],
    "skipped": [
@@ -321,6 +412,30 @@
      "name": "Along the Crooked Way",
      "tier": "consider",
      "why": "Enchantment that returns a creature card from your graveyard to hand when it enters, so you can discard it again for another Hashaton copy.",
+     "sources": [
+      {
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=(e%3Afra+or+e%3Afrc+or+e%3Ahob+or+e%3Ahoc)+ci%3Awub+(o%3Adiscard+or+o%3Agraveyard)",
+       "kind": "analysis"
+      }
+     ]
+    },
+    {
+     "name": "Thr\u00f3r's Map",
+     "tier": "strong",
+     "why": "Two-mana artifact that finds a basic land when it enters, then {2}, tap: draw then discard every turn. Cheap fixing plus a steady outlet.",
+     "sources": [
+      {
+       "label": "Set search",
+       "url": "https://mtg.wtf/?q=(e%3Afra+or+e%3Afrc+or+e%3Ahob+or+e%3Ahoc)+ci%3Awub+(o%3Adiscard+or+o%3Agraveyard)",
+       "kind": "analysis"
+      }
+     ]
+    },
+    {
+     "name": "The Mountain-king's Return",
+     "tier": "consider",
+     "why": "Saga: loot and make a token, then return a creature with mana value 3 or less from your graveyard, then a +1/+1 counter.",
      "sources": [
       {
        "label": "Set search",
