@@ -1,0 +1,2206 @@
+{
+  "deck": "teval",
+  "researchedAt": "2026-11-01",
+  "method": "Every non-reprint card from Lorwyn Eclipsed through Reality Fracture (and their Commander decks) was checked against the 20 most recently updated Bracket 2-3 Teval decks on Moxfield and EDHREC's Teval pages, then filtered for milling, lands from the graveyard and cards leaving the graveyard. Game Changers excluded.",
+  "rules": [
+    "Bracket 2-3",
+    "No Game Changers"
+  ],
+  "summary": "Teval makes a Zombie whenever cards leave your graveyard. Mole Man (play lands from the graveyard) is the standout and is in about half of recent lists. The badge on each card counts the sources that include it; \"Claude's pick\" means no list runs it yet.",
+  "sets": [
+    {
+      "code": "edhrec",
+      "name": "EDHREC Recommendations",
+      "released": "All sets",
+      "kind": "edhrec",
+      "note": "Cards Teval players commonly run in Bracket 2 and 3 that aren't in your deck, from EDHREC's bracket pages and average decks. Game Changers removed (Crop Rotation, Cyclonic Rift, Gifts Ungiven, Fierce Guardianship, Demonic Tutor, Rhystic Study, Field of the Dead, Glacial Chasm). Sorted by how often they're played.",
+      "picks": [
+        {
+          "name": "Skull Prophet",
+          "tier": "strong",
+          "why": "Played in 66% of Bracket 2 Teval decks, 49% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 66,
+            "b3": 49,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "River Kelpie",
+          "tier": "strong",
+          "why": "Played in 60% of Bracket 2 Teval decks, 39% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 60,
+            "b3": 39,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Icetill Explorer",
+          "tier": "strong",
+          "why": "Played in 33% of Bracket 2 Teval decks, 59% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 33,
+            "b3": 59,
+            "avg": "01"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Overgrown Tomb",
+          "tier": "strong",
+          "why": "Played in 28% of Bracket 2 Teval decks, 59% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 28,
+            "b3": 59,
+            "avg": "11"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "The Gitrog Monster",
+          "tier": "strong",
+          "why": "Played in 36% of Bracket 2 Teval decks, 58% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 36,
+            "b3": 58,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Breeding Pool",
+          "tier": "strong",
+          "why": "Played in 27% of Bracket 2 Teval decks, 57% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 27,
+            "b3": 57,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Watery Grave",
+          "tier": "strong",
+          "why": "Played in 26% of Bracket 2 Teval decks, 57% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 26,
+            "b3": 57,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Crypt of Agadeem",
+          "tier": "strong",
+          "why": "Played in 56% of Bracket 2 Teval decks, 33% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 56,
+            "b3": 33,
+            "avg": "11"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Insidious Roots",
+          "tier": "strong",
+          "why": "Played in 44% of Bracket 2 Teval decks, 55% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 44,
+            "b3": 55,
+            "avg": "11"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Lethal Scheme",
+          "tier": "strong",
+          "why": "Played in 53% of Bracket 2 Teval decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 53,
+            "b3": 0,
+            "avg": "11"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Assassin's Trophy",
+          "tier": "strong",
+          "why": "Played in 30% of Bracket 2 Teval decks, 52% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 30,
+            "b3": 52,
+            "avg": "11"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Reanimate",
+          "tier": "strong",
+          "why": "Played in 29% of Bracket 2 Teval decks, 52% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 29,
+            "b3": 52,
+            "avg": "01"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Hedge Shredder",
+          "tier": "strong",
+          "why": "Played in 42% of Bracket 2 Teval decks, 52% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 42,
+            "b3": 52,
+            "avg": "11"
+          },
+          "group": "Utility"
+        },
+        {
+          "name": "Polluted Delta",
+          "tier": "strong",
+          "why": "Played in 21% of Bracket 2 Teval decks, 50% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 21,
+            "b3": 50,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Temple of Malady",
+          "tier": "strong",
+          "why": "Played in 49% of Bracket 2 Teval decks, 24% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 49,
+            "b3": 24,
+            "avg": "10"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Verdant Catacombs",
+          "tier": "strong",
+          "why": "Played in 20% of Bracket 2 Teval decks, 48% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 20,
+            "b3": 48,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Sidisi, Brood Tyrant",
+          "tier": "strong",
+          "why": "Played in 46% of Bracket 2 Teval decks, 47% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 46,
+            "b3": 47,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Misty Rainforest",
+          "tier": "strong",
+          "why": "Played in 18% of Bracket 2 Teval decks, 45% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 18,
+            "b3": 45,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Zagoth Triome",
+          "tier": "strong",
+          "why": "Played in 19% of Bracket 2 Teval decks, 43% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 19,
+            "b3": 43,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "The Scarab God",
+          "tier": "strong",
+          "why": "Played in 30% of Bracket 2 Teval decks, 40% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 30,
+            "b3": 40,
+            "avg": "01"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Crawling Sensation",
+          "tier": "strong",
+          "why": "Played in 40% of Bracket 2 Teval decks, 16% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 40,
+            "b3": 16,
+            "avg": "10"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Dauthi Voidwalker",
+          "tier": "consider",
+          "why": "Played in 39% of Bracket 2 Teval decks, 21% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 39,
+            "b3": 21,
+            "avg": "10"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Millikin",
+          "tier": "consider",
+          "why": "Played in 39% of Bracket 2 Teval decks, 20% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 39,
+            "b3": 20,
+            "avg": "10"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Shifting Woodland",
+          "tier": "consider",
+          "why": "Played in 15% of Bracket 2 Teval decks, 39% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 15,
+            "b3": 39,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Contaminated Aquifer",
+          "tier": "consider",
+          "why": "Played in 38% of Bracket 2 Teval decks, 17% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 38,
+            "b3": 17,
+            "avg": "10"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Underground Mortuary",
+          "tier": "consider",
+          "why": "Played in 15% of Bracket 2 Teval decks, 37% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 15,
+            "b3": 37,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Craterhoof Behemoth",
+          "tier": "consider",
+          "why": "Played in 14% of Bracket 2 Teval decks, 36% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 14,
+            "b3": 36,
+            "avg": "01"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Lord of Extinction",
+          "tier": "consider",
+          "why": "Played in 35% of Bracket 2 Teval decks, 18% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 35,
+            "b3": 18,
+            "avg": "10"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Forbidden Alchemy",
+          "tier": "consider",
+          "why": "Played in 35% of Bracket 2 Teval decks, 13% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 35,
+            "b3": 13,
+            "avg": "10"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Hedge Maze",
+          "tier": "consider",
+          "why": "Played in 14% of Bracket 2 Teval decks, 35% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 14,
+            "b3": 35,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Deathrite Shaman",
+          "tier": "consider",
+          "why": "Played in 16% of Bracket 2 Teval decks, 34% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 16,
+            "b3": 34,
+            "avg": "01"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Undergrowth Stadium",
+          "tier": "consider",
+          "why": "Played in 15% of Bracket 2 Teval decks, 33% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 15,
+            "b3": 33,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Nature's Lore",
+          "tier": "consider",
+          "why": "Played in 17% of Bracket 2 Teval decks, 32% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 17,
+            "b3": 32,
+            "avg": "01"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Bojuka Bog",
+          "tier": "consider",
+          "why": "Played in 17% of Bracket 2 Teval decks, 32% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 17,
+            "b3": 32,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Takenuma, Abandoned Mire",
+          "tier": "consider",
+          "why": "Played in 12% of Bracket 2 Teval decks, 31% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 12,
+            "b3": 31,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Undercity Sewers",
+          "tier": "consider",
+          "why": "Played in 13% of Bracket 2 Teval decks, 31% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 13,
+            "b3": 31,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Junji, the Midnight Sky",
+          "tier": "consider",
+          "why": "Played in 30% of Bracket 2 Teval decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 30,
+            "b3": 0,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Cauldron of Essence",
+          "tier": "consider",
+          "why": "Played in 22% of Bracket 2 Teval decks, 30% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 22,
+            "b3": 30,
+            "avg": "01"
+          },
+          "group": "Utility"
+        },
+        {
+          "name": "Tasigur, the Golden Fang",
+          "tier": "consider",
+          "why": "Played in 29% of Bracket 2 Teval decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 29,
+            "b3": 0,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Amphin Mutineer",
+          "tier": "consider",
+          "why": "Played in 29% of Bracket 2 Teval decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 29,
+            "b3": 0,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Counterspell",
+          "tier": "consider",
+          "why": "Played in 20% of Bracket 2 Teval decks, 29% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 20,
+            "b3": 29,
+            "avg": "01"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Boseiju, Who Endures",
+          "tier": "consider",
+          "why": "Played in 9% of Bracket 2 Teval decks, 29% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 9,
+            "b3": 29,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Rejuvenating Springs",
+          "tier": "consider",
+          "why": "Played in 13% of Bracket 2 Teval decks, 29% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 13,
+            "b3": 29,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Lightning Greaves",
+          "tier": "consider",
+          "why": "Played in 15% of Bracket 2 Teval decks, 28% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 15,
+            "b3": 28,
+            "avg": "01"
+          },
+          "group": "Utility"
+        },
+        {
+          "name": "Awaken the Honored Dead",
+          "tier": "strong",
+          "why": "Played in 27% of Bracket 2 Teval decks, 27% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 27,
+            "b3": 27,
+            "avg": "11"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Birds of Paradise",
+          "tier": "consider",
+          "why": "Played in 27% of Bracket 3 Teval decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 27,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Mole Man, Moloid Master",
+          "tier": "consider",
+          "why": "Played in 15% of Bracket 2 Teval decks, 26% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 15,
+            "b3": 26,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "An Offer You Can't Refuse",
+          "tier": "consider",
+          "why": "Played in 11% of Bracket 2 Teval decks, 26% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 11,
+            "b3": 26,
+            "avg": "01"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Toxic Deluge",
+          "tier": "consider",
+          "why": "Played in 11% of Bracket 2 Teval decks, 26% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 11,
+            "b3": 26,
+            "avg": "00"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Essence Anchor",
+          "tier": "consider",
+          "why": "Played in 26% of Bracket 2 Teval decks, 10% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 26,
+            "b3": 10,
+            "avg": "10"
+          },
+          "group": "Utility"
+        },
+        {
+          "name": "Altar of Dementia",
+          "tier": "consider",
+          "why": "Played in 11% of Bracket 2 Teval decks, 26% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 11,
+            "b3": 26,
+            "avg": "00"
+          },
+          "group": "Utility"
+        },
+        {
+          "name": "Ramunap Excavator",
+          "tier": "consider",
+          "why": "Played in 15% of Bracket 2 Teval decks, 25% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 15,
+            "b3": 25,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Three Visits",
+          "tier": "consider",
+          "why": "Played in 11% of Bracket 2 Teval decks, 25% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 11,
+            "b3": 25,
+            "avg": "00"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Yavimaya, Cradle of Growth",
+          "tier": "consider",
+          "why": "Played in 8% of Bracket 2 Teval decks, 25% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 8,
+            "b3": 25,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Reassembling Skeleton",
+          "tier": "consider",
+          "why": "Played in 24% of Bracket 2 Teval decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 24,
+            "b3": 0,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Grave Researcher",
+          "tier": "consider",
+          "why": "Played in 20% of Bracket 2 Teval decks, 24% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 20,
+            "b3": 24,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Scute Swarm",
+          "tier": "consider",
+          "why": "Played in 15% of Bracket 2 Teval decks, 24% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 15,
+            "b3": 24,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Aesi, Tyrant of Gyre Strait",
+          "tier": "consider",
+          "why": "Played in 11% of Bracket 2 Teval decks, 24% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 11,
+            "b3": 24,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Uro, Titan of Nature's Wrath",
+          "tier": "consider",
+          "why": "Played in 12% of Bracket 2 Teval decks, 23% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 12,
+            "b3": 23,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Dakmor Salvage",
+          "tier": "consider",
+          "why": "Played in 13% of Bracket 2 Teval decks, 23% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 13,
+            "b3": 23,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Lumra, Bellow of the Woods",
+          "tier": "consider",
+          "why": "Played in 23% of Bracket 3 Teval decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 23,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Consuming Aberration",
+          "tier": "consider",
+          "why": "Played in 22% of Bracket 2 Teval decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 22,
+            "b3": 0,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Animate Dead",
+          "tier": "consider",
+          "why": "Played in 11% of Bracket 2 Teval decks, 22% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 11,
+            "b3": 22,
+            "avg": "00"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Urborg, Tomb of Yawgmoth",
+          "tier": "consider",
+          "why": "Played in 7% of Bracket 2 Teval decks, 22% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 7,
+            "b3": 22,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Deathcap Glade",
+          "tier": "consider",
+          "why": "Played in 15% of Bracket 2 Teval decks, 22% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 15,
+            "b3": 22,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Morphic Pool",
+          "tier": "consider",
+          "why": "Played in 10% of Bracket 2 Teval decks, 22% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 10,
+            "b3": 22,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Sylvan Safekeeper",
+          "tier": "consider",
+          "why": "Played in 22% of Bracket 3 Teval decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 22,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Beast Within",
+          "tier": "consider",
+          "why": "Played in 15% of Bracket 2 Teval decks, 21% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 15,
+            "b3": 21,
+            "avg": "00"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Entomb",
+          "tier": "consider",
+          "why": "Played in 6% of Bracket 2 Teval decks, 21% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 6,
+            "b3": 21,
+            "avg": "00"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Tortured Existence",
+          "tier": "consider",
+          "why": "Played in 21% of Bracket 2 Teval decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 21,
+            "b3": 0,
+            "avg": "01"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Titans' Nest",
+          "tier": "consider",
+          "why": "Played in 17% of Bracket 2 Teval decks, 21% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 17,
+            "b3": 21,
+            "avg": "00"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Otawara, Soaring City",
+          "tier": "consider",
+          "why": "Played in 6% of Bracket 2 Teval decks, 21% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 6,
+            "b3": 21,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Bala Ged Recovery",
+          "tier": "consider",
+          "why": "Played in 8% of Bracket 2 Teval decks, 20% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 8,
+            "b3": 20,
+            "avg": "00"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Evolving Wilds",
+          "tier": "consider",
+          "why": "Played in 20% of Bracket 2 Teval decks, 14% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 2",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 20,
+            "b3": 14,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Phyrexian Altar",
+          "tier": "consider",
+          "why": "Played in 20% of Bracket 3 Teval decks.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 20,
+            "avg": "00"
+          },
+          "group": "Utility"
+        },
+        {
+          "name": "Diviner of Mist",
+          "tier": "consider",
+          "why": "Played in 18% of Bracket 3 Teval decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Teval, Bracket 3",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 18,
+            "avg": "10"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Floral Evoker",
+          "tier": "consider",
+          "why": "In EDHREC's Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 0,
+            "avg": "10"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Steward of the Harvest",
+          "tier": "consider",
+          "why": "In EDHREC's Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 0,
+            "avg": "10"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Life from the Loam",
+          "tier": "strong",
+          "why": "In EDHREC's Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 0,
+            "avg": "11"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Welcome the Dead",
+          "tier": "consider",
+          "why": "In EDHREC's Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 0,
+            "avg": "10"
+          },
+          "group": "Sorcery"
+        }
+      ]
+    },
+    {
+      "code": "fra",
+      "name": "Reality Fracture",
+      "released": "2026-10-02",
+      "picks": [
+        {
+          "name": "Liliana the Repentant",
+          "tier": "strong",
+          "why": "Mills two whenever a creature enters, including Teval's Zombie tokens, and reanimates with exhaust.",
+          "sources": [
+            {
+              "label": "Moxfield: 4 of 20 recent Bracket 2-3 Teval lists",
+              "url": "https://moxfield.com/decks/public?q=Teval",
+              "kind": "community"
+            }
+          ],
+          "cut": "Victimize",
+          "cutWhy": "one-shot reanimation"
+        },
+        {
+          "name": "Carnivorous Cultivator // Enroot",
+          "tier": "consider",
+          "why": "Two-mana deathtouch body plus Enroot to put a land in your graveyard for Teval to bring back.",
+          "sources": [
+            {
+              "label": "Moxfield: 4 of 20 recent Bracket 2-3 Teval lists",
+              "url": "https://moxfield.com/decks/public?q=Teval",
+              "kind": "community"
+            }
+          ],
+          "cut": "Back to Nature",
+          "cutWhy": "narrow removal"
+        },
+        {
+          "name": "Primal Witchstalker",
+          "tier": "consider",
+          "why": "Mills four and returns a land from the graveyard to the battlefield, a Zombie trigger.",
+          "sources": [
+            {
+              "label": "Moxfield: 2 of 20 recent Bracket 2-3 Teval lists",
+              "url": "https://moxfield.com/decks/public?q=Teval",
+              "kind": "community"
+            }
+          ],
+          "cut": "Satyr Wayfinder",
+          "cutWhy": "weaker mill"
+        }
+      ]
+    },
+    {
+      "code": "msh",
+      "name": "Marvel Super Heroes",
+      "released": "2026-06",
+      "picks": [
+        {
+          "name": "Mole Man, Moloid Master",
+          "tier": "strong",
+          "why": "Play lands from your graveyard. Each one leaving the graveyard makes a Teval Zombie, and landfall makes a Moloid that mills. In 9 of 20 recent lists.",
+          "sources": [
+            {
+              "label": "EDHREC Teval: 15% of Bracket 2, 26% of Bracket 3 decks",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield: 9 of 20 recent Bracket 2-3 Teval lists",
+              "url": "https://moxfield.com/decks/public?q=Teval",
+              "kind": "community"
+            }
+          ],
+          "cut": "Wonder",
+          "cutWhy": "not needed with Teval's flying"
+        }
+      ]
+    },
+    {
+      "code": "sos",
+      "name": "Secrets of Strixhaven",
+      "released": "2026-04",
+      "picks": [
+        {
+          "name": "Cauldron of Essence",
+          "tier": "consider",
+          "why": "Drains on each creature death and reanimates every turn, and each reanimation makes a Zombie.",
+          "sources": [
+            {
+              "label": "EDHREC Teval: 22% of Bracket 2, 30% of Bracket 3 decks",
+              "url": "https://edhrec.com/commanders/teval-the-balanced-scale",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck",
+              "url": "https://edhrec.com/average-decks/teval-the-balanced-scale",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield: 5 of 20 recent Bracket 2-3 Teval lists",
+              "url": "https://moxfield.com/decks/public?q=Teval",
+              "kind": "community"
+            }
+          ],
+          "cut": "Elixir of Immortality",
+          "cutWhy": "slow"
+        },
+        {
+          "name": "Emeritus of Abundance // Regrowth",
+          "tier": "consider",
+          "why": "Three-mana body plus Regrowth, which takes a card out of the graveyard for a Zombie token.",
+          "sources": [
+            {
+              "label": "Moxfield: 4 of 20 recent Bracket 2-3 Teval lists",
+              "url": "https://moxfield.com/decks/public?q=Teval",
+              "kind": "community"
+            }
+          ],
+          "cut": "Grapple with the Past",
+          "cutWhy": "weaker"
+        },
+        {
+          "name": "Grave Researcher // Reanimate",
+          "tier": "consider",
+          "why": "Surveils every turn and gives you Reanimate.",
+          "sources": [
+            {
+              "label": "Moxfield: 3 of 20 recent Bracket 2-3 Teval lists",
+              "url": "https://moxfield.com/decks/public?q=Teval",
+              "kind": "community"
+            }
+          ],
+          "cut": "Dread Return",
+          "cutWhy": "more expensive reanimation"
+        },
+        {
+          "name": "Turbulent Wilderness",
+          "tier": "consider",
+          "why": "Simic dual that enters untapped in long games.",
+          "sources": [
+            {
+              "label": "Moxfield: 5 of 20 recent Bracket 2-3 Teval lists",
+              "url": "https://moxfield.com/decks/public?q=Teval",
+              "kind": "community"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ecl",
+      "name": "Lorwyn Eclipsed",
+      "released": "2026-01",
+      "picks": [
+        {
+          "name": "Sodden Verdure",
+          "tier": "consider",
+          "why": "Simic dual that enters untapped with two basics.",
+          "sources": [
+            {
+              "label": "Moxfield: 7 of 20 recent Bracket 2-3 Teval lists",
+              "url": "https://moxfield.com/decks/public?q=Teval",
+              "kind": "community"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

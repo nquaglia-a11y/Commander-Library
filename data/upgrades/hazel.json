@@ -1,0 +1,1682 @@
+{
+  "deck": "hazel",
+  "researchedAt": "2026-11-01",
+  "method": "Every non-reprint card from Lorwyn Eclipsed through Reality Fracture (and their Commander decks) was checked against the 20 most recently updated Bracket 2-3 Hazel decks on Moxfield and EDHREC's Hazel pages, then filtered for tokens, Squirrels and sacrifice. Game Changers excluded.",
+  "rules": [
+    "Bracket 2-3",
+    "No Game Changers"
+  ],
+  "summary": "Hazel copies a token each end step and doubles Squirrels, so The Unbeatable Squirrel Girl and changeling token makers are the top new cards. The badge on each card counts the sources that include it; \"Claude's pick\" means no list runs it yet.",
+  "sets": [
+    {
+      "code": "edhrec",
+      "name": "EDHREC Recommendations",
+      "released": "All sets",
+      "kind": "edhrec",
+      "note": "Cards Hazel players commonly run in Bracket 2 and 3 that aren't in your deck, from EDHREC's bracket pages and average decks. Game Changers removed (Worldly Tutor, Vampiric Tutor, Demonic Tutor, Bolas's Citadel, Gaea's Cradle, Field of the Dead). Sorted by how often they're played.",
+      "picks": [
+        {
+          "name": "Ravenous Squirrel",
+          "tier": "strong",
+          "why": "Played in 82% of Bracket 2 Hazel decks, 68% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 82,
+            "b3": 68,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Gilded Goose",
+          "tier": "strong",
+          "why": "Played in 78% of Bracket 2 Hazel decks, 74% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 78,
+            "b3": 74,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "The Odd Acorn Gang",
+          "tier": "strong",
+          "why": "Played in 75% of Bracket 3 Hazel decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 75,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Hazel's Brewmaster",
+          "tier": "strong",
+          "why": "Played in 73% of Bracket 3 Hazel decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 73,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Chatterstorm",
+          "tier": "strong",
+          "why": "Played in 71% of Bracket 2 Hazel decks, 61% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 71,
+            "b3": 61,
+            "avg": "11"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Tear Asunder",
+          "tier": "strong",
+          "why": "Played in 69% of Bracket 2 Hazel decks, 59% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 69,
+            "b3": 59,
+            "avg": "11"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Scurry of Squirrels",
+          "tier": "strong",
+          "why": "Played in 69% of Bracket 3 Hazel decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 69,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Grim Backwoods",
+          "tier": "strong",
+          "why": "Played in 68% of Bracket 2 Hazel decks, 50% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 68,
+            "b3": 50,
+            "avg": "11"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "The Unbeatable Squirrel Girl",
+          "tier": "strong",
+          "why": "Played in 56% of Bracket 2 Hazel decks, 66% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 56,
+            "b3": 66,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Mirkwood Bats",
+          "tier": "strong",
+          "why": "Played in 48% of Bracket 2 Hazel decks, 58% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 48,
+            "b3": 58,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Haunted Mire",
+          "tier": "strong",
+          "why": "Played in 58% of Bracket 2 Hazel decks, 43% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 58,
+            "b3": 43,
+            "avg": "11"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Peregrin Took",
+          "tier": "strong",
+          "why": "Played in 48% of Bracket 2 Hazel decks, 57% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 48,
+            "b3": 57,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Maelstrom Pulse",
+          "tier": "strong",
+          "why": "Played in 51% of Bracket 2 Hazel decks, 39% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 51,
+            "b3": 39,
+            "avg": "11"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Windgrace's Judgment",
+          "tier": "strong",
+          "why": "Played in 49% of Bracket 2 Hazel decks, 36% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 49,
+            "b3": 36,
+            "avg": "11"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Cache Grab",
+          "tier": "strong",
+          "why": "Played in 48% of Bracket 2 Hazel decks, 31% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 48,
+            "b3": 31,
+            "avg": "10"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Tranquil Thicket",
+          "tier": "strong",
+          "why": "Played in 48% of Bracket 2 Hazel decks, 31% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 48,
+            "b3": 31,
+            "avg": "10"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Overgrown Tomb",
+          "tier": "strong",
+          "why": "Played in 26% of Bracket 2 Hazel decks, 47% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 26,
+            "b3": 47,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Binding the Old Gods",
+          "tier": "strong",
+          "why": "Played in 46% of Bracket 2 Hazel decks, 29% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 46,
+            "b3": 29,
+            "avg": "11"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Barren Moor",
+          "tier": "strong",
+          "why": "Played in 45% of Bracket 2 Hazel decks, 29% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 45,
+            "b3": 29,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Doubling Season",
+          "tier": "strong",
+          "why": "Played in 29% of Bracket 2 Hazel decks, 43% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 29,
+            "b3": 43,
+            "avg": "11"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Parallel Lives",
+          "tier": "strong",
+          "why": "Played in 26% of Bracket 2 Hazel decks, 42% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 26,
+            "b3": 42,
+            "avg": "01"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Arasta of the Endless Web",
+          "tier": "strong",
+          "why": "Played in 41% of Bracket 2 Hazel decks, 28% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 41,
+            "b3": 28,
+            "avg": "10"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Assassin's Trophy",
+          "tier": "consider",
+          "why": "Played in 26% of Bracket 2 Hazel decks, 39% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 26,
+            "b3": 39,
+            "avg": "01"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Haywire Mite",
+          "tier": "consider",
+          "why": "Played in 38% of Bracket 2 Hazel decks, 26% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 38,
+            "b3": 26,
+            "avg": "10"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Three Tree City",
+          "tier": "consider",
+          "why": "Played in 26% of Bracket 2 Hazel decks, 37% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 26,
+            "b3": 37,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Osteomancer Adept",
+          "tier": "consider",
+          "why": "Played in 35% of Bracket 2 Hazel decks, 29% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 35,
+            "b3": 29,
+            "avg": "10"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Vinereap Mentor",
+          "tier": "consider",
+          "why": "Played in 35% of Bracket 2 Hazel decks, 31% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 35,
+            "b3": 31,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Mudflat Village",
+          "tier": "consider",
+          "why": "Played in 35% of Bracket 2 Hazel decks, 35% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 35,
+            "b3": 35,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Nested Shambler",
+          "tier": "consider",
+          "why": "Played in 33% of Bracket 2 Hazel decks, 21% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 33,
+            "b3": 21,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Pitiless Plunderer",
+          "tier": "consider",
+          "why": "Played in 16% of Bracket 2 Hazel decks, 33% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 16,
+            "b3": 33,
+            "avg": "01"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Craterhoof Behemoth",
+          "tier": "consider",
+          "why": "Played in 17% of Bracket 2 Hazel decks, 32% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 17,
+            "b3": 32,
+            "avg": "01"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Heroic Intervention",
+          "tier": "consider",
+          "why": "Played in 17% of Bracket 2 Hazel decks, 32% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 17,
+            "b3": 32,
+            "avg": "01"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Undergrowth Stadium",
+          "tier": "consider",
+          "why": "Played in 19% of Bracket 2 Hazel decks, 32% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 19,
+            "b3": 32,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Oakhollow Village",
+          "tier": "consider",
+          "why": "Played in 30% of Bracket 2 Hazel decks, 29% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 30,
+            "b3": 29,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Deathcap Glade",
+          "tier": "consider",
+          "why": "Played in 18% of Bracket 2 Hazel decks, 29% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 18,
+            "b3": 29,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Nut Collector",
+          "tier": "consider",
+          "why": "Played in 27% of Bracket 2 Hazel decks, 26% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 27,
+            "b3": 26,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Jaheira, Friend of the Forest",
+          "tier": "consider",
+          "why": "Played in 21% of Bracket 2 Hazel decks, 27% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 21,
+            "b3": 27,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Verdant Command",
+          "tier": "consider",
+          "why": "Played in 23% of Bracket 2 Hazel decks, 27% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 23,
+            "b3": 27,
+            "avg": "00"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Pest Infestation",
+          "tier": "strong",
+          "why": "Played in 20% of Bracket 2 Hazel decks, 27% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 20,
+            "b3": 27,
+            "avg": "11"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Tippy-Toe, Terrific Partner",
+          "tier": "consider",
+          "why": "Played in 23% of Bracket 2 Hazel decks, 26% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 23,
+            "b3": 26,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Ogre Slumlord",
+          "tier": "consider",
+          "why": "Played in 25% of Bracket 2 Hazel decks, 14% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 25,
+            "b3": 14,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Scavenger's Talent",
+          "tier": "consider",
+          "why": "Played in 25% of Bracket 2 Hazel decks, 22% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 25,
+            "b3": 22,
+            "avg": "00"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Verdant Catacombs",
+          "tier": "consider",
+          "why": "Played in 13% of Bracket 2 Hazel decks, 25% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 13,
+            "b3": 25,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Nature's Lore",
+          "tier": "consider",
+          "why": "Played in 14% of Bracket 2 Hazel decks, 24% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 14,
+            "b3": 24,
+            "avg": "01"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Black Market Connections",
+          "tier": "consider",
+          "why": "Played in 15% of Bracket 2 Hazel decks, 24% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 15,
+            "b3": 24,
+            "avg": "00"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Woe Strider",
+          "tier": "consider",
+          "why": "Played in 23% of Bracket 2 Hazel decks, 18% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 23,
+            "b3": 18,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Scurry Oak",
+          "tier": "consider",
+          "why": "Played in 18% of Bracket 2 Hazel decks, 23% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 18,
+            "b3": 23,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Cultivate",
+          "tier": "consider",
+          "why": "Played in 20% of Bracket 2 Hazel decks, 21% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 20,
+            "b3": 21,
+            "avg": "00"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Cauldron of Essence",
+          "tier": "consider",
+          "why": "Played in 20% of Bracket 2 Hazel decks, 21% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 20,
+            "b3": 21,
+            "avg": "00"
+          },
+          "group": "Utility"
+        },
+        {
+          "name": "Fountainport",
+          "tier": "consider",
+          "why": "Played in 19% of Bracket 2 Hazel decks, 21% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 19,
+            "b3": 21,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Yavimaya, Cradle of Growth",
+          "tier": "consider",
+          "why": "Played in 11% of Bracket 2 Hazel decks, 21% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 11,
+            "b3": 21,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Patchwork Banner",
+          "tier": "consider",
+          "why": "Played in 21% of Bracket 2 Hazel decks, 20% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 21,
+            "b3": 20,
+            "avg": "00"
+          },
+          "group": "Mana rock"
+        },
+        {
+          "name": "Gourmand's Talent",
+          "tier": "consider",
+          "why": "Played in 21% of Bracket 3 Hazel decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 21,
+            "avg": "10"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Skyfisher Spider",
+          "tier": "consider",
+          "why": "Played in 20% of Bracket 2 Hazel decks, 10% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 20,
+            "b3": 10,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Warren Soultrader",
+          "tier": "consider",
+          "why": "Played in 10% of Bracket 2 Hazel decks, 20% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 10,
+            "b3": 20,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Fabled Passage",
+          "tier": "consider",
+          "why": "Played in 14% of Bracket 2 Hazel decks, 20% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel, Bracket 2",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hazel, Bracket 3",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 14,
+            "b3": 20,
+            "avg": "00"
+          },
+          "group": "Land"
+        }
+      ]
+    },
+    {
+      "code": "hob",
+      "name": "The Hobbit",
+      "released": "2026-08",
+      "picks": [
+        {
+          "name": "The Sackville-Bagginses",
+          "tier": "consider",
+          "why": "Each token you sacrifice drains 1, and the entry trade gives a card and a Treasure.",
+          "sources": [
+            {
+              "label": "Moxfield: 3 of 20 recent Bracket 2-3 Hazel lists",
+              "url": "https://moxfield.com/decks/public?q=Hazel",
+              "kind": "community"
+            }
+          ],
+          "cut": "Fog",
+          "cutWhy": "Sackvilles add reach to the sacrifice plan"
+        }
+      ]
+    },
+    {
+      "code": "msh",
+      "name": "Marvel Super Heroes",
+      "released": "2026-06",
+      "picks": [
+        {
+          "name": "The Unbeatable Squirrel Girl",
+          "tier": "strong",
+          "why": "Makes a Squirrel on entering and attacking, and her ability makes as many Squirrels as you control. Hazel doubles Squirrel copies. In 12 of 20 recent lists.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel: 56% of Bracket 2, 66% of Bracket 3 decks",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck",
+              "url": "https://edhrec.com/average-decks/hazel-of-the-rootbloom",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield: 12 of 20 recent Bracket 2-3 Hazel lists",
+              "url": "https://moxfield.com/decks/public?q=Hazel",
+              "kind": "community"
+            }
+          ],
+          "cut": "Verdant Force",
+          "cutWhy": "slow token maker"
+        },
+        {
+          "name": "Tippy-Toe, Terrific Partner",
+          "tier": "consider",
+          "why": "A Squirrel that adds a Food every time you make tokens and draws when you gained life.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel: 23% of Bracket 2, 26% of Bracket 3 decks",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield: 3 of 20 recent Bracket 2-3 Hazel lists",
+              "url": "https://moxfield.com/decks/public?q=Hazel",
+              "kind": "community"
+            }
+          ],
+          "cut": "Chatter of the Squirrel",
+          "cutWhy": "minor effect"
+        }
+      ]
+    },
+    {
+      "code": "sos",
+      "name": "Secrets of Strixhaven",
+      "released": "2026-04",
+      "picks": [
+        {
+          "name": "Cauldron of Essence",
+          "tier": "consider",
+          "why": "Drains on every creature death and reanimates a creature each turn by sacrificing a token.",
+          "sources": [
+            {
+              "label": "EDHREC Hazel: 20% of Bracket 2, 21% of Bracket 3 decks",
+              "url": "https://edhrec.com/commanders/hazel-of-the-rootbloom",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield: 6 of 20 recent Bracket 2-3 Hazel lists",
+              "url": "https://moxfield.com/decks/public?q=Hazel",
+              "kind": "community"
+            }
+          ],
+          "cut": "Gruesome Fate",
+          "cutWhy": "weaker drain"
+        }
+      ]
+    },
+    {
+      "code": "tmt",
+      "name": "Teenage Mutant Ninja Turtles",
+      "released": "2026-03",
+      "picks": [
+        {
+          "name": "Ninja Pizza",
+          "tier": "consider",
+          "why": "Makes a Food every turn and turns Foods into any-color mana.",
+          "sources": [
+            {
+              "label": "Moxfield: 2 of 20 recent Bracket 2-3 Hazel lists",
+              "url": "https://moxfield.com/decks/public?q=Hazel",
+              "kind": "community"
+            }
+          ],
+          "cut": "Talisman of Resilience",
+          "cutWhy": "Ninja Pizza ramps and makes tokens"
+        }
+      ]
+    },
+    {
+      "code": "ecl",
+      "name": "Lorwyn Eclipsed",
+      "released": "2026-01",
+      "picks": [
+        {
+          "name": "Springleaf Parade",
+          "tier": "strong",
+          "why": "X changeling tokens (they count as Squirrels for Hazel) and every creature token taps for any color.",
+          "sources": [
+            {
+              "label": "Moxfield: 7 of 20 recent Bracket 2-3 Hazel lists",
+              "url": "https://moxfield.com/decks/public?q=Hazel",
+              "kind": "community"
+            }
+          ],
+          "cut": "Sandstorm Salvager",
+          "cutWhy": "smaller token payoff"
+        },
+        {
+          "name": "Mutable Explorer",
+          "tier": "consider",
+          "why": "Changeling (so it is a Squirrel) that also makes a Mutavault token.",
+          "sources": [
+            {
+              "label": "Moxfield: 2 of 20 recent Bracket 2-3 Hazel lists",
+              "url": "https://moxfield.com/decks/public?q=Hazel",
+              "kind": "community"
+            }
+          ],
+          "cut": "Drey Keeper",
+          "cutWhy": "weaker Squirrel maker"
+        }
+      ]
+    }
+  ]
+}

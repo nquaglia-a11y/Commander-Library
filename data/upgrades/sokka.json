@@ -1,0 +1,2501 @@
+{
+  "deck": "sokka",
+  "researchedAt": "2026-11-01",
+  "method": "Every non-reprint card from Lorwyn Eclipsed through Reality Fracture (and their Commander decks) was checked against the 20 most recently updated Bracket 2-3 Sokka decks on Moxfield and EDHREC's Sokka pages, then filtered for noncreature spells and Ally tokens. Game Changers excluded.",
+  "rules": [
+    "Bracket 2-3",
+    "No Game Changers"
+  ],
+  "summary": "Sokka makes an Ally for every noncreature spell, so the best new cards make spells cheaper (Geist of Saint Thalia) or turn each spell into more value (Vraska, Mister Fantastic). The badge on each card counts the sources that include it; \"Claude's pick\" means no list runs it yet.",
+  "sets": [
+    {
+      "code": "edhrec",
+      "name": "EDHREC Recommendations",
+      "released": "All sets",
+      "kind": "edhrec",
+      "note": "Cards Sokka players commonly run in Bracket 2 and 3 that aren't in your deck, from EDHREC's bracket pages and average decks. Game Changers removed (Fierce Guardianship, Teferi's Protection, Cyclonic Rift, Mystical Tutor, Enlightened Tutor, Jeska's Will, Farewell, Rhystic Study, Smothering Tithe). Sorted by how often they're played.",
+      "picks": [
+        {
+          "name": "Mystic Monastery",
+          "tier": "strong",
+          "why": "Played in 59% of Bracket 2 Sokka decks, 52% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 59,
+            "b3": 52,
+            "avg": "11"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Exotic Orchard",
+          "tier": "strong",
+          "why": "Played in 55% of Bracket 2 Sokka decks, 59% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 55,
+            "b3": 59,
+            "avg": "11"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Glacial Fortress",
+          "tier": "strong",
+          "why": "Played in 51% of Bracket 2 Sokka decks, 55% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 51,
+            "b3": 55,
+            "avg": "11"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Jeskai Ascendancy",
+          "tier": "strong",
+          "why": "Played in 40% of Bracket 2 Sokka decks, 53% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 40,
+            "b3": 53,
+            "avg": "11"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Sokka's Charge",
+          "tier": "strong",
+          "why": "Played in 46% of Bracket 2 Sokka decks, 52% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 46,
+            "b3": 52,
+            "avg": "11"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Talisman of Progress",
+          "tier": "strong",
+          "why": "Played in 39% of Bracket 2 Sokka decks, 52% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 39,
+            "b3": 52,
+            "avg": "11"
+          },
+          "group": "Mana rock"
+        },
+        {
+          "name": "Talisman of Creativity",
+          "tier": "strong",
+          "why": "Played in 36% of Bracket 2 Sokka decks, 52% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 36,
+            "b3": 52,
+            "avg": "11"
+          },
+          "group": "Mana rock"
+        },
+        {
+          "name": "Hallowed Fountain",
+          "tier": "strong",
+          "why": "Played in 23% of Bracket 2 Sokka decks, 52% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 23,
+            "b3": 52,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Sacred Foundry",
+          "tier": "strong",
+          "why": "Played in 24% of Bracket 2 Sokka decks, 51% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 24,
+            "b3": 51,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Steam Vents",
+          "tier": "strong",
+          "why": "Played in 23% of Bracket 2 Sokka decks, 51% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 23,
+            "b3": 51,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Talisman of Conviction",
+          "tier": "strong",
+          "why": "Played in 36% of Bracket 2 Sokka decks, 48% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 36,
+            "b3": 48,
+            "avg": "11"
+          },
+          "group": "Mana rock"
+        },
+        {
+          "name": "Jasmine Dragon Tea Shop",
+          "tier": "strong",
+          "why": "Played in 48% of Bracket 2 Sokka decks, 38% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 48,
+            "b3": 38,
+            "avg": "11"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Adarkar Wastes",
+          "tier": "strong",
+          "why": "Played in 38% of Bracket 2 Sokka decks, 45% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 38,
+            "b3": 45,
+            "avg": "11"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Suki, Courageous Rescuer",
+          "tier": "strong",
+          "why": "Played in 43% of Bracket 2 Sokka decks, 28% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 43,
+            "b3": 28,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Sokka, Lateral Strategist",
+          "tier": "strong",
+          "why": "Played in 42% of Bracket 2 Sokka decks, 27% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 42,
+            "b3": 27,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Flawless Maneuver",
+          "tier": "strong",
+          "why": "Played in 20% of Bracket 2 Sokka decks, 42% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 20,
+            "b3": 42,
+            "avg": "01"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Preordain",
+          "tier": "strong",
+          "why": "Played in 42% of Bracket 2 Sokka decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 42,
+            "b3": 0,
+            "avg": "11"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Skullclamp",
+          "tier": "strong",
+          "why": "Played in 26% of Bracket 2 Sokka decks, 42% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 26,
+            "b3": 42,
+            "avg": "01"
+          },
+          "group": "Utility"
+        },
+        {
+          "name": "Veyran, Voice of Duality",
+          "tier": "strong",
+          "why": "Played in 26% of Bracket 2 Sokka decks, 41% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 26,
+            "b3": 41,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Fellwar Stone",
+          "tier": "strong",
+          "why": "Played in 35% of Bracket 2 Sokka decks, 41% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 35,
+            "b3": 41,
+            "avg": "11"
+          },
+          "group": "Mana rock"
+        },
+        {
+          "name": "Wartime Protestors",
+          "tier": "strong",
+          "why": "Played in 41% of Bracket 3 Sokka decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 41,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Kabira Evangel",
+          "tier": "strong",
+          "why": "Played in 28% of Bracket 2 Sokka decks, 40% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 28,
+            "b3": 40,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "An Offer You Can't Refuse",
+          "tier": "strong",
+          "why": "Played in 26% of Bracket 2 Sokka decks, 40% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 26,
+            "b3": 40,
+            "avg": "11"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Boomerang Basics",
+          "tier": "strong",
+          "why": "Played in 40% of Bracket 2 Sokka decks, 24% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 40,
+            "b3": 24,
+            "avg": "11"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Boros Charm",
+          "tier": "strong",
+          "why": "Played in 25% of Bracket 2 Sokka decks, 39% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 25,
+            "b3": 39,
+            "avg": "11"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Redirect Lightning",
+          "tier": "strong",
+          "why": "Played in 31% of Bracket 2 Sokka decks, 38% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 31,
+            "b3": 38,
+            "avg": "11"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Raugrin Triome",
+          "tier": "consider",
+          "why": "Played in 18% of Bracket 2 Sokka decks, 38% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 18,
+            "b3": 38,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Abandoned Air Temple",
+          "tier": "strong",
+          "why": "Played in 35% of Bracket 2 Sokka decks, 34% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 35,
+            "b3": 34,
+            "avg": "11"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Akroma's Will",
+          "tier": "consider",
+          "why": "Played in 13% of Bracket 2 Sokka decks, 34% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 13,
+            "b3": 34,
+            "avg": "01"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Flooded Strand",
+          "tier": "consider",
+          "why": "Played in 12% of Bracket 2 Sokka decks, 34% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 12,
+            "b3": 34,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Stormcarved Coast",
+          "tier": "consider",
+          "why": "Played in 23% of Bracket 2 Sokka decks, 33% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 23,
+            "b3": 33,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Snap",
+          "tier": "consider",
+          "why": "Played in 18% of Bracket 2 Sokka decks, 32% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 18,
+            "b3": 32,
+            "avg": "01"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Training Center",
+          "tier": "consider",
+          "why": "Played in 13% of Bracket 2 Sokka decks, 32% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 13,
+            "b3": 32,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Avatar Enthusiasts",
+          "tier": "consider",
+          "why": "Played in 31% of Bracket 2 Sokka decks, 16% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 31,
+            "b3": 16,
+            "avg": "10"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Sun Warriors",
+          "tier": "consider",
+          "why": "Played in 31% of Bracket 2 Sokka decks, 19% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 31,
+            "b3": 19,
+            "avg": "10"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Earth Kingdom Protectors",
+          "tier": "consider",
+          "why": "Played in 31% of Bracket 2 Sokka decks, 17% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 31,
+            "b3": 17,
+            "avg": "10"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Warleader's Call",
+          "tier": "consider",
+          "why": "Played in 18% of Bracket 2 Sokka decks, 31% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 18,
+            "b3": 31,
+            "avg": "01"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Sea of Clouds",
+          "tier": "consider",
+          "why": "Played in 13% of Bracket 2 Sokka decks, 31% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 13,
+            "b3": 31,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Arid Mesa",
+          "tier": "consider",
+          "why": "Played in 31% of Bracket 3 Sokka decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 31,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Azorius Signet",
+          "tier": "strong",
+          "why": "Played in 27% of Bracket 2 Sokka decks, 30% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 27,
+            "b3": 30,
+            "avg": "11"
+          },
+          "group": "Mana rock"
+        },
+        {
+          "name": "Scalding Tarn",
+          "tier": "consider",
+          "why": "Played in 30% of Bracket 3 Sokka decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 30,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Kindred Discovery",
+          "tier": "consider",
+          "why": "Played in 17% of Bracket 2 Sokka decks, 29% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 17,
+            "b3": 29,
+            "avg": "01"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Spectator Seating",
+          "tier": "consider",
+          "why": "Played in 12% of Bracket 2 Sokka decks, 29% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 12,
+            "b3": 29,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "It'll Quench Ya!",
+          "tier": "strong",
+          "why": "Played in 29% of Bracket 3 Sokka decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 29,
+            "avg": "11"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Ty Lee, Chi Blocker",
+          "tier": "consider",
+          "why": "Played in 28% of Bracket 2 Sokka decks, 18% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 28,
+            "b3": 18,
+            "avg": "10"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Aang, Swift Savior",
+          "tier": "consider",
+          "why": "Played in 28% of Bracket 2 Sokka decks, 21% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 28,
+            "b3": 21,
+            "avg": "10"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Sea Gate Loremaster",
+          "tier": "consider",
+          "why": "Played in 20% of Bracket 2 Sokka decks, 28% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 20,
+            "b3": 28,
+            "avg": "01"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Waterbender Ascension",
+          "tier": "consider",
+          "why": "Played in 28% of Bracket 2 Sokka decks, 21% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 28,
+            "b3": 21,
+            "avg": "10"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Sundown Pass",
+          "tier": "consider",
+          "why": "Played in 18% of Bracket 2 Sokka decks, 28% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 18,
+            "b3": 28,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Deserted Beach",
+          "tier": "consider",
+          "why": "Played in 17% of Bracket 2 Sokka decks, 28% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 17,
+            "b3": 28,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Arcane Denial",
+          "tier": "consider",
+          "why": "Played in 15% of Bracket 2 Sokka decks, 27% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 15,
+            "b3": 27,
+            "avg": "01"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Gitaxian Probe",
+          "tier": "consider",
+          "why": "Played in 12% of Bracket 2 Sokka decks, 27% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 12,
+            "b3": 27,
+            "avg": "01"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Lightning Greaves",
+          "tier": "consider",
+          "why": "Played in 15% of Bracket 2 Sokka decks, 27% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 15,
+            "b3": 27,
+            "avg": "00"
+          },
+          "group": "Utility"
+        },
+        {
+          "name": "Agna Qel'a",
+          "tier": "consider",
+          "why": "Played in 27% of Bracket 2 Sokka decks, 21% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 27,
+            "b3": 21,
+            "avg": "10"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Archmage Emeritus",
+          "tier": "consider",
+          "why": "Played in 21% of Bracket 2 Sokka decks, 26% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 21,
+            "b3": 26,
+            "avg": "01"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Dovin's Veto",
+          "tier": "consider",
+          "why": "Played in 17% of Bracket 2 Sokka decks, 26% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 17,
+            "b3": 26,
+            "avg": "01"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Allied Teamwork",
+          "tier": "consider",
+          "why": "Played in 26% of Bracket 2 Sokka decks, 14% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 26,
+            "b3": 14,
+            "avg": "10"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Monastery Mentor",
+          "tier": "consider",
+          "why": "Played in 20% of Bracket 2 Sokka decks, 25% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 20,
+            "b3": 25,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Airbender's Reversal",
+          "tier": "consider",
+          "why": "Played in 25% of Bracket 2 Sokka decks, 13% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 25,
+            "b3": 13,
+            "avg": "10"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Airbending Lesson",
+          "tier": "consider",
+          "why": "Played in 25% of Bracket 2 Sokka decks, 11% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 25,
+            "b3": 11,
+            "avg": "10"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Lightning Bolt",
+          "tier": "consider",
+          "why": "Played in 23% of Bracket 2 Sokka decks, 25% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 23,
+            "b3": 25,
+            "avg": "01"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Deflecting Swat",
+          "tier": "consider",
+          "why": "Played in 9% of Bracket 2 Sokka decks, 25% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 9,
+            "b3": 25,
+            "avg": "01"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Boros Signet",
+          "tier": "consider",
+          "why": "Played in 25% of Bracket 2 Sokka decks, 25% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 25,
+            "b3": 25,
+            "avg": "00"
+          },
+          "group": "Mana rock"
+        },
+        {
+          "name": "Perilous Landscape",
+          "tier": "consider",
+          "why": "Played in 25% of Bracket 2 Sokka decks, 18% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 25,
+            "b3": 18,
+            "avg": "10"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "North Pole Gates",
+          "tier": "consider",
+          "why": "Played in 25% of Bracket 2 Sokka decks, 12% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 25,
+            "b3": 12,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Gran-Gran",
+          "tier": "consider",
+          "why": "Played in 24% of Bracket 2 Sokka decks, 10% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 24,
+            "b3": 10,
+            "avg": "10"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Appa, the Vigilant",
+          "tier": "consider",
+          "why": "Played in 24% of Bracket 2 Sokka decks, 22% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 24,
+            "b3": 22,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Temple of Enlightenment",
+          "tier": "consider",
+          "why": "Played in 24% of Bracket 2 Sokka decks, 14% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 24,
+            "b3": 14,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Temple of Epiphany",
+          "tier": "consider",
+          "why": "Played in 24% of Bracket 2 Sokka decks, 14% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 24,
+            "b3": 14,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Rugged Prairie",
+          "tier": "consider",
+          "why": "Played in 22% of Bracket 2 Sokka decks, 24% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 22,
+            "b3": 24,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Kazuul Warlord",
+          "tier": "consider",
+          "why": "Played in 23% of Bracket 2 Sokka decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 23,
+            "b3": 0,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "How to Start a Riot",
+          "tier": "consider",
+          "why": "Played in 23% of Bracket 2 Sokka decks, 9% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 23,
+            "b3": 9,
+            "avg": "00"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Three Tree City",
+          "tier": "consider",
+          "why": "Played in 10% of Bracket 2 Sokka decks, 23% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 10,
+            "b3": 23,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Airship Engine Room",
+          "tier": "consider",
+          "why": "Played in 23% of Bracket 2 Sokka decks, 11% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 23,
+            "b3": 11,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Invasion Reinforcements",
+          "tier": "consider",
+          "why": "Played in 22% of Bracket 2 Sokka decks, 10% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 22,
+            "b3": 10,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Roaming Throne",
+          "tier": "consider",
+          "why": "Played in 9% of Bracket 2 Sokka decks, 22% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 9,
+            "b3": 22,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Negate",
+          "tier": "consider",
+          "why": "Played in 22% of Bracket 2 Sokka decks, 20% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 22,
+            "b3": 20,
+            "avg": "00"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Pongify",
+          "tier": "consider",
+          "why": "Played in 15% of Bracket 2 Sokka decks, 22% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 15,
+            "b3": 22,
+            "avg": "00"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Swan Song",
+          "tier": "consider",
+          "why": "Played in 8% of Bracket 2 Sokka decks, 22% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 8,
+            "b3": 22,
+            "avg": "00"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "White Lotus Tile",
+          "tier": "consider",
+          "why": "Played in 22% of Bracket 2 Sokka decks, 22% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 22,
+            "b3": 22,
+            "avg": "00"
+          },
+          "group": "Mana rock"
+        },
+        {
+          "name": "Sun-Blessed Peak",
+          "tier": "consider",
+          "why": "Played in 22% of Bracket 2 Sokka decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 22,
+            "b3": 0,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Balmor, Battlemage Captain",
+          "tier": "consider",
+          "why": "Played in 19% of Bracket 2 Sokka decks, 21% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 19,
+            "b3": 21,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Temple of Triumph",
+          "tier": "consider",
+          "why": "Played in 21% of Bracket 2 Sokka decks, 12% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 21,
+            "b3": 12,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Patchwork Banner",
+          "tier": "consider",
+          "why": "Played in 17% of Bracket 2 Sokka decks, 20% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 2",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 17,
+            "b3": 20,
+            "avg": "00"
+          },
+          "group": "Mana rock"
+        },
+        {
+          "name": "Accumulate Wisdom",
+          "tier": "consider",
+          "why": "Played in 13% of Bracket 3 Sokka decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Sokka, Bracket 3",
+              "url": "https://edhrec.com/commanders/sokka-tenacious-tactician/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 13,
+            "avg": "10"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Yip Yip!",
+          "tier": "consider",
+          "why": "In EDHREC's Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/sokka-tenacious-tactician/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 0,
+            "avg": "10"
+          },
+          "group": "Instant"
+        }
+      ]
+    },
+    {
+      "code": "fra",
+      "name": "Reality Fracture",
+      "released": "2026-10-02",
+      "picks": [
+        {
+          "name": "Geist of Saint Thalia",
+          "tier": "strong",
+          "why": "Two-mana flyer that makes every noncreature spell cost one less, so you cast more spells and make more Ally tokens each turn.",
+          "sources": [
+            {
+              "label": "Moxfield: 3 of 20 recent Bracket 2-3 Sokka lists",
+              "url": "https://moxfield.com/decks/public?q=Sokka",
+              "kind": "community"
+            }
+          ],
+          "cut": "Wayfarer's Bauble",
+          "cutWhy": "slow ramp"
+        },
+        {
+          "name": "Vraska, Soul of Stone",
+          "tier": "strong",
+          "why": "Every noncreature spell also makes a Treasure creature token, so each spell gives you two bodies (an Ally and a Sculpture) and the mana to keep going.",
+          "sources": [
+            {
+              "label": "Moxfield: 2 of 20 recent Bracket 2-3 Sokka lists",
+              "url": "https://moxfield.com/decks/public?q=Sokka",
+              "kind": "community"
+            }
+          ],
+          "cut": "Ondu Cleric",
+          "cutWhy": "small lifegain"
+        },
+        {
+          "name": "Twinned Vision",
+          "tier": "consider",
+          "why": "Instant draw with flashback, so two noncreature casts and two Ally tokens from one card.",
+          "sources": [
+            {
+              "label": "Moxfield: 2 of 20 recent Bracket 2-3 Sokka lists",
+              "url": "https://moxfield.com/decks/public?q=Sokka",
+              "kind": "community"
+            }
+          ],
+          "cut": "Faithless Looting",
+          "cutWhy": "card disadvantage"
+        },
+        {
+          "name": "Ajani's Anguish",
+          "tier": "consider",
+          "why": "Removal or a burn finisher, and it gives your wide board of Ally tokens trample.",
+          "sources": [
+            {
+              "label": "Moxfield: 3 of 20 recent Bracket 2-3 Sokka lists",
+              "url": "https://moxfield.com/decks/public?q=Sokka",
+              "kind": "community"
+            }
+          ],
+          "cut": "Hero of Goma Fada",
+          "cutWhy": "Anguish is removal and a finisher in one"
+        }
+      ]
+    },
+    {
+      "code": "msh",
+      "name": "Marvel Super Heroes",
+      "released": "2026-06",
+      "picks": [
+        {
+          "name": "Mister Fantastic, Reed Richards",
+          "tier": "strong",
+          "why": "Draws a card whenever tokens enter, and Sokka makes a token with every noncreature spell. That turns each spell into a cantrip.",
+          "sources": [
+            {
+              "label": "Moxfield: 2 of 20 recent Bracket 2-3 Sokka lists",
+              "url": "https://moxfield.com/decks/public?q=Sokka",
+              "kind": "community"
+            }
+          ],
+          "cut": "Lantern Scout",
+          "cutWhy": "low impact creature"
+        },
+        {
+          "name": "Pym Particles",
+          "tier": "consider",
+          "why": "One-mana cantrip that makes a creature unblockable. It makes an Ally and pushes damage through.",
+          "sources": [
+            {
+              "label": "Moxfield: 4 of 20 recent Bracket 2-3 Sokka lists",
+              "url": "https://moxfield.com/decks/public?q=Sokka",
+              "kind": "community"
+            }
+          ],
+          "cut": "Crash Through",
+          "cutWhy": "similar cantrip with a weaker effect"
+        }
+      ]
+    },
+    {
+      "code": "sos",
+      "name": "Secrets of Strixhaven",
+      "released": "2026-04",
+      "picks": [
+        {
+          "name": "Flow State",
+          "tier": "consider",
+          "why": "Two-mana card selection that can grab two cards when you have an instant and a sorcery in the graveyard.",
+          "sources": [
+            {
+              "label": "Moxfield: 4 of 20 recent Bracket 2-3 Sokka lists",
+              "url": "https://moxfield.com/decks/public?q=Sokka",
+              "kind": "community"
+            }
+          ],
+          "cut": "Serum Visions",
+          "cutWhy": "weaker selection"
+        },
+        {
+          "name": "Resonating Lute",
+          "tier": "consider",
+          "why": "Doubles your land mana for instants and sorceries and draws when your hand is full.",
+          "sources": [
+            {
+              "label": "Moxfield: 3 of 20 recent Bracket 2-3 Sokka lists",
+              "url": "https://moxfield.com/decks/public?q=Sokka",
+              "kind": "community"
+            }
+          ],
+          "cut": "Bender's Waterskin",
+          "cutWhy": "weaker ramp"
+        },
+        {
+          "name": "Flashback",
+          "tier": "consider",
+          "why": "One red mana to recast your best instant or sorcery from the graveyard, which is one more spell and one more Ally.",
+          "sources": [
+            {
+              "label": "Moxfield: 3 of 20 recent Bracket 2-3 Sokka lists",
+              "url": "https://moxfield.com/decks/public?q=Sokka",
+              "kind": "community"
+            }
+          ],
+          "cut": "Abandon Attachments",
+          "cutWhy": "narrow"
+        }
+      ]
+    }
+  ]
+}

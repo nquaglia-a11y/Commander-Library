@@ -1,0 +1,1945 @@
+{
+  "deck": "blech",
+  "researchedAt": "2026-11-01",
+  "method": "Every non-reprint card from Lorwyn Eclipsed through Reality Fracture (and their Commander decks) was checked against the 20 most recently updated Bracket 2-3 Blech decks on Moxfield and EDHREC's Blech pages, then filtered for lifegain and Pests, Bats, Insects, Snakes and Spiders. Game Changers excluded.",
+  "rules": [
+    "Bracket 2-3",
+    "No Game Changers"
+  ],
+  "summary": "Secrets of Strixhaven was built around Blech's Pests, and recent Blech lists are full of them. Teacher's Pest, Pest Mascot and Shopkeeper's Bane are in most lists. The badge on each card counts the sources that include it; \"Claude's pick\" means no list runs it yet.",
+  "sets": [
+    {
+      "code": "edhrec",
+      "name": "EDHREC Recommendations",
+      "released": "All sets",
+      "kind": "edhrec",
+      "note": "Cards Blech players commonly run in Bracket 2 and 3 that aren't in your deck, from EDHREC's bracket pages and average decks. Game Changers removed (Vampiric Tutor, Crop Rotation, Worldly Tutor, Demonic Tutor, Bolas's Citadel, Gaea's Cradle). Sorted by how often they're played.",
+      "picks": [
+        {
+          "name": "Twitching Doll",
+          "tier": "strong",
+          "why": "Played in 63% of Bracket 2 Blech decks, 65% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 63,
+            "b3": 65,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Arasta of the Endless Web",
+          "tier": "strong",
+          "why": "Played in 65% of Bracket 3 Blech decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 65,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Duskshell Crawler",
+          "tier": "strong",
+          "why": "Played in 65% of Bracket 3 Blech decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 65,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Deathcap Glade",
+          "tier": "strong",
+          "why": "Played in 59% of Bracket 2 Blech decks, 64% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 59,
+            "b3": 64,
+            "avg": "11"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Haywire Mite",
+          "tier": "strong",
+          "why": "Played in 61% of Bracket 2 Blech decks, 62% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 61,
+            "b3": 62,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Witherbloom Charm",
+          "tier": "strong",
+          "why": "Played in 60% of Bracket 2 Blech decks, 52% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 60,
+            "b3": 52,
+            "avg": "11"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Vernal Fen",
+          "tier": "strong",
+          "why": "Played in 57% of Bracket 2 Blech decks, 60% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 57,
+            "b3": 60,
+            "avg": "11"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Overgrown Tomb",
+          "tier": "strong",
+          "why": "Played in 41% of Bracket 2 Blech decks, 60% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 41,
+            "b3": 60,
+            "avg": "11"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Blight Mound",
+          "tier": "strong",
+          "why": "Played in 59% of Bracket 2 Blech decks, 58% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 59,
+            "b3": 58,
+            "avg": "11"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Assassin's Trophy",
+          "tier": "strong",
+          "why": "Played in 52% of Bracket 2 Blech decks, 58% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 52,
+            "b3": 58,
+            "avg": "11"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Professor Dellian Fel",
+          "tier": "strong",
+          "why": "Played in 41% of Bracket 2 Blech decks, 54% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 41,
+            "b3": 54,
+            "avg": "11"
+          },
+          "group": "Planeswalker"
+        },
+        {
+          "name": "Gorma, the Gullet",
+          "tier": "strong",
+          "why": "Played in 49% of Bracket 2 Blech decks, 52% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 49,
+            "b3": 52,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Undergrowth Stadium",
+          "tier": "strong",
+          "why": "Played in 35% of Bracket 2 Blech decks, 52% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 35,
+            "b3": 52,
+            "avg": "11"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Enduring Tenacity",
+          "tier": "strong",
+          "why": "Played in 34% of Bracket 2 Blech decks, 51% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 34,
+            "b3": 51,
+            "avg": "01"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Blex, Vexing Pest",
+          "tier": "strong",
+          "why": "Played in 44% of Bracket 2 Blech decks, 49% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 44,
+            "b3": 49,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Sakura-Tribe Elder",
+          "tier": "strong",
+          "why": "Played in 48% of Bracket 2 Blech decks, 39% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 48,
+            "b3": 39,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Essenceknit Scholar",
+          "tier": "strong",
+          "why": "Played in 47% of Bracket 2 Blech decks, 38% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 47,
+            "b3": 38,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Mortality Spear",
+          "tier": "strong",
+          "why": "Played in 45% of Bracket 2 Blech decks, 44% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 45,
+            "b3": 44,
+            "avg": "11"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Prosperous Innkeeper",
+          "tier": "strong",
+          "why": "Played in 41% of Bracket 2 Blech decks, 44% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 41,
+            "b3": 44,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Lluwen, Exchange Student",
+          "tier": "strong",
+          "why": "Played in 43% of Bracket 2 Blech decks, 37% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 43,
+            "b3": 37,
+            "avg": "10"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Heroic Intervention",
+          "tier": "strong",
+          "why": "Played in 26% of Bracket 2 Blech decks, 43% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 26,
+            "b3": 43,
+            "avg": "11"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Toxic Deluge",
+          "tier": "strong",
+          "why": "Played in 33% of Bracket 2 Blech decks, 43% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 33,
+            "b3": 43,
+            "avg": "11"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Swarmyard",
+          "tier": "strong",
+          "why": "Played in 31% of Bracket 2 Blech decks, 40% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 31,
+            "b3": 40,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Send in the Pest",
+          "tier": "strong",
+          "why": "Played in 38% of Bracket 2 Blech decks, 34% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 38,
+            "b3": 34,
+            "avg": "11"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Nature's Lore",
+          "tier": "strong",
+          "why": "Played in 30% of Bracket 2 Blech decks, 37% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 30,
+            "b3": 37,
+            "avg": "11"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Turbulent Fen",
+          "tier": "consider",
+          "why": "Played in 31% of Bracket 2 Blech decks, 37% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 31,
+            "b3": 37,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Blood Artist",
+          "tier": "consider",
+          "why": "Played in 31% of Bracket 2 Blech decks, 36% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 31,
+            "b3": 36,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Doubling Season",
+          "tier": "strong",
+          "why": "Played in 22% of Bracket 2 Blech decks, 36% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 22,
+            "b3": 36,
+            "avg": "11"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Fumulus, the Infestation",
+          "tier": "consider",
+          "why": "Played in 27% of Bracket 2 Blech decks, 34% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 27,
+            "b3": 34,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Whip of Erebos",
+          "tier": "consider",
+          "why": "Played in 21% of Bracket 2 Blech decks, 34% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 21,
+            "b3": 34,
+            "avg": "01"
+          },
+          "group": "Utility"
+        },
+        {
+          "name": "Hornet Nest",
+          "tier": "consider",
+          "why": "Played in 32% of Bracket 2 Blech decks, 26% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 32,
+            "b3": 26,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Fanatic of Rhonas",
+          "tier": "consider",
+          "why": "Played in 19% of Bracket 2 Blech decks, 31% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 19,
+            "b3": 31,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Fabled Passage",
+          "tier": "consider",
+          "why": "Played in 28% of Bracket 2 Blech decks, 31% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 28,
+            "b3": 31,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Dina's Guidance",
+          "tier": "consider",
+          "why": "Played in 22% of Bracket 2 Blech decks, 29% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 22,
+            "b3": 29,
+            "avg": "01"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Wastewood Verge",
+          "tier": "consider",
+          "why": "Played in 23% of Bracket 2 Blech decks, 29% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 23,
+            "b3": 29,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Adventurer's Inn",
+          "tier": "consider",
+          "why": "Played in 27% of Bracket 2 Blech decks, 28% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 27,
+            "b3": 28,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Valentin, Dean of the Vein",
+          "tier": "consider",
+          "why": "Played in 27% of Bracket 2 Blech decks, 27% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 27,
+            "b3": 27,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Mazirek, Kraul Death Priest",
+          "tier": "consider",
+          "why": "Played in 27% of Bracket 2 Blech decks, 24% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 27,
+            "b3": 24,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Springheart Nantuko",
+          "tier": "consider",
+          "why": "Played in 20% of Bracket 2 Blech decks, 26% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 20,
+            "b3": 26,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Verdant Catacombs",
+          "tier": "consider",
+          "why": "Played in 16% of Bracket 2 Blech decks, 26% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 16,
+            "b3": 26,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Springleaf Parade",
+          "tier": "consider",
+          "why": "Played in 19% of Bracket 2 Blech decks, 25% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 19,
+            "b3": 25,
+            "avg": "01"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Pristine Talisman",
+          "tier": "strong",
+          "why": "Played in 25% of Bracket 2 Blech decks, 23% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 25,
+            "b3": 23,
+            "avg": "11"
+          },
+          "group": "Mana rock"
+        },
+        {
+          "name": "Illegitimate Business",
+          "tier": "consider",
+          "why": "Played in 25% of Bracket 2 Blech decks, 25% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 25,
+            "b3": 25,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Titan's Grave",
+          "tier": "consider",
+          "why": "Played in 25% of Bracket 2 Blech decks, 19% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 25,
+            "b3": 19,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Dina, Essence Brewer",
+          "tier": "consider",
+          "why": "Played in 21% of Bracket 2 Blech decks, 24% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 21,
+            "b3": 24,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Three Visits",
+          "tier": "consider",
+          "why": "Played in 17% of Bracket 2 Blech decks, 24% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 17,
+            "b3": 24,
+            "avg": "00"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Darkstar Augur",
+          "tier": "consider",
+          "why": "Played in 22% of Bracket 2 Blech decks, 23% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 22,
+            "b3": 23,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Hornet Queen",
+          "tier": "consider",
+          "why": "Played in 22% of Bracket 2 Blech decks, 16% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 22,
+            "b3": 16,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Revitalizing Repast",
+          "tier": "consider",
+          "why": "Played in 22% of Bracket 2 Blech decks, 20% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 22,
+            "b3": 20,
+            "avg": "10"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Yavimaya, Cradle of Growth",
+          "tier": "consider",
+          "why": "Played in 13% of Bracket 2 Blech decks, 22% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 13,
+            "b3": 22,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Talisman of Resilience",
+          "tier": "strong",
+          "why": "Played in 22% of Bracket 2 Blech decks, 22% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 22,
+            "b3": 22,
+            "avg": "11"
+          },
+          "group": "Mana rock"
+        },
+        {
+          "name": "Lotus Cobra",
+          "tier": "consider",
+          "why": "Played in 15% of Bracket 2 Blech decks, 21% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 15,
+            "b3": 21,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Village Rites",
+          "tier": "consider",
+          "why": "Played in 21% of Bracket 2 Blech decks, 21% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 21,
+            "b3": 21,
+            "avg": "00"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Culling Ritual",
+          "tier": "consider",
+          "why": "Played in 21% of Bracket 2 Blech decks, 18% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 21,
+            "b3": 18,
+            "avg": "00"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Radiant Fountain",
+          "tier": "consider",
+          "why": "Played in 21% of Bracket 2 Blech decks, 21% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 21,
+            "b3": 21,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Riveteers Overlook",
+          "tier": "consider",
+          "why": "Played in 21% of Bracket 2 Blech decks, 18% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 21,
+            "b3": 18,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Festering Thicket",
+          "tier": "consider",
+          "why": "Played in 21% of Bracket 2 Blech decks, 18% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 2",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 21,
+            "b3": 18,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Exquisite Blood",
+          "tier": "consider",
+          "why": "Played in 20% of Bracket 3 Blech decks.",
+          "sources": [
+            {
+              "label": "EDHREC Blech, Bracket 3",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 20,
+            "avg": "00"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Pest Mascot",
+          "tier": "strong",
+          "why": "In EDHREC's Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 0,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Shopkeeper's Bane",
+          "tier": "strong",
+          "why": "In EDHREC's Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 0,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Teacher's Pest",
+          "tier": "strong",
+          "why": "In EDHREC's Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 0,
+            "avg": "11"
+          },
+          "group": "Creature"
+        }
+      ]
+    },
+    {
+      "code": "msh",
+      "name": "Marvel Super Heroes",
+      "released": "2026-06",
+      "picks": [
+        {
+          "name": "Bushmaster, Coiled Henchman",
+          "tier": "consider",
+          "why": "A two-mana Snake that gives every creature with a +1/+1 counter deathtouch. Blech puts counters on everything.",
+          "sources": [
+            {
+              "label": "Moxfield: 5 of 20 recent Bracket 2-3 Blech lists",
+              "url": "https://moxfield.com/decks/public?q=Blech",
+              "kind": "community"
+            }
+          ],
+          "cut": "Root Manipulation",
+          "cutWhy": "Bushmaster makes every creature with a counter a deathtouch threat"
+        },
+        {
+          "name": "Subterranean Cavern",
+          "tier": "consider",
+          "why": "Golgari tapland that gains 1 life when it enters, which is a free Blech trigger.",
+          "sources": [
+            {
+              "label": "Moxfield: 7 of 20 recent Bracket 2-3 Blech lists",
+              "url": "https://moxfield.com/decks/public?q=Blech",
+              "kind": "community"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "sos",
+      "name": "Secrets of Strixhaven",
+      "released": "2026-04",
+      "picks": [
+        {
+          "name": "Teacher's Pest",
+          "tier": "strong",
+          "why": "A two-mana Pest with menace that gains life every attack, which grows every Pest through Blech, and it comes back from the graveyard. In 18 of 20 recent Blech lists.",
+          "sources": [
+            {
+              "label": "EDHREC average deck",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield: 18 of 20 recent Bracket 2-3 Blech lists",
+              "url": "https://moxfield.com/decks/public?q=Blech",
+              "kind": "community"
+            }
+          ],
+          "cut": "Wurm's Tooth",
+          "cutWhy": "slow lifegain"
+        },
+        {
+          "name": "Pest Mascot",
+          "tier": "strong",
+          "why": "A Pest with trample that gets a counter from every lifegain trigger, so it gets double counters with Blech out.",
+          "sources": [
+            {
+              "label": "EDHREC average deck",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield: 14 of 20 recent Bracket 2-3 Blech lists",
+              "url": "https://moxfield.com/decks/public?q=Blech",
+              "kind": "community"
+            }
+          ],
+          "cut": "Tablet of the Guilds",
+          "cutWhy": "slow lifegain"
+        },
+        {
+          "name": "Shopkeeper's Bane",
+          "tier": "strong",
+          "why": "Three-mana trampling Pest that gains 2 life on each attack.",
+          "sources": [
+            {
+              "label": "EDHREC average deck",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield: 13 of 20 recent Bracket 2-3 Blech lists",
+              "url": "https://moxfield.com/decks/public?q=Blech",
+              "kind": "community"
+            }
+          ],
+          "cut": "Kazandu Nectarpot",
+          "cutWhy": "weaker lifegain creature"
+        },
+        {
+          "name": "Witherbloom Charm",
+          "tier": "strong",
+          "why": "Two-mana instant: draw two, gain 5 life (a big Blech trigger) or kill a cheap permanent.",
+          "sources": [
+            {
+              "label": "EDHREC Blech: 60% of Bracket 2, 52% of Bracket 3 decks",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield: 11 of 20 recent Bracket 2-3 Blech lists",
+              "url": "https://moxfield.com/decks/public?q=Blech",
+              "kind": "community"
+            }
+          ],
+          "cut": "Golgari Charm",
+          "cutWhy": "Witherbloom Charm is more flexible for this deck"
+        },
+        {
+          "name": "Gorma, the Gullet",
+          "tier": "strong",
+          "why": "A lifelink Pest Frog that grows when your creatures die and makes your next creatures enter bigger.",
+          "sources": [
+            {
+              "label": "EDHREC Blech: 49% of Bracket 2, 52% of Bracket 3 decks",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield: 10 of 20 recent Bracket 2-3 Blech lists",
+              "url": "https://moxfield.com/decks/public?q=Blech",
+              "kind": "community"
+            }
+          ],
+          "cut": "Dross Hopper",
+          "cutWhy": "weaker sacrifice outlet"
+        },
+        {
+          "name": "Send in the Pest",
+          "tier": "consider",
+          "why": "Two mana: opponents discard and you get a lifegain Pest token.",
+          "sources": [
+            {
+              "label": "EDHREC Blech: 38% of Bracket 2, 34% of Bracket 3 decks",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield: 9 of 20 recent Bracket 2-3 Blech lists",
+              "url": "https://moxfield.com/decks/public?q=Blech",
+              "kind": "community"
+            }
+          ],
+          "cut": "Rabid Attack",
+          "cutWhy": "situational"
+        },
+        {
+          "name": "Essenceknit Scholar",
+          "tier": "consider",
+          "why": "Makes a Pest and draws at end step if a creature died. It's in your Maybeboard already.",
+          "sources": [
+            {
+              "label": "EDHREC Blech: 47% of Bracket 2, 38% of Bracket 3 decks",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield: 8 of 20 recent Bracket 2-3 Blech lists",
+              "url": "https://moxfield.com/decks/public?q=Blech",
+              "kind": "community"
+            }
+          ],
+          "cut": "Meltstrider Eulogist",
+          "cutWhy": "similar draw engine"
+        },
+        {
+          "name": "Professor Dellian Fel",
+          "tier": "consider",
+          "why": "Planeswalker that gains 3 life every turn (a Blech trigger), draws and kills creatures.",
+          "sources": [
+            {
+              "label": "EDHREC Blech: 41% of Bracket 2, 54% of Bracket 3 decks",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck",
+              "url": "https://edhrec.com/average-decks/blech-loafing-pest",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield: 5 of 20 recent Bracket 2-3 Blech lists",
+              "url": "https://moxfield.com/decks/public?q=Blech",
+              "kind": "community"
+            }
+          ],
+          "cut": "Feral Appetite",
+          "cutWhy": "narrow"
+        }
+      ]
+    },
+    {
+      "code": "tmt",
+      "name": "Teenage Mutant Ninja Turtles",
+      "released": "2026-03",
+      "picks": [
+        {
+          "name": "Illegitimate Business",
+          "tier": "consider",
+          "why": "Another Golgari lifegain tapland.",
+          "sources": [
+            {
+              "label": "EDHREC Blech: 25% of Bracket 2, 25% of Bracket 3 decks",
+              "url": "https://edhrec.com/commanders/blech-loafing-pest",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield: 5 of 20 recent Bracket 2-3 Blech lists",
+              "url": "https://moxfield.com/decks/public?q=Blech",
+              "kind": "community"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1698 @@
+{
+  "deck": "stella",
+  "researchedAt": "2026-11-01",
+  "method": "Every non-reprint card from Lorwyn Eclipsed through Reality Fracture (and their Commander decks) was checked against the 20 most recently updated Bracket 2-3 Stella Lee decks on Moxfield and EDHREC's Stella Lee pages, then filtered for casting two or three spells a turn and copying them. Game Changers excluded.",
+  "rules": [
+    "Bracket 2-3",
+    "No Game Changers"
+  ],
+  "summary": "Stella rewards casting two or three spells a turn. The new cards are mostly cost reducers and spells that count twice (rebound, flashback). The badge on each card counts the sources that include it; \"Claude's pick\" means no list runs it yet.",
+  "sets": [
+    {
+      "code": "edhrec",
+      "name": "EDHREC Recommendations",
+      "released": "All sets",
+      "kind": "edhrec",
+      "note": "Cards Stella Lee players commonly run in Bracket 2 and 3 that aren't in your deck, from EDHREC's bracket pages and average decks. Game Changers removed (Thassa's Oracle, Mystical Tutor, Fierce Guardianship, Cyclonic Rift, Jeska's Will, Gamble, Rhystic Study, Underworld Breach). Sorted by how often they're played.",
+      "picks": [
+        {
+          "name": "Vandalblast",
+          "tier": "strong",
+          "why": "Played in 76% of Bracket 2 Stella Lee decks, 69% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 76,
+            "b3": 69,
+            "avg": "11"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Arcane Denial",
+          "tier": "strong",
+          "why": "Played in 74% of Bracket 2 Stella Lee decks, 68% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 74,
+            "b3": 68,
+            "avg": "11"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Haughty Djinn",
+          "tier": "strong",
+          "why": "Played in 70% of Bracket 2 Stella Lee decks, 48% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 70,
+            "b3": 48,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Young Pyromancer",
+          "tier": "strong",
+          "why": "Played in 68% of Bracket 2 Stella Lee decks, 53% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 68,
+            "b3": 53,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Third Path Iconoclast",
+          "tier": "strong",
+          "why": "Played in 65% of Bracket 2 Stella Lee decks, 49% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 65,
+            "b3": 49,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Eris, Roar of the Storm",
+          "tier": "strong",
+          "why": "Played in 63% of Bracket 2 Stella Lee decks, 40% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 63,
+            "b3": 40,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Brainstorm",
+          "tier": "strong",
+          "why": "Played in 41% of Bracket 2 Stella Lee decks, 63% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 41,
+            "b3": 63,
+            "avg": "11"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Think Twice",
+          "tier": "strong",
+          "why": "Played in 62% of Bracket 2 Stella Lee decks, 44% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 62,
+            "b3": 44,
+            "avg": "11"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Elemental Eruption",
+          "tier": "strong",
+          "why": "Played in 61% of Bracket 2 Stella Lee decks, 38% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 61,
+            "b3": 38,
+            "avg": "11"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Propaganda",
+          "tier": "strong",
+          "why": "Played in 56% of Bracket 2 Stella Lee decks, 45% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 56,
+            "b3": 45,
+            "avg": "11"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Forger's Foundry",
+          "tier": "strong",
+          "why": "Played in 56% of Bracket 2 Stella Lee decks, 35% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 56,
+            "b3": 35,
+            "avg": "11"
+          },
+          "group": "Mana rock"
+        },
+        {
+          "name": "Murmuring Mystic",
+          "tier": "strong",
+          "why": "Played in 54% of Bracket 2 Stella Lee decks, 30% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 54,
+            "b3": 30,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Rousing Refrain",
+          "tier": "strong",
+          "why": "Played in 54% of Bracket 2 Stella Lee decks, 34% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 54,
+            "b3": 34,
+            "avg": "11"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Shark Typhoon",
+          "tier": "strong",
+          "why": "Played in 54% of Bracket 2 Stella Lee decks, 30% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 54,
+            "b3": 30,
+            "avg": "11"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Snap",
+          "tier": "strong",
+          "why": "Played in 27% of Bracket 2 Stella Lee decks, 50% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 27,
+            "b3": 50,
+            "avg": "11"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Arcane Bombardment",
+          "tier": "strong",
+          "why": "Played in 50% of Bracket 2 Stella Lee decks, 32% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 50,
+            "b3": 32,
+            "avg": "11"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Dig Through Time",
+          "tier": "strong",
+          "why": "Played in 49% of Bracket 2 Stella Lee decks, 32% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 49,
+            "b3": 32,
+            "avg": "11"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "An Offer You Can't Refuse",
+          "tier": "strong",
+          "why": "Played in 23% of Bracket 2 Stella Lee decks, 49% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 23,
+            "b3": 49,
+            "avg": "01"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Curse of the Swine",
+          "tier": "strong",
+          "why": "Played in 49% of Bracket 2 Stella Lee decks, 27% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 49,
+            "b3": 27,
+            "avg": "10"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Midnight Clock",
+          "tier": "strong",
+          "why": "Played in 49% of Bracket 2 Stella Lee decks, 27% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 49,
+            "b3": 27,
+            "avg": "10"
+          },
+          "group": "Mana rock"
+        },
+        {
+          "name": "Gitaxian Probe",
+          "tier": "strong",
+          "why": "Played in 28% of Bracket 2 Stella Lee decks, 48% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 28,
+            "b3": 48,
+            "avg": "01"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Lightning Bolt",
+          "tier": "strong",
+          "why": "Played in 28% of Bracket 2 Stella Lee decks, 47% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 28,
+            "b3": 47,
+            "avg": "11"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Epic Experiment",
+          "tier": "consider",
+          "why": "Played in 39% of Bracket 2 Stella Lee decks, 20% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 39,
+            "b3": 20,
+            "avg": "10"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Steam Vents",
+          "tier": "consider",
+          "why": "Played in 16% of Bracket 2 Stella Lee decks, 38% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 16,
+            "b3": 38,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Solve the Equation",
+          "tier": "consider",
+          "why": "Played in 14% of Bracket 2 Stella Lee decks, 36% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 14,
+            "b3": 36,
+            "avg": "01"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Shore Up",
+          "tier": "consider",
+          "why": "Played in 25% of Bracket 2 Stella Lee decks, 35% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 25,
+            "b3": 35,
+            "avg": "01"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Kaza, Roil Chaser",
+          "tier": "consider",
+          "why": "Played in 33% of Bracket 2 Stella Lee decks, 16% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 33,
+            "b3": 16,
+            "avg": "10"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Dramatic Reversal",
+          "tier": "consider",
+          "why": "Played in 20% of Bracket 2 Stella Lee decks, 33% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 20,
+            "b3": 33,
+            "avg": "01"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Pyretic Charge",
+          "tier": "consider",
+          "why": "Played in 33% of Bracket 2 Stella Lee decks, 15% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 33,
+            "b3": 15,
+            "avg": "00"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Temple of the False God",
+          "tier": "consider",
+          "why": "Played in 33% of Bracket 2 Stella Lee decks, 19% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 33,
+            "b3": 19,
+            "avg": "10"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Stormcarved Coast",
+          "tier": "consider",
+          "why": "Played in 19% of Bracket 2 Stella Lee decks, 33% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 19,
+            "b3": 33,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Fellwar Stone",
+          "tier": "consider",
+          "why": "Played in 17% of Bracket 2 Stella Lee decks, 32% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 17,
+            "b3": 32,
+            "avg": "01"
+          },
+          "group": "Mana rock"
+        },
+        {
+          "name": "Stormcatch Mentor",
+          "tier": "strong",
+          "why": "Played in 27% of Bracket 2 Stella Lee decks, 31% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 27,
+            "b3": 31,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Training Center",
+          "tier": "consider",
+          "why": "Played in 11% of Bracket 2 Stella Lee decks, 28% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 11,
+            "b3": 28,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Mystic Sanctuary",
+          "tier": "consider",
+          "why": "Played in 15% of Bracket 2 Stella Lee decks, 27% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 15,
+            "b3": 27,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Octavia, Living Thesis",
+          "tier": "consider",
+          "why": "Played in 26% of Bracket 2 Stella Lee decks, 11% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 26,
+            "b3": 11,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Slick Sequence",
+          "tier": "consider",
+          "why": "Played in 26% of Bracket 2 Stella Lee decks, 21% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 26,
+            "b3": 21,
+            "avg": "00"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Flashback",
+          "tier": "consider",
+          "why": "Played in 15% of Bracket 2 Stella Lee decks, 26% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 15,
+            "b3": 26,
+            "avg": "00"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Muddle the Mixture",
+          "tier": "consider",
+          "why": "Played in 10% of Bracket 2 Stella Lee decks, 26% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 10,
+            "b3": 26,
+            "avg": "00"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Personal Tutor",
+          "tier": "consider",
+          "why": "Played in 7% of Bracket 2 Stella Lee decks, 26% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 7,
+            "b3": 26,
+            "avg": "00"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Thousand-Year Storm",
+          "tier": "consider",
+          "why": "Played in 21% of Bracket 2 Stella Lee decks, 24% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 21,
+            "b3": 24,
+            "avg": "00"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Seething Song",
+          "tier": "consider",
+          "why": "Played in 11% of Bracket 2 Stella Lee decks, 23% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 11,
+            "b3": 23,
+            "avg": "00"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Fiery Islet",
+          "tier": "consider",
+          "why": "Played in 12% of Bracket 2 Stella Lee decks, 23% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 12,
+            "b3": 23,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Borne Upon a Wind",
+          "tier": "consider",
+          "why": "Played in 11% of Bracket 2 Stella Lee decks, 22% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 11,
+            "b3": 22,
+            "avg": "00"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Crimson Wisps",
+          "tier": "consider",
+          "why": "Played in 10% of Bracket 2 Stella Lee decks, 22% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 10,
+            "b3": 22,
+            "avg": "00"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Jori En, Ruin Diver",
+          "tier": "consider",
+          "why": "Played in 21% of Bracket 2 Stella Lee decks, 19% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 21,
+            "b3": 19,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Tezzeret's Gambit",
+          "tier": "consider",
+          "why": "Played in 21% of Bracket 2 Stella Lee decks, 7% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 21,
+            "b3": 7,
+            "avg": "00"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Ral, Storm Conduit",
+          "tier": "strong",
+          "why": "Played in 19% of Bracket 2 Stella Lee decks, 21% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 19,
+            "b3": 21,
+            "avg": "11"
+          },
+          "group": "Planeswalker"
+        },
+        {
+          "name": "Scalding Tarn",
+          "tier": "consider",
+          "why": "Played in 7% of Bracket 2 Stella Lee decks, 20% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee, Bracket 2",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Stella Lee, Bracket 3",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 7,
+            "b3": 20,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Crackling Spellslinger",
+          "tier": "consider",
+          "why": "In EDHREC's Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 0,
+            "avg": "10"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Cerulean Wisps",
+          "tier": "strong",
+          "why": "In EDHREC's Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 0,
+            "avg": "11"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Refocus",
+          "tier": "strong",
+          "why": "In EDHREC's Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 0,
+            "avg": "11"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Expressive Iteration",
+          "tier": "strong",
+          "why": "In EDHREC's Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 0,
+            "avg": "11"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Twitch",
+          "tier": "consider",
+          "why": "In EDHREC's Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 0,
+            "avg": "01"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Twisted Fealty",
+          "tier": "consider",
+          "why": "In EDHREC's Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/stella-lee-wild-card/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 0,
+            "avg": "01"
+          },
+          "group": "Sorcery"
+        }
+      ]
+    },
+    {
+      "code": "fra",
+      "name": "Reality Fracture",
+      "released": "2026-10-02",
+      "picks": [
+        {
+          "name": "Geist of Saint Thalia",
+          "tier": "strong",
+          "why": "Two-mana flyer that makes all noncreature spells cost one less, so reaching your second and third spell each turn is easier.",
+          "sources": [
+            {
+              "label": "Moxfield: 3 of 20 recent Bracket 2-3 Stella Lee lists",
+              "url": "https://moxfield.com/decks/public?q=Stella%20Lee",
+              "kind": "community"
+            }
+          ],
+          "cut": "Thunderclap Drake",
+          "cutWhy": "weaker creature"
+        }
+      ]
+    },
+    {
+      "code": "msh",
+      "name": "Marvel Super Heroes",
+      "released": "2026-06",
+      "picks": [
+        {
+          "name": "Hawkeye's Bow",
+          "tier": "consider",
+          "why": "Put it on Stella: whenever she taps to copy a spell, each opponent takes 1.",
+          "sources": [
+            {
+              "label": "Moxfield: 5 of 20 recent Bracket 2-3 Stella Lee lists",
+              "url": "https://moxfield.com/decks/public?q=Stella%20Lee",
+              "kind": "community"
+            }
+          ],
+          "cut": "Kessig Flamebreather",
+          "cutWhy": "smaller burn effect"
+        },
+        {
+          "name": "Fantastic Elasticity",
+          "tier": "consider",
+          "why": "Rebound casts it again next turn, so one card counts as two spells, and it bounces a threat or returns a spell.",
+          "sources": [
+            {
+              "label": "Moxfield: 2 of 20 recent Bracket 2-3 Stella Lee lists",
+              "url": "https://moxfield.com/decks/public?q=Stella%20Lee",
+              "kind": "community"
+            }
+          ],
+          "cut": "Deep Analysis",
+          "cutWhy": "slower draw"
+        }
+      ]
+    },
+    {
+      "code": "sos",
+      "name": "Secrets of Strixhaven",
+      "released": "2026-04",
+      "picks": [
+        {
+          "name": "Abstract Paintmage",
+          "tier": "consider",
+          "why": "Adds {U}{R} for instants and sorceries every turn.",
+          "sources": [
+            {
+              "label": "Moxfield: 4 of 20 recent Bracket 2-3 Stella Lee lists",
+              "url": "https://moxfield.com/decks/public?q=Stella%20Lee",
+              "kind": "community"
+            }
+          ],
+          "cut": "Mana Geyser",
+          "cutWhy": "one-shot ritual"
+        },
+        {
+          "name": "Flashback",
+          "tier": "consider",
+          "why": "One mana to recast an instant or sorcery from your graveyard, which is an extra spell for Stella's count.",
+          "sources": [
+            {
+              "label": "EDHREC Stella Lee: 15% of Bracket 2, 26% of Bracket 3 decks",
+              "url": "https://edhrec.com/commanders/stella-lee-wild-card",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield: 4 of 20 recent Bracket 2-3 Stella Lee lists",
+              "url": "https://moxfield.com/decks/public?q=Stella%20Lee",
+              "kind": "community"
+            }
+          ],
+          "cut": "Radical Idea",
+          "cutWhy": "weaker"
+        },
+        {
+          "name": "Tablet of Discovery",
+          "tier": "consider",
+          "why": "Rock that taps for {R}{R} for spells and gives card advantage when it enters.",
+          "sources": [
+            {
+              "label": "Moxfield: 3 of 20 recent Bracket 2-3 Stella Lee lists",
+              "url": "https://moxfield.com/decks/public?q=Stella%20Lee",
+              "kind": "community"
+            }
+          ],
+          "cut": "Cursed Mirror",
+          "cutWhy": "Tablet ramps spells and gives a card"
+        },
+        {
+          "name": "Prismari, the Inspiration",
+          "tier": "consider",
+          "why": "Seven mana, but every instant and sorcery you cast gets storm. With Stella that ends games.",
+          "sources": [
+            {
+              "label": "Scryfall card text (Claude's read)",
+              "url": "https://scryfall.com/search?q=!%22Prismari%2C%20the%20Inspiration%22",
+              "kind": "analysis"
+            }
+          ],
+          "cut": "Niv-Mizzet, Parun",
+          "cutWhy": "Prismari is a stronger finisher"
+        },
+        {
+          "name": "Scorched Geyser",
+          "tier": "consider",
+          "why": "Izzet dual that enters untapped with two basics, and this deck runs plenty.",
+          "sources": [
+            {
+              "label": "Moxfield: 5 of 20 recent Bracket 2-3 Stella Lee lists",
+              "url": "https://moxfield.com/decks/public?q=Stella%20Lee",
+              "kind": "community"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ecl",
+      "name": "Lorwyn Eclipsed",
+      "released": "2026-01",
+      "picks": [
+        {
+          "name": "Hexing Squelcher",
+          "tier": "consider",
+          "why": "Your spells can't be countered. Pricey at about $20.",
+          "sources": [
+            {
+              "label": "Moxfield: 3 of 20 recent Bracket 2-3 Stella Lee lists",
+              "url": "https://moxfield.com/decks/public?q=Stella%20Lee",
+              "kind": "community"
+            }
+          ],
+          "cut": "Firebrand Archer",
+          "cutWhy": "small damage"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1941 @@
+{
+  "deck": "kadena",
+  "researchedAt": "2026-11-01",
+  "method": "Every non-reprint card from Lorwyn Eclipsed through Reality Fracture (and their Commander decks) was checked against the 20 most recently updated Bracket 2-3 Kadena decks on Moxfield and EDHREC's Kadena pages, then filtered for face-down creatures (morph, disguise, manifest, cloak). Game Changers excluded.",
+  "rules": [
+    "Bracket 2-3",
+    "No Game Changers"
+  ],
+  "summary": "Kadena draws a card for every face-down creature, but the new sets printed almost nothing face-down, so the new-set list is short: a creature tutor, a mana dork and a land. The EDHREC section is where most of the value is. The badge on each card counts the sources that include it; \"Claude's pick\" means no list runs it yet.",
+  "sets": [
+    {
+      "code": "edhrec",
+      "name": "EDHREC Recommendations",
+      "released": "All sets",
+      "kind": "edhrec",
+      "note": "Cards Kadena players commonly run in Bracket 2 and 3 that aren't in your deck, from EDHREC's bracket pages and average decks. Game Changers removed (Seedborn Muse, Cyclonic Rift, Fierce Guardianship, Worldly Tutor, Demonic Tutor, Rhystic Study). Sorted by how often they're played.",
+      "picks": [
+        {
+          "name": "Silumgar Assassin",
+          "tier": "strong",
+          "why": "Played in 75% of Bracket 2 Kadena decks, 77% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 75,
+            "b3": 77,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Trail of Mystery",
+          "tier": "strong",
+          "why": "Played in 74% of Bracket 2 Kadena decks, 66% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 74,
+            "b3": 66,
+            "avg": "11"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Farseek",
+          "tier": "strong",
+          "why": "Played in 62% of Bracket 2 Kadena decks, 72% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 62,
+            "b3": 72,
+            "avg": "11"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Secret Plans",
+          "tier": "strong",
+          "why": "Played in 67% of Bracket 3 Kadena decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 67,
+            "avg": "11"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Zoetic Cavern",
+          "tier": "strong",
+          "why": "Played in 63% of Bracket 2 Kadena decks, 65% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 63,
+            "b3": 65,
+            "avg": "11"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Thieving Amalgam",
+          "tier": "strong",
+          "why": "Played in 64% of Bracket 2 Kadena decks, 54% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 64,
+            "b3": 54,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Ugin's Mastery",
+          "tier": "strong",
+          "why": "Played in 64% of Bracket 2 Kadena decks, 62% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 64,
+            "b3": 62,
+            "avg": "11"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Hauntwoods Shrieker",
+          "tier": "strong",
+          "why": "Played in 60% of Bracket 2 Kadena decks, 63% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 60,
+            "b3": 63,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Vannifar, Evolved Enigma",
+          "tier": "strong",
+          "why": "Played in 62% of Bracket 2 Kadena decks, 54% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 62,
+            "b3": 54,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Primordial Mist",
+          "tier": "strong",
+          "why": "Played in 60% of Bracket 2 Kadena decks, 56% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 60,
+            "b3": 56,
+            "avg": "11"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Branch of Vitu-Ghazi",
+          "tier": "strong",
+          "why": "Played in 55% of Bracket 2 Kadena decks, 56% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 55,
+            "b3": 56,
+            "avg": "11"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Experiment Twelve",
+          "tier": "strong",
+          "why": "Played in 54% of Bracket 2 Kadena decks, 48% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 54,
+            "b3": 48,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Reality Shift",
+          "tier": "strong",
+          "why": "Played in 53% of Bracket 2 Kadena decks, 49% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 53,
+            "b3": 49,
+            "avg": "11"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Breeding Pool",
+          "tier": "strong",
+          "why": "Played in 31% of Bracket 2 Kadena decks, 53% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 31,
+            "b3": 53,
+            "avg": "11"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Overgrown Tomb",
+          "tier": "strong",
+          "why": "Played in 32% of Bracket 2 Kadena decks, 52% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 32,
+            "b3": 52,
+            "avg": "11"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Watery Grave",
+          "tier": "strong",
+          "why": "Played in 31% of Bracket 2 Kadena decks, 50% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 31,
+            "b3": 50,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Sakura-Tribe Elder",
+          "tier": "strong",
+          "why": "Played in 40% of Bracket 2 Kadena decks, 45% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 40,
+            "b3": 45,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Hooded Hydra",
+          "tier": "strong",
+          "why": "Played in 44% of Bracket 2 Kadena decks, 38% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 44,
+            "b3": 38,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Ixidor, Reality Sculptor",
+          "tier": "strong",
+          "why": "Played in 42% of Bracket 2 Kadena decks, 37% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 42,
+            "b3": 37,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Zagoth Triome",
+          "tier": "strong",
+          "why": "Played in 30% of Bracket 2 Kadena decks, 41% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 30,
+            "b3": 41,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Etrata, Deadly Fugitive",
+          "tier": "consider",
+          "why": "Played in 39% of Bracket 2 Kadena decks, 30% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 39,
+            "b3": 30,
+            "avg": "10"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Ugin, the Ineffable",
+          "tier": "consider",
+          "why": "Played in 38% of Bracket 2 Kadena decks, 37% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 38,
+            "b3": 37,
+            "avg": "00"
+          },
+          "group": "Planeswalker"
+        },
+        {
+          "name": "Overgrown Zealot",
+          "tier": "consider",
+          "why": "Played in 35% of Bracket 2 Kadena decks, 35% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 35,
+            "b3": 35,
+            "avg": "01"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Putrefy",
+          "tier": "strong",
+          "why": "Played in 35% of Bracket 2 Kadena decks, 27% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 35,
+            "b3": 27,
+            "avg": "11"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Golgari Rot Farm",
+          "tier": "consider",
+          "why": "Played in 35% of Bracket 2 Kadena decks, 31% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 35,
+            "b3": 31,
+            "avg": "10"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Dimir Aqueduct",
+          "tier": "consider",
+          "why": "Played in 34% of Bracket 2 Kadena decks, 29% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 34,
+            "b3": 29,
+            "avg": "10"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Three Visits",
+          "tier": "consider",
+          "why": "Played in 21% of Bracket 2 Kadena decks, 32% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 21,
+            "b3": 32,
+            "avg": "00"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Obscuring Aether",
+          "tier": "consider",
+          "why": "Played in 31% of Bracket 2 Kadena decks, 26% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 31,
+            "b3": 26,
+            "avg": "00"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Shrine of the Forsaken Gods",
+          "tier": "consider",
+          "why": "Played in 30% of Bracket 2 Kadena decks, 31% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 30,
+            "b3": 31,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Undergrowth Stadium",
+          "tier": "consider",
+          "why": "Played in 20% of Bracket 2 Kadena decks, 31% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 20,
+            "b3": 31,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Polluted Delta",
+          "tier": "consider",
+          "why": "Played in 17% of Bracket 2 Kadena decks, 31% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 17,
+            "b3": 31,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Verdant Catacombs",
+          "tier": "consider",
+          "why": "Played in 17% of Bracket 2 Kadena decks, 31% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 17,
+            "b3": 31,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Abhorrent Oculus",
+          "tier": "consider",
+          "why": "Played in 26% of Bracket 2 Kadena decks, 30% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 26,
+            "b3": 30,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Misty Rainforest",
+          "tier": "consider",
+          "why": "Played in 17% of Bracket 2 Kadena decks, 30% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 17,
+            "b3": 30,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Liberator, Urza's Battlethopter",
+          "tier": "consider",
+          "why": "Played in 23% of Bracket 2 Kadena decks, 29% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 23,
+            "b3": 29,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Heroic Intervention",
+          "tier": "consider",
+          "why": "Played in 14% of Bracket 2 Kadena decks, 29% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 14,
+            "b3": 29,
+            "avg": "01"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Become Anonymous",
+          "tier": "consider",
+          "why": "Played in 28% of Bracket 2 Kadena decks, 18% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 28,
+            "b3": 18,
+            "avg": "10"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Drowned Catacomb",
+          "tier": "consider",
+          "why": "Played in 27% of Bracket 2 Kadena decks, 28% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 27,
+            "b3": 28,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Sagu Mauler",
+          "tier": "consider",
+          "why": "Played in 27% of Bracket 2 Kadena decks, 22% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 27,
+            "b3": 22,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Vedalken Orrery",
+          "tier": "consider",
+          "why": "Played in 20% of Bracket 2 Kadena decks, 27% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 20,
+            "b3": 27,
+            "avg": "01"
+          },
+          "group": "Utility"
+        },
+        {
+          "name": "Growing Dread",
+          "tier": "consider",
+          "why": "Played in 27% of Bracket 2 Kadena decks, 14% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 27,
+            "b3": 14,
+            "avg": "00"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Myriad Landscape",
+          "tier": "consider",
+          "why": "Played in 27% of Bracket 2 Kadena decks, 25% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 27,
+            "b3": 25,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Underground River",
+          "tier": "consider",
+          "why": "Played in 27% of Bracket 2 Kadena decks, 27% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 27,
+            "b3": 27,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Sultai Charm",
+          "tier": "consider",
+          "why": "Played in 26% of Bracket 2 Kadena decks, 22% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 26,
+            "b3": 22,
+            "avg": "10"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Morphic Pool",
+          "tier": "consider",
+          "why": "Played in 16% of Bracket 2 Kadena decks, 26% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 16,
+            "b3": 26,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Salt Road Ambushers",
+          "tier": "consider",
+          "why": "Played in 25% of Bracket 2 Kadena decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 25,
+            "b3": 0,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Thelonite Hermit",
+          "tier": "consider",
+          "why": "Played in 25% of Bracket 2 Kadena decks, 23% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 25,
+            "b3": 23,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Hide in Plain Sight",
+          "tier": "consider",
+          "why": "Played in 25% of Bracket 2 Kadena decks, 16% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 25,
+            "b3": 16,
+            "avg": "00"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Strionic Resonator",
+          "tier": "strong",
+          "why": "Played in 25% of Bracket 2 Kadena decks, 24% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 25,
+            "b3": 24,
+            "avg": "11"
+          },
+          "group": "Utility"
+        },
+        {
+          "name": "Guardian Project",
+          "tier": "consider",
+          "why": "Played in 17% of Bracket 2 Kadena decks, 25% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 17,
+            "b3": 25,
+            "avg": "00"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Temur War Shaman",
+          "tier": "consider",
+          "why": "Played in 24% of Bracket 2 Kadena decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 24,
+            "b3": 0,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Temur Sabertooth",
+          "tier": "consider",
+          "why": "Played in 23% of Bracket 2 Kadena decks, 24% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 23,
+            "b3": 24,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Aphetto Runecaster",
+          "tier": "consider",
+          "why": "Played in 23% of Bracket 2 Kadena decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 23,
+            "b3": 0,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "High Fae Trickster",
+          "tier": "consider",
+          "why": "Played in 17% of Bracket 2 Kadena decks, 23% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 17,
+            "b3": 23,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Temple of the False God",
+          "tier": "consider",
+          "why": "Played in 23% of Bracket 2 Kadena decks, 21% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 23,
+            "b3": 21,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Talisman of Curiosity",
+          "tier": "consider",
+          "why": "Played in 22% of Bracket 2 Kadena decks, 23% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 22,
+            "b3": 23,
+            "avg": "01"
+          },
+          "group": "Mana rock"
+        },
+        {
+          "name": "Flooded Grove",
+          "tier": "consider",
+          "why": "Played in 21% of Bracket 2 Kadena decks, 23% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 21,
+            "b3": 23,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Grazilaxx, Illithid Scholar",
+          "tier": "consider",
+          "why": "Played in 22% of Bracket 2 Kadena decks, 21% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 22,
+            "b3": 21,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Under the Skin",
+          "tier": "consider",
+          "why": "Played in 22% of Bracket 2 Kadena decks, 12% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 22,
+            "b3": 12,
+            "avg": "00"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Thran Dynamo",
+          "tier": "consider",
+          "why": "Played in 22% of Bracket 2 Kadena decks, 20% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 22,
+            "b3": 20,
+            "avg": "10"
+          },
+          "group": "Mana rock"
+        },
+        {
+          "name": "Ash Barrens",
+          "tier": "consider",
+          "why": "Played in 22% of Bracket 2 Kadena decks, 18% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 22,
+            "b3": 18,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Biomass Mutation",
+          "tier": "consider",
+          "why": "Played in 21% of Bracket 2 Kadena decks, 18% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 21,
+            "b3": 18,
+            "avg": "00"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Temple of Mystery",
+          "tier": "consider",
+          "why": "Played in 21% of Bracket 2 Kadena decks, 16% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 21,
+            "b3": 16,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Birds of Paradise",
+          "tier": "consider",
+          "why": "Played in 21% of Bracket 3 Kadena decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 21,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Craterhoof Behemoth",
+          "tier": "consider",
+          "why": "Played in 21% of Bracket 3 Kadena decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 21,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Sudden Substitution",
+          "tier": "consider",
+          "why": "Played in 17% of Bracket 2 Kadena decks, 20% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 17,
+            "b3": 20,
+            "avg": "00"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Elven Chorus",
+          "tier": "consider",
+          "why": "Played in 15% of Bracket 2 Kadena decks, 20% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 15,
+            "b3": 20,
+            "avg": "00"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Simic Signet",
+          "tier": "consider",
+          "why": "Played in 20% of Bracket 2 Kadena decks, 17% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 20,
+            "b3": 17,
+            "avg": "00"
+          },
+          "group": "Mana rock"
+        },
+        {
+          "name": "Thornwood Falls",
+          "tier": "consider",
+          "why": "Played in 20% of Bracket 2 Kadena decks, 17% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Kadena, Bracket 2",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Kadena, Bracket 3",
+              "url": "https://edhrec.com/commanders/kadena-slinking-sorcerer/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 20,
+            "b3": 17,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Dream Chisel",
+          "tier": "consider",
+          "why": "In EDHREC's Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/kadena-slinking-sorcerer/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 0,
+            "avg": "10"
+          },
+          "group": "Utility"
+        }
+      ]
+    },
+    {
+      "code": "sos",
+      "name": "Secrets of Strixhaven",
+      "released": "2026-04",
+      "picks": [
+        {
+          "name": "Dina's Guidance",
+          "tier": "consider",
+          "why": "Instant-speed creature tutor that can also drop the card in the graveyard for Den Protector or Deathmist Raptor recursion.",
+          "sources": [
+            {
+              "label": "Moxfield: 1 of 20 recent Bracket 2-3 Kadena lists",
+              "url": "https://moxfield.com/decks/public?q=Kadena",
+              "kind": "community"
+            }
+          ],
+          "cut": "Equilibrium",
+          "cutWhy": "narrow bounce effect"
+        }
+      ]
+    },
+    {
+      "code": "tmt",
+      "name": "Teenage Mutant Ninja Turtles",
+      "released": "2026-03",
+      "picks": [
+        {
+          "name": "Frog Butler",
+          "tier": "consider",
+          "why": "Two-mana dork that makes any color and has deathtouch, so it ramps you into an early face-down creature and still blocks well.",
+          "sources": [
+            {
+              "label": "Moxfield: 1 of 20 recent Bracket 2-3 Kadena lists",
+              "url": "https://moxfield.com/decks/public?q=Kadena",
+              "kind": "community"
+            }
+          ],
+          "cut": "Wilderness Reclamation",
+          "cutWhy": "does little in a deck that spends its mana on its own turn"
+        }
+      ]
+    },
+    {
+      "code": "ecl",
+      "name": "Lorwyn Eclipsed",
+      "released": "2026-01",
+      "picks": [
+        {
+          "name": "Formidable Speaker",
+          "tier": "strong",
+          "why": "Three mana: discard a spare card to tutor any creature, so it finds your best morph, Kozilek or a finisher. Its untap ability also lets you reuse a mana rock or a tapped creature.",
+          "sources": [
+            {
+              "label": "Moxfield: 2 of 20 recent Bracket 2-3 Kadena lists",
+              "url": "https://moxfield.com/decks/public?q=Kadena",
+              "kind": "community"
+            }
+          ],
+          "cut": "Teferi's Ageless Insight",
+          "cutWhy": "slow card draw; Kadena already draws plenty"
+        },
+        {
+          "name": "Sodden Verdure",
+          "tier": "consider",
+          "why": "Simic dual that enters untapped once you have two basics. Cheap fixing upgrade for any tapped land.",
+          "sources": [
+            {
+              "label": "Moxfield: 2 of 20 recent Bracket 2-3 Kadena lists",
+              "url": "https://moxfield.com/decks/public?q=Kadena",
+              "kind": "community"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

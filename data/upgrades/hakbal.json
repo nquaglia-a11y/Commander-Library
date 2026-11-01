@@ -1,0 +1,1793 @@
+{
+  "deck": "hakbal",
+  "researchedAt": "2026-11-01",
+  "method": "Every non-reprint card from Lorwyn Eclipsed through Reality Fracture (and their Commander decks) was checked against the 20 most recently updated Bracket 2-3 Hakbal decks on Moxfield and EDHREC's Hakbal pages, then filtered for Merfolk and explore. Game Changers excluded.",
+  "rules": [
+    "Bracket 2-3",
+    "No Game Changers"
+  ],
+  "summary": "The Marvel sets gave Merfolk a lot: Attuma and both Namors are already the most-played new cards in recent Hakbal lists. Namor, Scourge of the Seas is especially good here because Hakbal puts +1/+1 counters on every Merfolk. The badge on each card counts the sources that include it; \"Claude's pick\" means no list runs it yet.",
+  "sets": [
+    {
+      "code": "edhrec",
+      "name": "EDHREC Recommendations",
+      "released": "All sets",
+      "kind": "edhrec",
+      "note": "Cards Hakbal players commonly run in Bracket 2 and 3 that aren't in your deck, from EDHREC's bracket pages and average decks. Game Changers removed (Cyclonic Rift, Fierce Guardianship, Worldly Tutor, Force of Will, Rhystic Study). Sorted by how often they're played.",
+      "picks": [
+        {
+          "name": "Tatyova, Benthic Druid",
+          "tier": "strong",
+          "why": "Played in 80% of Bracket 2 Hakbal decks, 70% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 80,
+            "b3": 70,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Merfolk Mistbinder",
+          "tier": "strong",
+          "why": "Played in 75% of Bracket 2 Hakbal decks, 60% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 75,
+            "b3": 60,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Lord of Atlantis",
+          "tier": "strong",
+          "why": "Played in 47% of Bracket 2 Hakbal decks, 69% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 47,
+            "b3": 69,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Kiora's Follower",
+          "tier": "strong",
+          "why": "Played in 68% of Bracket 2 Hakbal decks, 66% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 68,
+            "b3": 66,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Growth Spiral",
+          "tier": "strong",
+          "why": "Played in 65% of Bracket 2 Hakbal decks, 49% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 65,
+            "b3": 49,
+            "avg": "11"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Tishana's Tidebinder",
+          "tier": "strong",
+          "why": "Played in 42% of Bracket 2 Hakbal decks, 57% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 42,
+            "b3": 57,
+            "avg": "01"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Merfolk Skydiver",
+          "tier": "strong",
+          "why": "Played in 56% of Bracket 2 Hakbal decks, 40% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 56,
+            "b3": 40,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Breeding Pool",
+          "tier": "strong",
+          "why": "Played in 27% of Bracket 2 Hakbal decks, 56% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 27,
+            "b3": 56,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Counterspell",
+          "tier": "strong",
+          "why": "Played in 47% of Bracket 2 Hakbal decks, 55% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 47,
+            "b3": 55,
+            "avg": "11"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Yavimaya Coast",
+          "tier": "strong",
+          "why": "Played in 40% of Bracket 2 Hakbal decks, 55% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 40,
+            "b3": 55,
+            "avg": "11"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Dreamroot Cascade",
+          "tier": "strong",
+          "why": "Played in 38% of Bracket 2 Hakbal decks, 55% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 38,
+            "b3": 55,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Explore",
+          "tier": "strong",
+          "why": "Played in 53% of Bracket 2 Hakbal decks, 36% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 53,
+            "b3": 36,
+            "avg": "11"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Simic Signet",
+          "tier": "strong",
+          "why": "Played in 52% of Bracket 2 Hakbal decks, 35% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 52,
+            "b3": 35,
+            "avg": "11"
+          },
+          "group": "Mana rock"
+        },
+        {
+          "name": "Rejuvenating Springs",
+          "tier": "strong",
+          "why": "Played in 29% of Bracket 2 Hakbal decks, 52% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 29,
+            "b3": 52,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Vorel of the Hull Clade",
+          "tier": "strong",
+          "why": "Played in 46% of Bracket 2 Hakbal decks, 32% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 46,
+            "b3": 32,
+            "avg": "10"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Roaming Throne",
+          "tier": "strong",
+          "why": "Played in 23% of Bracket 2 Hakbal decks, 46% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 23,
+            "b3": 46,
+            "avg": "01"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Heroic Intervention",
+          "tier": "strong",
+          "why": "Played in 24% of Bracket 2 Hakbal decks, 45% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 24,
+            "b3": 45,
+            "avg": "01"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Flooded Grove",
+          "tier": "strong",
+          "why": "Played in 32% of Bracket 2 Hakbal decks, 44% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 32,
+            "b3": 44,
+            "avg": "01"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Quandrix Command",
+          "tier": "strong",
+          "why": "Played in 42% of Bracket 2 Hakbal decks, 25% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 42,
+            "b3": 25,
+            "avg": "10"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Merrow Commerce",
+          "tier": "strong",
+          "why": "Played in 29% of Bracket 2 Hakbal decks, 42% of Bracket 3 decks, in the Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 29,
+            "b3": 42,
+            "avg": "11"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Curse of the Swine",
+          "tier": "consider",
+          "why": "Played in 36% of Bracket 2 Hakbal decks, 22% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 36,
+            "b3": 22,
+            "avg": "10"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Forerunner of the Heralds",
+          "tier": "consider",
+          "why": "Played in 31% of Bracket 2 Hakbal decks, 35% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 31,
+            "b3": 35,
+            "avg": "01"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Temple of the False God",
+          "tier": "consider",
+          "why": "Played in 35% of Bracket 2 Hakbal decks, 21% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 35,
+            "b3": 21,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Deepfathom Echo",
+          "tier": "consider",
+          "why": "Played in 31% of Bracket 2 Hakbal decks, 28% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 31,
+            "b3": 28,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Misty Rainforest",
+          "tier": "consider",
+          "why": "Played in 11% of Bracket 2 Hakbal decks, 31% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 11,
+            "b3": 31,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Thassa, God of the Sea",
+          "tier": "consider",
+          "why": "Played in 30% of Bracket 2 Hakbal decks, 20% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 30,
+            "b3": 20,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "An Offer You Can't Refuse",
+          "tier": "consider",
+          "why": "Played in 16% of Bracket 2 Hakbal decks, 30% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 16,
+            "b3": 30,
+            "avg": "01"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Ozolith, the Shattered Spire",
+          "tier": "consider",
+          "why": "Played in 20% of Bracket 2 Hakbal decks, 30% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 20,
+            "b3": 30,
+            "avg": "01"
+          },
+          "group": "Utility"
+        },
+        {
+          "name": "Cavern of Souls",
+          "tier": "consider",
+          "why": "Played in 12% of Bracket 2 Hakbal decks, 30% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 12,
+            "b3": 30,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Willowrush Verge",
+          "tier": "consider",
+          "why": "Played in 14% of Bracket 2 Hakbal decks, 29% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 14,
+            "b3": 29,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Barkchannel Pathway",
+          "tier": "consider",
+          "why": "Played in 15% of Bracket 2 Hakbal decks, 28% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 15,
+            "b3": 28,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Surgespanner",
+          "tier": "consider",
+          "why": "Played in 28% of Bracket 3 Hakbal decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 28,
+            "avg": "10"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Pongify",
+          "tier": "consider",
+          "why": "Played in 15% of Bracket 2 Hakbal decks, 26% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 15,
+            "b3": 26,
+            "avg": "00"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Jadelight Spelunker",
+          "tier": "consider",
+          "why": "Played in 25% of Bracket 2 Hakbal decks, 20% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 25,
+            "b3": 20,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Attuma, Atlantean Warlord",
+          "tier": "consider",
+          "why": "Played in 21% of Bracket 2 Hakbal decks, 25% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 21,
+            "b3": 25,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Negate",
+          "tier": "consider",
+          "why": "Played in 25% of Bracket 2 Hakbal decks, 21% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 25,
+            "b3": 21,
+            "avg": "00"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Xolatoyac, the Smiling Flood",
+          "tier": "consider",
+          "why": "Played in 24% of Bracket 2 Hakbal decks, 13% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 24,
+            "b3": 13,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Coralhelm Commander",
+          "tier": "consider",
+          "why": "Played in 24% of Bracket 2 Hakbal decks, 13% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 24,
+            "b3": 13,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Commander's Sphere",
+          "tier": "consider",
+          "why": "Played in 24% of Bracket 2 Hakbal decks, 10% of Bracket 3 decks, in the Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 24,
+            "b3": 10,
+            "avg": "10"
+          },
+          "group": "Mana rock"
+        },
+        {
+          "name": "Waterlogged Grove",
+          "tier": "consider",
+          "why": "Played in 14% of Bracket 2 Hakbal decks, 24% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 14,
+            "b3": 24,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Wanderwine Prophets",
+          "tier": "consider",
+          "why": "Played in 24% of Bracket 3 Hakbal decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 24,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Swan Song",
+          "tier": "consider",
+          "why": "Played in 7% of Bracket 2 Hakbal decks, 23% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 7,
+            "b3": 23,
+            "avg": "00"
+          },
+          "group": "Instant"
+        },
+        {
+          "name": "Three Visits",
+          "tier": "consider",
+          "why": "Played in 10% of Bracket 2 Hakbal decks, 23% of Bracket 3 decks, in the Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 10,
+            "b3": 23,
+            "avg": "01"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Three Tree City",
+          "tier": "consider",
+          "why": "Played in 10% of Bracket 2 Hakbal decks, 23% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 10,
+            "b3": 23,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Boseiju, Who Endures",
+          "tier": "consider",
+          "why": "Played in 6% of Bracket 2 Hakbal decks, 23% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 6,
+            "b3": 23,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Hedge Maze",
+          "tier": "consider",
+          "why": "Played in 9% of Bracket 2 Hakbal decks, 23% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 9,
+            "b3": 23,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Harbinger of the Seas",
+          "tier": "consider",
+          "why": "Played in 17% of Bracket 2 Hakbal decks, 22% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 17,
+            "b3": 22,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Mindspring Merfolk",
+          "tier": "consider",
+          "why": "Played in 17% of Bracket 2 Hakbal decks, 22% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 17,
+            "b3": 22,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Daughter of the Deep",
+          "tier": "consider",
+          "why": "Played in 14% of Bracket 2 Hakbal decks, 22% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 14,
+            "b3": 22,
+            "avg": "00"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Twists and Turns",
+          "tier": "consider",
+          "why": "Played in 22% of Bracket 2 Hakbal decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 22,
+            "b3": 0,
+            "avg": "00"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Exploration",
+          "tier": "consider",
+          "why": "Played in 13% of Bracket 2 Hakbal decks, 22% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 13,
+            "b3": 22,
+            "avg": "00"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Cultivate",
+          "tier": "consider",
+          "why": "Played in 21% of Bracket 2 Hakbal decks, 19% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 21,
+            "b3": 19,
+            "avg": "00"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Farseek",
+          "tier": "consider",
+          "why": "Played in 16% of Bracket 2 Hakbal decks, 21% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 16,
+            "b3": 21,
+            "avg": "00"
+          },
+          "group": "Sorcery"
+        },
+        {
+          "name": "Bident of Thassa",
+          "tier": "consider",
+          "why": "Played in 21% of Bracket 2 Hakbal decks, 21% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 21,
+            "b3": 21,
+            "avg": "00"
+          },
+          "group": "Utility"
+        },
+        {
+          "name": "The Ozolith",
+          "tier": "consider",
+          "why": "Played in 9% of Bracket 2 Hakbal decks, 21% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 9,
+            "b3": 21,
+            "avg": "00"
+          },
+          "group": "Utility"
+        },
+        {
+          "name": "Sphere Grid",
+          "tier": "consider",
+          "why": "Played in 10% of Bracket 2 Hakbal decks, 20% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 10,
+            "b3": 20,
+            "avg": "00"
+          },
+          "group": "Enchantment"
+        },
+        {
+          "name": "Otawara, Soaring City",
+          "tier": "consider",
+          "why": "Played in 5% of Bracket 2 Hakbal decks, 20% of Bracket 3 decks.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal, Bracket 2",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC Hakbal, Bracket 3",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 5,
+            "b3": 20,
+            "avg": "00"
+          },
+          "group": "Land"
+        },
+        {
+          "name": "Kumena, Tyrant of Orazca",
+          "tier": "strong",
+          "why": "In EDHREC's Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 0,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Merfolk Cave-Diver",
+          "tier": "strong",
+          "why": "In EDHREC's Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 0,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Mist Dancer",
+          "tier": "strong",
+          "why": "In EDHREC's Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 0,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Stonybrook Banneret",
+          "tier": "strong",
+          "why": "In EDHREC's Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 0,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Tributary Instructor",
+          "tier": "strong",
+          "why": "In EDHREC's Bracket 2 and Bracket 3 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            },
+            {
+              "label": "EDHREC average deck, Bracket 3",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/upgraded",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 0,
+            "avg": "11"
+          },
+          "group": "Creature"
+        },
+        {
+          "name": "Bygone Marvels",
+          "tier": "consider",
+          "why": "In EDHREC's Bracket 2 average deck.",
+          "sources": [
+            {
+              "label": "EDHREC average deck, Bracket 2",
+              "url": "https://edhrec.com/average-decks/hakbal-of-the-surging-soul/core",
+              "kind": "community"
+            }
+          ],
+          "edhrec": {
+            "b2": 0,
+            "b3": 0,
+            "avg": "10"
+          },
+          "group": "Sorcery"
+        }
+      ]
+    },
+    {
+      "code": "msh",
+      "name": "Marvel Super Heroes",
+      "released": "2026-06",
+      "picks": [
+        {
+          "name": "Attuma, Atlantean Warlord",
+          "tier": "strong",
+          "why": "A Merfolk lord that also draws a card whenever your Merfolk attack. It is the most-played new card in recent Hakbal lists by a wide margin.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal: 21% of Bracket 2, 25% of Bracket 3 decks",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield: 9 of 20 recent Bracket 2-3 Hakbal lists",
+              "url": "https://moxfield.com/decks/public?q=Hakbal",
+              "kind": "community"
+            }
+          ],
+          "cut": "Bred for the Hunt",
+          "cutWhy": "Attuma draws off attacks for less mana and pumps the team"
+        },
+        {
+          "name": "Namor the Sub-Mariner",
+          "tier": "strong",
+          "why": "Three-mana flyer whose power equals your Merfolk count, and every blue noncreature spell makes more Merfolk tokens for Hakbal to explore with.",
+          "sources": [
+            {
+              "label": "Moxfield: 6 of 20 recent Bracket 2-3 Hakbal lists",
+              "url": "https://moxfield.com/decks/public?q=Hakbal",
+              "kind": "community"
+            }
+          ],
+          "cut": "Summon: Leviathan",
+          "cutWhy": "expensive top end"
+        },
+        {
+          "name": "Namor, Scourge of the Seas",
+          "tier": "strong",
+          "why": "Hakbal's explores put +1/+1 counters everywhere, and Namor gives every Merfolk with a counter flying. It also connives each combat to fix your draws.",
+          "sources": [
+            {
+              "label": "Moxfield: 6 of 20 recent Bracket 2-3 Hakbal lists",
+              "url": "https://moxfield.com/decks/public?q=Hakbal",
+              "kind": "community"
+            }
+          ],
+          "cut": "Wonder",
+          "cutWhy": "Namor gives flying to the same creatures without needing to sit in the graveyard"
+        },
+        {
+          "name": "Daughter of the Deep",
+          "tier": "consider",
+          "why": "Two-drop Merfolk that makes a token when you draw your second card each turn and makes a Merfolk unblockable.",
+          "sources": [
+            {
+              "label": "EDHREC Hakbal: 14% of Bracket 2, 22% of Bracket 3 decks",
+              "url": "https://edhrec.com/commanders/hakbal-of-the-surging-soul",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield: 4 of 20 recent Bracket 2-3 Hakbal lists",
+              "url": "https://moxfield.com/decks/public?q=Hakbal",
+              "kind": "community"
+            }
+          ],
+          "cut": "Cold-Eyed Selkie",
+          "cutWhy": "weaker two-drop"
+        }
+      ]
+    },
+    {
+      "code": "sos",
+      "name": "Secrets of Strixhaven",
+      "released": "2026-04",
+      "picks": [
+        {
+          "name": "Harmonized Trio // Brainstorm",
+          "tier": "consider",
+          "why": "A one-mana Merfolk that also gives you a Brainstorm. Hakbal's explores fix the cards you put back.",
+          "sources": [
+            {
+              "label": "Moxfield: 3 of 20 recent Bracket 2-3 Hakbal lists",
+              "url": "https://moxfield.com/decks/public?q=Hakbal",
+              "kind": "community"
+            }
+          ],
+          "cut": "Inspiring Call",
+          "cutWhy": "situational draw"
+        },
+        {
+          "name": "Turbulent Wilderness",
+          "tier": "consider",
+          "why": "Simic dual that enters untapped in most long games.",
+          "sources": [
+            {
+              "label": "Moxfield: 3 of 20 recent Bracket 2-3 Hakbal lists",
+              "url": "https://moxfield.com/decks/public?q=Hakbal",
+              "kind": "community"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ecl",
+      "name": "Lorwyn Eclipsed",
+      "released": "2026-01",
+      "picks": [
+        {
+          "name": "Chronicle of Victory",
+          "tier": "consider",
+          "why": "Name Merfolk: the team gets +2/+2, first strike and trample, and every Merfolk spell draws a card. Pricey at about $23.",
+          "sources": [
+            {
+              "label": "Moxfield: 3 of 20 recent Bracket 2-3 Hakbal lists",
+              "url": "https://moxfield.com/decks/public?q=Hakbal",
+              "kind": "community"
+            }
+          ],
+          "cut": "Overwhelming Stampede",
+          "cutWhy": "Chronicle is a permanent anthem plus draw"
+        },
+        {
+          "name": "Silvergill Mentor",
+          "tier": "consider",
+          "why": "Two Merfolk bodies for two mana when you show a Merfolk, so more explores each combat.",
+          "sources": [
+            {
+              "label": "Moxfield: 2 of 20 recent Bracket 2-3 Hakbal lists",
+              "url": "https://moxfield.com/decks/public?q=Hakbal",
+              "kind": "community"
+            }
+          ],
+          "cut": "Seafloor Oracle",
+          "cutWhy": "slower Merfolk"
+        },
+        {
+          "name": "Eclipsed Realms",
+          "tier": "consider",
+          "why": "Taps for any color for Merfolk spells and abilities. Good fixing in a typal deck.",
+          "sources": [
+            {
+              "label": "Moxfield: 3 of 20 recent Bracket 2-3 Hakbal lists",
+              "url": "https://moxfield.com/decks/public?q=Hakbal",
+              "kind": "community"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
