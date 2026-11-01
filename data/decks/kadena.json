@@ -1,0 +1,1160 @@
+{
+  "id": "kadena",
+  "name": "Sorpresa 2.0",
+  "colors": [
+    "U",
+    "B",
+    "G"
+  ],
+  "bracket": "2-3",
+  "source": "https://archidekt.com/decks/23939662/sorpresa_20",
+  "importedAt": "2026-11-01",
+  "commanders": [
+    "Kadena, Slinking Sorcerer"
+  ],
+  "cards": [
+    {
+      "qty": 1,
+      "name": "Ainok Survivalist",
+      "set": "mkc",
+      "num": "165",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Alchemist's Refuge",
+      "set": "soc",
+      "num": "360",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "All Is Dust",
+      "set": "m3c",
+      "num": "152",
+      "categories": [
+        "Boardwipe"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Arcane Denial",
+      "set": "msc",
+      "num": "147",
+      "categories": [
+        "Removal"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Arcane Signet",
+      "set": "msc",
+      "num": "191",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Assassin's Trophy",
+      "set": "soc",
+      "num": "294",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Bane of the Living",
+      "set": "c19",
+      "num": "104",
+      "categories": [
+        "Boardwipe",
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Beast Whisperer",
+      "set": "clu",
+      "num": "158",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Beast Within",
+      "set": "msc",
+      "num": "169",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Beastmaster Ascension",
+      "set": "blc",
+      "num": "118",
+      "categories": [
+        "Finisher",
+        "Anthem"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Biomass Mutation",
+      "set": "soc",
+      "num": "297",
+      "categories": [
+        "Finisher"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Blossoming Bogbeast",
+      "set": "soc",
+      "num": "264",
+      "categories": [
+        "Lifegain"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Bojuka Bog",
+      "set": "soc",
+      "num": "363",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Branch of Vitu-Ghazi",
+      "set": "mkm",
+      "num": "258",
+      "categories": [
+        "Land"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Brine Elemental",
+      "set": "tsr",
+      "num": "55",
+      "categories": [
+        "Protection",
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Chromeshell Crab",
+      "set": "c19",
+      "num": "81",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Command Tower",
+      "set": "msc",
+      "num": "233",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Counterspell",
+      "set": "dsc",
+      "num": "114",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Cultivate",
+      "set": "msc",
+      "num": "172",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Curator Beastie",
+      "set": "dsc",
+      "num": "30",
+      "categories": [
+        "Counters"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Darkwater Catacombs",
+      "set": "tdc",
+      "num": "355",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Deadly Tempest",
+      "set": "scd",
+      "num": "75",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Deathmist Raptor",
+      "set": "dsc",
+      "num": "176",
+      "categories": [
+        "Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Den Protector",
+      "set": "mkc",
+      "num": "169",
+      "categories": [
+        "Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Dreamroot Cascade",
+      "set": "sos",
+      "num": "254",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Dulcet Sirens",
+      "set": "c14",
+      "num": "14",
+      "categories": [
+        "Removal"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Echo Tracer",
+      "set": "ddn",
+      "num": "51",
+      "categories": [
+        "Bounce",
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "End-Raze Forerunners",
+      "set": "blc",
+      "num": "214",
+      "categories": [
+        "Finisher"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Equilibrium",
+      "set": "plst",
+      "num": "EXO-32",
+      "categories": [
+        "Bounce"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Evolving Wilds",
+      "set": "msc",
+      "num": "240",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Exit Specialist",
+      "set": "mkm",
+      "num": "55",
+      "categories": [
+        "Bounce",
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Exotic Orchard",
+      "set": "msc",
+      "num": "241",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Experiment Twelve",
+      "set": "mkc",
+      "num": "37",
+      "categories": [
+        "Pump"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Exsanguinate",
+      "set": "fic",
+      "num": "276",
+      "categories": [
+        "Finisher"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Farseek",
+      "set": "msc",
+      "num": "173",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Foreboding Landscape",
+      "set": "tdc",
+      "num": "365",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 6,
+      "name": "Forest",
+      "set": "msh",
+      "num": "295",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Ghastly Conscription",
+      "set": "c19",
+      "num": "115",
+      "categories": [
+        "Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Gift of Doom",
+      "set": "c19",
+      "num": "17",
+      "categories": [
+        "Protection"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Glaring Fleshraker",
+      "set": "mh3",
+      "num": "507",
+      "categories": [
+        "Tokens"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Grazilaxx, Illithid Scholar",
+      "set": "clb",
+      "num": "723",
+      "categories": [
+        "Draw"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Grim Haruspex",
+      "set": "clb",
+      "num": "754",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Hauntwoods Shrieker",
+      "set": "dsk",
+      "num": "182",
+      "categories": [
+        "Draw"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Hide in Plain Sight",
+      "set": "mkm",
+      "num": "166",
+      "categories": [
+        "Draw"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Hinterland Harbor",
+      "set": "msc",
+      "num": "250",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Hooded Hydra",
+      "set": "mkc",
+      "num": "171",
+      "categories": [
+        "Tokens"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Icefeather Aven",
+      "set": "c19",
+      "num": "194",
+      "categories": [
+        "Bounce",
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 9,
+      "name": "Island",
+      "set": "msh",
+      "num": "289",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Ixidor, Reality Sculptor",
+      "set": "ons",
+      "num": "89",
+      "categories": [
+        "Anthem"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Ixidron",
+      "set": "c19",
+      "num": "87",
+      "categories": [
+        "Boardwipe",
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Kadena, Slinking Sorcerer",
+      "set": "c19",
+      "num": "45",
+      "categories": [],
+      "board": "commander"
+    },
+    {
+      "qty": 1,
+      "name": "Kadena's Silencer",
+      "set": "c19",
+      "num": "8",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Kheru Spellsnatcher",
+      "set": "dsc",
+      "num": "119",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Kozilek, the Broken Reality",
+      "set": "mh3",
+      "num": "10",
+      "categories": [
+        "Finisher",
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Leyline of Anticipation",
+      "set": "clb",
+      "num": "726",
+      "categories": [
+        "Flash Enable",
+        "Protection"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Llanowar Wastes",
+      "set": "soc",
+      "num": "383",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Mischievous Quanar",
+      "set": "scg",
+      "num": "42",
+      "categories": [
+        "Copy"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Mystic Forge",
+      "set": "m3c",
+      "num": "302",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Nantuko Vigilante",
+      "set": "mkc",
+      "num": "177",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Nature's Lore",
+      "set": "msc",
+      "num": "177",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Nervous Gardener",
+      "set": "mkm",
+      "num": "169",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Oblivious Bookworm",
+      "set": "dsk",
+      "num": "225",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Opulent Palace",
+      "set": "ecc",
+      "num": "157",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Overgrown Zealot",
+      "set": "dsk",
+      "num": "193",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Overwhelming Stampede",
+      "set": "msc",
+      "num": "178",
+      "categories": [
+        "Finisher"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Panoptic Projektor",
+      "set": "mkc",
+      "num": "44",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Pongify",
+      "set": "tdc",
+      "num": "160",
+      "categories": [
+        "Removal"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Primordial Mist",
+      "set": "dsc",
+      "num": "123",
+      "categories": [
+        "Draw"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Printlifter Ooze",
+      "set": "mkc",
+      "num": "40",
+      "categories": [
+        "Tokens"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Rampant Growth",
+      "set": "tdc",
+      "num": "265",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Reality Shift",
+      "set": "soc",
+      "num": "199",
+      "categories": [
+        "Removal"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Rejuvenating Springs",
+      "set": "msc",
+      "num": "260",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Reliquary Tower",
+      "set": "soc",
+      "num": "398",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Roshan, Hidden Magister",
+      "set": "acr",
+      "num": "32",
+      "categories": [
+        "Finisher",
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Sakura-Tribe Elder",
+      "set": "soc",
+      "num": "285",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Satoru, the Infiltrator",
+      "set": "otj",
+      "num": "230",
+      "categories": [
+        "Draw"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Scroll of Fate",
+      "set": "dsc",
+      "num": "251",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Secret Plans",
+      "set": "c19",
+      "num": "201",
+      "categories": [
+        "Draw"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Shared Roots",
+      "set": "tla",
+      "num": "196",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Silumgar Assassin",
+      "set": "c19",
+      "num": "128",
+      "categories": [
+        "Removal"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Simic Growth Chamber",
+      "set": "dsc",
+      "num": "298",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Skinthinner",
+      "set": "c19",
+      "num": "129",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Sol Ring",
+      "set": "msc",
+      "num": "211",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Stratus Dancer",
+      "set": "c19",
+      "num": "96",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Sun Quan, Lord of Wu",
+      "set": "cmm",
+      "num": "123",
+      "categories": [
+        "Evasion"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Sunken Hollow",
+      "set": "msc",
+      "num": "271",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 3,
+      "name": "Swamp",
+      "set": "msh",
+      "num": "291",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Swiftfoot Boots",
+      "set": "msc",
+      "num": "216",
+      "categories": [
+        "Protection"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Teferi, Mage of Zhalfir",
+      "set": "tsr",
+      "num": "91",
+      "categories": [
+        "Flash Enable",
+        "Protection"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Teferi's Ageless Insight",
+      "set": "j25",
+      "num": "371",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Terramorphic Expanse",
+      "set": "msc",
+      "num": "273",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "The Blue Spirit",
+      "set": "tle",
+      "num": "90",
+      "categories": [
+        "Flash Enable",
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "The Unagi of Kyoshi Island",
+      "set": "tla",
+      "num": "77",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "They Came from the Pipes",
+      "set": "dsc",
+      "num": "14",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Thieving Amalgam",
+      "set": "otc",
+      "num": "150",
+      "categories": [
+        "Theft"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Thought Vessel",
+      "set": "msc",
+      "num": "222",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Thousand Winds",
+      "set": "c19",
+      "num": "100",
+      "categories": [
+        "Boardwipe",
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Threats Around Every Corner",
+      "set": "dsk",
+      "num": "200",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Trail of Mystery",
+      "set": "dsc",
+      "num": "203",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Ugin's Mastery",
+      "set": "mkc",
+      "num": "53",
+      "categories": [
+        "Draw"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Valgavoth's Onslaught",
+      "set": "dsk",
+      "num": "204",
+      "categories": [
+        "Finisher"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Vannifar, Evolved Enigma",
+      "set": "mkm",
+      "num": "241",
+      "categories": [
+        "Counters"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Vedalken Orrery",
+      "set": "2x2",
+      "num": "317",
+      "categories": [
+        "Protection"
+      ],
+      "board": "maybe"
+    },
+    {
+      "qty": 1,
+      "name": "Vesuvan Shapeshifter",
+      "set": "tsr",
+      "num": "97",
+      "categories": [
+        "Clones"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Vivien, Champion of the Wilds",
+      "set": "clb",
+      "num": "838",
+      "categories": [
+        "Flash Enable"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Voidmage Apprentice",
+      "set": "jvc",
+      "num": "4",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Whisperwood Elemental",
+      "set": "dsc",
+      "num": "204",
+      "categories": [
+        "Protection"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Wilderness Reclamation",
+      "set": "dsc",
+      "num": "205",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Willbender",
+      "set": "c19",
+      "num": "102",
+      "categories": [
+        "Protection"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Woodland Cemetery",
+      "set": "soc",
+      "num": "424",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Yavimaya Coast",
+      "set": "soc",
+      "num": "425",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Yedora, Grave Gardener",
+      "set": "dsc",
+      "num": "209",
+      "categories": [
+        "Recursion",
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Zimone, Mystery Unraveler",
+      "set": "dsc",
+      "num": "8",
+      "categories": [
+        "Draw",
+        "Landfall"
+      ],
+      "board": "main"
+    }
+  ]
+}

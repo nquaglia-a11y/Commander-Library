@@ -1,5 +1,58 @@
 [
   {
+    "id": "blech",
+    "name": "Bichobobo Blech",
+    "commanders": [
+      "Blech, Loafing Pest"
+    ],
+    "colors": [
+      "B",
+      "G"
+    ],
+    "bracket": "2-3",
+    "source": "https://archidekt.com/decks/22187502/bichobobo_blech"
+  },
+  {
+    "id": "eriette",
+    "name": "Protect the Queen Eriette",
+    "commanders": [
+      "Eriette of the Charmed Apple"
+    ],
+    "colors": [
+      "W",
+      "B"
+    ],
+    "bracket": "2-3",
+    "source": "https://archidekt.com/decks/13068370/protect_the_queen_eriette"
+  },
+  {
+    "id": "goro",
+    "name": "Ninjas Dragons",
+    "commanders": [
+      "Goro-Goro and Satoru"
+    ],
+    "colors": [
+      "U",
+      "B",
+      "R"
+    ],
+    "bracket": "2-3",
+    "source": "https://archidekt.com/decks/9138206/ninjas_dragons"
+  },
+  {
+    "id": "hakbal",
+    "name": "La Sirenita",
+    "commanders": [
+      "Hakbal of the Surging Soul"
+    ],
+    "colors": [
+      "G",
+      "U"
+    ],
+    "bracket": "2-3",
+    "source": "https://archidekt.com/decks/9278904/la_sirenita"
+  },
+  {
     "id": "hashaton",
     "name": "Tutankamon Hashaton",
     "commanders": [
@@ -12,5 +65,73 @@
     ],
     "bracket": "2-3",
     "source": "https://archidekt.com/decks/16734023/tutankamon_hashaton"
+  },
+  {
+    "id": "hazel",
+    "name": "Squeaky Squeak",
+    "commanders": [
+      "Hazel of the Rootbloom"
+    ],
+    "colors": [
+      "B",
+      "G"
+    ],
+    "bracket": "2-3",
+    "source": "https://archidekt.com/decks/9270874/squeaky_squeak"
+  },
+  {
+    "id": "kadena",
+    "name": "Sorpresa 2.0",
+    "commanders": [
+      "Kadena, Slinking Sorcerer"
+    ],
+    "colors": [
+      "U",
+      "B",
+      "G"
+    ],
+    "bracket": "2-3",
+    "source": "https://archidekt.com/decks/23939662/sorpresa_20"
+  },
+  {
+    "id": "sokka",
+    "name": "Sokka",
+    "commanders": [
+      "Sokka, Tenacious Tactician"
+    ],
+    "colors": [
+      "W",
+      "U",
+      "R"
+    ],
+    "bracket": "2-3",
+    "source": "https://archidekt.com/decks/17484128/sokka"
+  },
+  {
+    "id": "stella",
+    "name": "Pew Pew Stella Lee",
+    "commanders": [
+      "Stella Lee, Wild Card"
+    ],
+    "colors": [
+      "U",
+      "R"
+    ],
+    "bracket": "2-3",
+    "source": "https://archidekt.com/decks/9278842/pew_pew_stella_lee"
+  },
+  {
+    "id": "teval",
+    "name": "Mill Draw Teval",
+    "commanders": [
+      "Teval, the Balanced Scale"
+    ],
+    "colors": [
+      "U",
+      "B",
+      "G"
+    ],
+    "bracket": "2-3",
+    "source": "https://archidekt.com/decks/12025637/mill_draw_teval"
   }
 ]

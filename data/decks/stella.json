@@ -1,0 +1,764 @@
+{
+  "id": "stella",
+  "name": "Pew Pew Stella Lee",
+  "bracket": "2-3",
+  "source": "https://archidekt.com/decks/9278842/pew_pew_stella_lee",
+  "importedAt": "2026-11-01",
+  "commanders": [
+    "Stella Lee, Wild Card"
+  ],
+  "cards": [
+    {
+      "qty": 1,
+      "name": "Aetherize",
+      "set": "fdn",
+      "num": "151",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Arcane Signet",
+      "set": "otc",
+      "num": "252",
+      "categories": [
+        "Artifact"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Archmage Emeritus",
+      "set": "otc",
+      "num": "90",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Baral's Expertise",
+      "set": "otc",
+      "num": "91",
+      "categories": [
+        "Sorcery"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Big Score",
+      "set": "soc",
+      "num": "237",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Blasphemous Act",
+      "set": "soc",
+      "num": "238",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Cascade Bluffs",
+      "set": "otc",
+      "num": "276",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Chaos Warp",
+      "set": "otc",
+      "num": "160",
+      "categories": [
+        "Instant"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Command Tower",
+      "set": "otc",
+      "num": "280",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Consider",
+      "set": "clu",
+      "num": "84",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Coruscation Mage",
+      "set": "blb",
+      "num": "131",
+      "categories": [
+        "Burn"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Counterspell",
+      "set": "dsc",
+      "num": "114",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Cursed Mirror",
+      "set": "otc",
+      "num": "161",
+      "categories": [
+        "Artifact"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Deep Analysis",
+      "set": "otc",
+      "num": "94",
+      "categories": [
+        "Sorcery"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Electrostatic Field",
+      "set": "otc",
+      "num": "164",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Exotic Orchard",
+      "set": "otc",
+      "num": "293",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Expedite",
+      "set": "cmr",
+      "num": "413",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Faithless Looting",
+      "set": "otc",
+      "num": "165",
+      "categories": [
+        "Sorcery"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Ferrous Lake",
+      "set": "otc",
+      "num": "294",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Fiery Inscription",
+      "set": "ltr",
+      "num": "577",
+      "categories": [
+        "Burn"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Finale of Promise",
+      "set": "otc",
+      "num": "166",
+      "categories": [
+        "Sorcery"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Finale of Revelation",
+      "set": "otc",
+      "num": "97",
+      "categories": [
+        "Sorcery"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Firebrand Archer",
+      "set": "fdn",
+      "num": "196",
+      "categories": [
+        "Burn"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Frantic Search",
+      "set": "woc",
+      "num": "93",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Frostboil Snarl",
+      "set": "otc",
+      "num": "298",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Galvanic Iteration",
+      "set": "otc",
+      "num": "227",
+      "categories": [
+        "Instant"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Goblin Electromancer",
+      "set": "otc",
+      "num": "228",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Guttersnipe",
+      "set": "otc",
+      "num": "169",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 14,
+      "name": "Island",
+      "set": "otj",
+      "num": "279",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Izzet Boilerworks",
+      "set": "otc",
+      "num": "302",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Izzet Signet",
+      "set": "otc",
+      "num": "259",
+      "categories": [
+        "Artifact"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Kessig Flamebreather",
+      "set": "vow",
+      "num": "164",
+      "categories": [
+        "Burn"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Laughing Mad",
+      "set": "fin",
+      "num": "143",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Lock and Load",
+      "set": "otc",
+      "num": "15",
+      "categories": [
+        "Sorcery"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Long River's Pull",
+      "set": "blb",
+      "num": "58",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Mana Geyser",
+      "set": "scd",
+      "num": "151",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Mizzix's Mastery",
+      "set": "otc",
+      "num": "175",
+      "categories": [
+        "Sorcery"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 13,
+      "name": "Mountain",
+      "set": "otj",
+      "num": "283",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Muddle, the Ever-Changing",
+      "set": "soc",
+      "num": "5",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Negate",
+      "set": "mom",
+      "num": "68",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Niv-Mizzet, Parun",
+      "set": "otc",
+      "num": "235",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Opt",
+      "set": "otc",
+      "num": "104",
+      "categories": [
+        "Instant"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Pink Horror",
+      "set": "40k",
+      "num": "136",
+      "categories": [
+        "Burn"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Ponder",
+      "set": "otc",
+      "num": "105",
+      "categories": [
+        "Sorcery"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Pongify",
+      "set": "otc",
+      "num": "106",
+      "categories": [
+        "Instant"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Preordain",
+      "set": "otc",
+      "num": "107",
+      "categories": [
+        "Sorcery"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Primal Amulet // Primal Wellspring",
+      "set": "xln",
+      "num": "243",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Psychosis Crawler",
+      "set": "blc",
+      "num": "282",
+      "categories": [
+        "Burn"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Radical Idea",
+      "set": "otc",
+      "num": "110",
+      "categories": [
+        "Instant"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Reliquary Tower",
+      "set": "otc",
+      "num": "312",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Resonating Lute",
+      "set": "sos",
+      "num": "221",
+      "categories": [
+        "Artifact"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Rootha, Mercurial Artist",
+      "set": "soc",
+      "num": "329",
+      "categories": [
+        "Copy"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Season of Weaving",
+      "set": "blb",
+      "num": "68",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Seize the Spoils",
+      "set": "sos",
+      "num": "129",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Serum Visions",
+      "set": "otc",
+      "num": "112",
+      "categories": [
+        "Sorcery"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Shivan Reef",
+      "set": "otc",
+      "num": "320",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Sol Ring",
+      "set": "otc",
+      "num": "267",
+      "categories": [
+        "Artifact"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Splatter Technique",
+      "set": "sos",
+      "num": "231",
+      "categories": [
+        "Sorcery"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Stella Lee, Wild Card",
+      "set": "otc",
+      "num": "3",
+      "categories": [],
+      "board": "commander"
+    },
+    {
+      "qty": 1,
+      "name": "Storm-Kiln Artist",
+      "set": "otc",
+      "num": "181",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Strike It Rich",
+      "set": "mh2",
+      "num": "143",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Sulfur Falls",
+      "set": "otc",
+      "num": "322",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Swiftfoot Boots",
+      "set": "fic",
+      "num": "361",
+      "categories": [
+        "Protection"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Talisman of Creativity",
+      "set": "soc",
+      "num": "357",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Talrand, Sky Summoner",
+      "set": "otc",
+      "num": "116",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Temple of Epiphany",
+      "set": "otc",
+      "num": "329",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Thought Vessel",
+      "set": "fic",
+      "num": "368",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Thunderclap Drake",
+      "set": "otc",
+      "num": "17",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Torbran, Thane of Red Fell",
+      "set": "eld",
+      "num": "147",
+      "categories": [
+        "Burn"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Treasure Cruise",
+      "set": "soc",
+      "num": "205",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Veyran, Voice of Duality",
+      "set": "otc",
+      "num": "248",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Volcanic Torrent",
+      "set": "otc",
+      "num": "184",
+      "categories": [
+        "Sorcery"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Whispersilk Cloak",
+      "set": "dsc",
+      "num": "257",
+      "categories": [
+        "Protection"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Windfall",
+      "set": "otc",
+      "num": "123",
+      "categories": [
+        "Sorcery"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Winged Boots",
+      "set": "otc",
+      "num": "124",
+      "categories": [
+        "Protection"
+      ],
+      "board": "main"
+    }
+  ],
+  "colors": [
+    "U",
+    "R"
+  ]
+}

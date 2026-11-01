@@ -1,5 +1,5 @@
-import { getCards, imageFor } from './scryfall.js?v=202610312357';
-import { deckFromText } from './archidekt.js?v=202610312357';
+import { getCards, imageFor } from './scryfall.js?v=202611011502';
+import { deckFromText } from './archidekt.js?v=202611011502';
 
 const app = document.getElementById('app');
 const preview = document.getElementById('preview');

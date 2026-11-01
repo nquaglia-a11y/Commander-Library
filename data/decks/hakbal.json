@@ -1,0 +1,824 @@
+{
+  "id": "hakbal",
+  "name": "La Sirenita",
+  "colors": [
+    "G",
+    "U"
+  ],
+  "bracket": "2-3",
+  "source": "https://archidekt.com/decks/9278904/la_sirenita",
+  "importedAt": "2026-11-01",
+  "commanders": [
+    "Hakbal of the Surging Soul"
+  ],
+  "cards": [
+    {
+      "qty": 1,
+      "name": "Aetherize",
+      "set": "lcc",
+      "num": "142",
+      "categories": [
+        "Instant"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Alchemist's Refuge",
+      "set": "lcc",
+      "num": "318",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Arcane Denial",
+      "set": "soc",
+      "num": "187",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Arcane Signet",
+      "set": "lcc",
+      "num": "299",
+      "categories": [
+        "Artifact"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Back to Nature",
+      "set": "m15",
+      "num": "169",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Beast Within",
+      "set": "soc",
+      "num": "263",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Benthic Biomancer",
+      "set": "lcc",
+      "num": "145",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Blackblade Reforged",
+      "set": "dmc",
+      "num": "178",
+      "categories": [
+        "Pump"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Branching Evolution",
+      "set": "lcc",
+      "num": "234",
+      "categories": [
+        "Enchantment"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Bred for the Hunt",
+      "set": "cm2",
+      "num": "151",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Cephalid Coliseum",
+      "set": "mh3",
+      "num": "300",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Chomping Changeling",
+      "set": "ecl",
+      "num": "172",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Cold-Eyed Selkie",
+      "set": "lcc",
+      "num": "266",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Command Tower",
+      "set": "lcc",
+      "num": "325",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Deeproot Elite",
+      "set": "lcc",
+      "num": "237",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Deeproot Historian",
+      "set": "lcc",
+      "num": "91",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Deeproot Pilgrimage",
+      "set": "lci",
+      "num": "52",
+      "categories": [
+        "Tokens"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Deeproot Waters",
+      "set": "lcc",
+      "num": "152",
+      "categories": [
+        "Enchantment"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Disciple of Freyalise // Garden of Freyalise",
+      "set": "mh3",
+      "num": "250",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Emperor Mihail II",
+      "set": "lcc",
+      "num": "155",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Evolution Sage",
+      "set": "lcc",
+      "num": "240",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Fog",
+      "set": "plst",
+      "num": "EMA-167",
+      "categories": [
+        "Protection"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 7,
+      "name": "Forest",
+      "set": "lci",
+      "num": "401",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Hakbal of the Surging Soul",
+      "set": "lcc",
+      "num": "3",
+      "categories": [],
+      "board": "commander"
+    },
+    {
+      "qty": 1,
+      "name": "Hardened Scales",
+      "set": "lcc",
+      "num": "243",
+      "categories": [
+        "Enchantment"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Harmonized Crescendo",
+      "set": "ecl",
+      "num": "54",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Herald of Secret Streams",
+      "set": "lcc",
+      "num": "158",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Hinterland Harbor",
+      "set": "lcc",
+      "num": "336",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Inspiring Call",
+      "set": "lcc",
+      "num": "244",
+      "categories": [
+        "Instant"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 13,
+      "name": "Island",
+      "set": "lci",
+      "num": "395",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Karn's Bastion",
+      "set": "lcc",
+      "num": "339",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Kindred Discovery",
+      "set": "lcc",
+      "num": "159",
+      "categories": [
+        "Enchantment"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Kiora, the Rising Tide",
+      "set": "fdn",
+      "num": "45",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Kodama's Reach",
+      "set": "lcc",
+      "num": "245",
+      "categories": [
+        "Sorcery"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Kopala, Warden of Waves",
+      "set": "lcc",
+      "num": "160",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Llanowar Reborn",
+      "set": "lcc",
+      "num": "341",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Master of the Pearl Trident",
+      "set": "lcc",
+      "num": "162",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Merfolk Sovereign",
+      "set": "lcc",
+      "num": "164",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Merrow Harbinger",
+      "set": "plst",
+      "num": "LRW-73",
+      "categories": [
+        "Tutor"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Merrow Reejerey",
+      "set": "lcc",
+      "num": "165",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Metallic Mimic",
+      "set": "lcc",
+      "num": "308",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Mosswort Bridge",
+      "set": "lcc",
+      "num": "342",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Myriad Landscape",
+      "set": "lcc",
+      "num": "343",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Nature's Lore",
+      "set": "mkc",
+      "num": "178",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Nicanzil, Current Conductor",
+      "set": "lci",
+      "num": "236",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Orysa, Tide Choreographer",
+      "set": "sos",
+      "num": "62",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Overwhelming Stampede",
+      "set": "dsc",
+      "num": "192",
+      "categories": [
+        "Finisher"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Path of Ancestry",
+      "set": "lcc",
+      "num": "346",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Prime Speaker Zegana",
+      "set": "lcc",
+      "num": "278",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Raise the Palisade",
+      "set": "ltc",
+      "num": "425",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Rampant Growth",
+      "set": "tdc",
+      "num": "265",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Rapid Hybridization",
+      "set": "lcc",
+      "num": "166",
+      "categories": [
+        "Instant"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Ravenform",
+      "set": "lcc",
+      "num": "167",
+      "categories": [
+        "Sorcery"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Realmwalker",
+      "set": "lcc",
+      "num": "250",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Reflections of Littjara",
+      "set": "lcc",
+      "num": "168",
+      "categories": [
+        "Enchantment"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Reliquary Tower",
+      "set": "lcc",
+      "num": "348",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Respite",
+      "set": "cns",
+      "num": "176",
+      "categories": [
+        "Protection"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Ripples of Potential",
+      "set": "lcc",
+      "num": "77",
+      "categories": [
+        "Instant"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Rogue's Passage",
+      "set": "lcc",
+      "num": "349",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Ruinous Intrusion",
+      "set": "lcc",
+      "num": "255",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Seafloor Oracle",
+      "set": "lcc",
+      "num": "170",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Secluded Courtyard",
+      "set": "lcc",
+      "num": "350",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Simic Ascendancy",
+      "set": "lcc",
+      "num": "288",
+      "categories": [
+        "Enchantment"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Simic Growth Chamber",
+      "set": "lcc",
+      "num": "352",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Singer of Swift Rivers",
+      "set": "lcc",
+      "num": "98",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Sol Ring",
+      "set": "lcc",
+      "num": "313",
+      "categories": [
+        "Artifact"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Summon: Leviathan",
+      "set": "fin",
+      "num": "77",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Svyelun of Sea and Sky",
+      "set": "lcc",
+      "num": "175",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Swiftfoot Boots",
+      "set": "lcc",
+      "num": "314",
+      "categories": [
+        "Artifact"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Temple of Mystery",
+      "set": "lcc",
+      "num": "357",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Thieving Skydiver",
+      "set": "lcc",
+      "num": "177",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Tishana, Voice of Thunder",
+      "set": "lcc",
+      "num": "291",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Topography Tracker",
+      "set": "lcc",
+      "num": "95",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Triton Shorestalker",
+      "set": "otc",
+      "num": "121",
+      "categories": [
+        "Evasion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Unclaimed Territory",
+      "set": "lcc",
+      "num": "366",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Vineglimmer Snarl",
+      "set": "lcc",
+      "num": "368",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Vodalian Hexcatcher",
+      "set": "dmu",
+      "num": "75",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Wave Goodbye",
+      "set": "lcc",
+      "num": "79",
+      "categories": [
+        "Sorcery"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Wildgrowth Walker",
+      "set": "xln",
+      "num": "216",
+      "categories": [
+        "Counters"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Wonder",
+      "set": "mh2",
+      "num": "271",
+      "categories": [
+        "Evasion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Zegana, Utopian Speaker",
+      "set": "lcc",
+      "num": "298",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    }
+  ]
+}

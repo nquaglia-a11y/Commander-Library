@@ -1,0 +1,895 @@
+{
+  "id": "teval",
+  "name": "Mill Draw Teval",
+  "bracket": "2-3",
+  "source": "https://archidekt.com/decks/12025637/mill_draw_teval",
+  "importedAt": "2026-11-01",
+  "commanders": [
+    "Teval, the Balanced Scale"
+  ],
+  "cards": [
+    {
+      "qty": 1,
+      "name": "Afterlife from the Loam",
+      "set": "tdc",
+      "num": "25",
+      "categories": [
+        "Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Aftermath Analyst",
+      "set": "mkm",
+      "num": "148",
+      "categories": [
+        "Mill"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Arcane Signet",
+      "set": "tdc",
+      "num": "105",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Avenger of Zendikar",
+      "set": "otc",
+      "num": "187",
+      "categories": [
+        "Landfall"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Back to Nature",
+      "set": "m15",
+      "num": "169",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Blighted Woodland",
+      "set": "clb",
+      "num": "881",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Casualties of War",
+      "set": "blc",
+      "num": "125",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Cephalid Coliseum",
+      "set": "mh3",
+      "num": "300",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Colossal Grave-Reaver",
+      "set": "tdc",
+      "num": "50",
+      "categories": [
+        "Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Command Beacon",
+      "set": "otc",
+      "num": "279",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Command Tower",
+      "set": "tdc",
+      "num": "107",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Conduit of Worlds",
+      "set": "one",
+      "num": "163",
+      "categories": [
+        "Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Cultivate",
+      "set": "dsc",
+      "num": "174",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Darkwater Catacombs",
+      "set": "otc",
+      "num": "282",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Disciple of Bolas",
+      "set": "tdc",
+      "num": "178",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Dread Return",
+      "set": "cmm",
+      "num": "153",
+      "categories": [
+        "Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Dreamroot Cascade",
+      "set": "inr",
+      "num": "277",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Drownyard Temple",
+      "set": "dsc",
+      "num": "272",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Elixir of Immortality",
+      "set": "c21",
+      "num": "243",
+      "categories": [
+        "Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Eternal Witness",
+      "set": "cmm",
+      "num": "286",
+      "categories": [
+        "Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Exotic Orchard",
+      "set": "tdc",
+      "num": "360",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Exsanguinate",
+      "set": "j25",
+      "num": "437",
+      "categories": [
+        "Finisher"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Fabled Passage",
+      "set": "blb",
+      "num": "252",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Fangkeeper's Familiar",
+      "set": "tdm",
+      "num": "183",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Farseek",
+      "set": "blc",
+      "num": "119",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Fetid Pools",
+      "set": "drc",
+      "num": "156",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Finale of Revelation",
+      "set": "fdn",
+      "num": "589",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Foreboding Landscape",
+      "set": "mh3",
+      "num": "221",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 7,
+      "name": "Forest",
+      "set": "tdm",
+      "num": "286",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Ghost Quarter",
+      "set": "mb2",
+      "num": "109",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Golgari Rot Farm",
+      "set": "dsc",
+      "num": "279",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Grapple with the Past",
+      "set": "inr",
+      "num": "199",
+      "categories": [
+        "Mill"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Gravecrawler",
+      "set": "tdc",
+      "num": "93",
+      "categories": [
+        "Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Grisly Salvage",
+      "set": "tdc",
+      "num": "290",
+      "categories": [
+        "Mill"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Harrow",
+      "set": "j25",
+      "num": "668",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Haunted Mire",
+      "set": "blc",
+      "num": "311",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Hedron Crab",
+      "set": "plst",
+      "num": "ZEN-47",
+      "categories": [
+        "Mill"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Hinterland Harbor",
+      "set": "drc",
+      "num": "160",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 4,
+      "name": "Island",
+      "set": "tdm",
+      "num": "279",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Jarad, Golgari Lich Lord",
+      "set": "cma",
+      "num": "179",
+      "categories": [
+        "Sac Outlet"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Kheru Goldkeeper",
+      "set": "tdm",
+      "num": "199",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Kishla Skimmer",
+      "set": "tdm",
+      "num": "201",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Kotis, Sibsig Champion",
+      "set": "tdc",
+      "num": "5",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Lie in Wait",
+      "set": "tdm",
+      "num": "203",
+      "categories": [
+        "Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Living Death",
+      "set": "ltc",
+      "num": "203",
+      "categories": [
+        "Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Llanowar Wastes",
+      "set": "dsc",
+      "num": "287",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Lluwen, Imperfect Naturalist",
+      "set": "ecl",
+      "num": "232",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Malevolent Hermit // Benevolent Geist",
+      "set": "mid",
+      "num": "61",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Memorial to Folly",
+      "set": "j25",
+      "num": "770",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Meren of Clan Nel Toth",
+      "set": "cmm",
+      "num": "346",
+      "categories": [
+        "Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Muldrotha, the Gravetide",
+      "set": "fdn",
+      "num": "243",
+      "categories": [
+        "Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Multani, Yavimaya's Avatar",
+      "set": "dsc",
+      "num": "190",
+      "categories": [
+        "Landfall"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Myriad Landscape",
+      "set": "dsc",
+      "num": "289",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Necromantic Selection",
+      "set": "scd",
+      "num": "94",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Noxious Gearhulk",
+      "set": "dsc",
+      "num": "151",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Nyx Weaver",
+      "set": "dsc",
+      "num": "226",
+      "categories": [
+        "Mill"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Ob Nixilis, the Fallen",
+      "set": "plst",
+      "num": "IMA-101",
+      "categories": [
+        "Landfall"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Opulent Palace",
+      "set": "tdm",
+      "num": "264",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Overlord of the Balemurk",
+      "set": "dsk",
+      "num": "113",
+      "categories": [
+        "Mill"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Phyrexian Reclamation",
+      "set": "tdc",
+      "num": "194",
+      "categories": [
+        "Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Pull from the Grave",
+      "set": "sos",
+      "num": "95",
+      "categories": [
+        "Sorcery"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Putrefy",
+      "set": "dsc",
+      "num": "90",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Rampant Growth",
+      "set": "j25",
+      "num": "704",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Ripples of Undeath",
+      "set": "mh3",
+      "num": "107",
+      "categories": [
+        "Mill"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Sakura-Tribe Elder",
+      "set": "dsc",
+      "num": "194",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Sapling Nursery",
+      "set": "ecl",
+      "num": "192",
+      "categories": [
+        "Enchantment"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Satyr Wayfinder",
+      "set": "otc",
+      "num": "204",
+      "categories": [
+        "Mill"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Shigeki, Jukai Visionary",
+      "set": "dsc",
+      "num": "198",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Six",
+      "set": "mh3",
+      "num": "169",
+      "categories": [
+        "Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Sol Ring",
+      "set": "tdc",
+      "num": "106",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Springbloom Druid",
+      "set": "otc",
+      "num": "208",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Stitcher's Supplier",
+      "set": "dsc",
+      "num": "157",
+      "categories": [
+        "Mill"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Summon: Titan",
+      "set": "fin",
+      "num": "204",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Sunken Hollow",
+      "set": "drc",
+      "num": "174",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 4,
+      "name": "Swamp",
+      "set": "tdm",
+      "num": "282",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Syr Konrad, the Grim",
+      "set": "dsc",
+      "num": "158",
+      "categories": [
+        "Drain"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Tatyova, Benthic Druid",
+      "set": "dsc",
+      "num": "235",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Tear Asunder",
+      "set": "blc",
+      "num": "241",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Terramorphic Expanse",
+      "set": "tdc",
+      "num": "408",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Teval, the Balanced Scale",
+      "set": "tdc",
+      "num": "8",
+      "categories": [],
+      "board": "commander"
+    },
+    {
+      "qty": 1,
+      "name": "Teval's Judgment",
+      "set": "tdc",
+      "num": "28",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Timeless Witness",
+      "set": "mh2",
+      "num": "179",
+      "categories": [
+        "Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Treasure Cruise",
+      "set": "mb2",
+      "num": "37",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Victimize",
+      "set": "tdc",
+      "num": "198",
+      "categories": [
+        "Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Wight of the Reliquary",
+      "set": "mh3",
+      "num": "207",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Will of the Sultai",
+      "set": "tdc",
+      "num": "49",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Wonder",
+      "set": "mh2",
+      "num": "271",
+      "categories": [
+        "Evasion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Woodland Cemetery",
+      "set": "dsc",
+      "num": "326",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    }
+  ],
+  "colors": [
+    "U",
+    "B",
+    "G"
+  ]
+}

@@ -1,0 +1,851 @@
+{
+  "id": "sokka",
+  "name": "Sokka",
+  "colors": [
+    "W",
+    "U",
+    "R"
+  ],
+  "bracket": "2-3",
+  "source": "https://archidekt.com/decks/17484128/sokka",
+  "importedAt": "2026-11-01",
+  "commanders": [
+    "Sokka, Tenacious Tactician"
+  ],
+  "cards": [
+    {
+      "qty": 1,
+      "name": "Abandon Attachments",
+      "set": "tla",
+      "num": "205",
+      "categories": [
+        "Draw",
+        "Instant"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Aetherize",
+      "set": "fdn",
+      "num": "151",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Ally Encampment",
+      "set": "bfz",
+      "num": "228",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Arcane Signet",
+      "set": "eoc",
+      "num": "53",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Austere Command",
+      "set": "fic",
+      "num": "231",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Battlefield Forge",
+      "set": "eoc",
+      "num": "58",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Bender's Waterskin",
+      "set": "tla",
+      "num": "255",
+      "categories": [
+        "Ramp",
+        "Artifact"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Bident of Thassa",
+      "set": "blc",
+      "num": "162",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Blasphemous Act",
+      "set": "eoc",
+      "num": "86",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Brainstorm",
+      "set": "tle",
+      "num": "155",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Cascade Bluffs",
+      "set": "soc",
+      "num": "364",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Clifftop Retreat",
+      "set": "eoc",
+      "num": "155",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Collective Inferno",
+      "set": "ecl",
+      "num": "132",
+      "categories": [
+        "Enchantment"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Command Tower",
+      "set": "eoc",
+      "num": "59",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Consider",
+      "set": "tle",
+      "num": "157",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Counterspell",
+      "set": "dsc",
+      "num": "114",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Crash Through",
+      "set": "fdn",
+      "num": "620",
+      "categories": [
+        "Buff",
+        "Finisher",
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Enter the Avatar State",
+      "set": "tla",
+      "num": "18",
+      "categories": [
+        "Protection",
+        "Instant"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Evolving Wilds",
+      "set": "eoc",
+      "num": "158",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Expedite",
+      "set": "cmr",
+      "num": "413",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Expressive Iteration",
+      "set": "tdc",
+      "num": "288",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Faithless Looting",
+      "set": "tdc",
+      "num": "213",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Ferrous Lake",
+      "set": "tdc",
+      "num": "361",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Fiery Inscription",
+      "set": "ltr",
+      "num": "126",
+      "categories": [
+        "Burn"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Frantic Search",
+      "set": "tle",
+      "num": "159",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Frostboil Snarl",
+      "set": "drc",
+      "num": "158",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Frostcliff Siege",
+      "set": "tdm",
+      "num": "187",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Full Throttle",
+      "set": "dft",
+      "num": "127",
+      "categories": [
+        "Finisher"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Hakoda, Selfless Commander",
+      "set": "tla",
+      "num": "23",
+      "categories": [
+        "Protection",
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Harmonized Crescendo",
+      "set": "ecl",
+      "num": "54",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Hero of Goma Fada",
+      "set": "bfz",
+      "num": "31",
+      "categories": [
+        "Protection"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Hour of Reckoning",
+      "set": "tdc",
+      "num": "120",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Impact Tremors",
+      "set": "fdn",
+      "num": "717",
+      "categories": [
+        "Burn"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 8,
+      "name": "Island",
+      "set": "tla",
+      "num": "283",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Izzet Boilerworks",
+      "set": "m3c",
+      "num": "350",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Izzet Signet",
+      "set": "tdc",
+      "num": "320",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Katara, Water Tribe's Hope",
+      "set": "tla",
+      "num": "231",
+      "categories": [
+        "Buff",
+        "Finisher",
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Lantern Scout",
+      "set": "bfz",
+      "num": "37",
+      "categories": [
+        "Lifegain"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Longshot, Rebel Bowman",
+      "set": "tle",
+      "num": "120",
+      "categories": [
+        "Burn"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Maestros Theater",
+      "set": "eoc",
+      "num": "167",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Mana Geyser",
+      "set": "tdc",
+      "num": "223",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Master Piandao",
+      "set": "tla",
+      "num": "28",
+      "categories": [
+        "Draw",
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Mizzix's Mastery",
+      "set": "otc",
+      "num": "175",
+      "categories": [
+        "Finisher",
+        "Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 6,
+      "name": "Mountain",
+      "set": "tle",
+      "num": "295",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Obscura Storefront",
+      "set": "dsc",
+      "num": "291",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Octopus Form",
+      "set": "tla",
+      "num": "66",
+      "categories": [
+        "Protection",
+        "Instant"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Ondu Cleric",
+      "set": "zen",
+      "num": "30",
+      "categories": [
+        "Lifegain"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Open into Wonder",
+      "set": "znc",
+      "num": "34",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Opt",
+      "set": "tdc",
+      "num": "158",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Path of Ancestry",
+      "set": "fic",
+      "num": "411",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Path to Exile",
+      "set": "soc",
+      "num": "159",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 6,
+      "name": "Plains",
+      "set": "tle",
+      "num": "304",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Ponder",
+      "set": "tdc",
+      "num": "159",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Prairie Stream",
+      "set": "fic",
+      "num": "413",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Professor Zei, Anthropologist",
+      "set": "tla",
+      "num": "238",
+      "categories": [
+        "Recursion",
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Reliquary Tower",
+      "set": "tdc",
+      "num": "386",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Resolute Blademaster",
+      "set": "bfz",
+      "num": "218",
+      "categories": [
+        "Anthem"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Rootborn Defenses",
+      "set": "clu",
+      "num": "71",
+      "categories": [
+        "Protection"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Secret of Bloodbending",
+      "set": "tla",
+      "num": "69",
+      "categories": [
+        "Finisher"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Serum Visions",
+      "set": "otc",
+      "num": "112",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Shared Animosity",
+      "set": "lcc",
+      "num": "231",
+      "categories": [
+        "Finisher",
+        "Anthem"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Shivan Reef",
+      "set": "eoc",
+      "num": "179",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Skycloud Expanse",
+      "set": "eoc",
+      "num": "181",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Smellerbee, Rebel Fighter",
+      "set": "tle",
+      "num": "125",
+      "categories": [
+        "Haste"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Sokka, Tenacious Tactician",
+      "set": "tla",
+      "num": "242",
+      "categories": [],
+      "board": "commander"
+    },
+    {
+      "qty": 1,
+      "name": "Sol Ring",
+      "set": "tle",
+      "num": "316",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "South Pole Voyager",
+      "set": "tla",
+      "num": "35",
+      "categories": [
+        "Lifegain",
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Spirit Water Revival",
+      "set": "tla",
+      "num": "73",
+      "categories": [
+        "Draw",
+        "Sorcery"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Storm-Kiln Artist",
+      "set": "tdc",
+      "num": "235",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Strike It Rich",
+      "set": "h2r",
+      "num": "12",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Sulfur Falls",
+      "set": "soc",
+      "num": "408",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Swiftfoot Boots",
+      "set": "tle",
+      "num": "317",
+      "categories": [
+        "Protection"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Swords to Plowshares",
+      "set": "soc",
+      "num": "179",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "The Legend of Kuruk // Avatar Kuruk",
+      "set": "tla",
+      "num": "61",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "The Mechanist, Aerial Artisan",
+      "set": "tla",
+      "num": "64",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Tuktuk Scrapper",
+      "set": "wwk",
+      "num": "94",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Unbreakable Formation",
+      "set": "rvr",
+      "num": "32",
+      "categories": [
+        "Protection"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "United Front",
+      "set": "tla",
+      "num": "39",
+      "categories": [
+        "Tokens"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Waterbending Lesson",
+      "set": "tla",
+      "num": "80",
+      "categories": [
+        "Draw",
+        "Sorcery"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Wayfarer's Bauble",
+      "set": "fic",
+      "num": "372",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Whirlwind of Thought",
+      "set": "tdc",
+      "num": "311",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Wonder",
+      "set": "tdc",
+      "num": "170",
+      "categories": [
+        "Buff"
+      ],
+      "board": "main"
+    }
+  ]
+}

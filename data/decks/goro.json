@@ -1,0 +1,795 @@
+{
+  "id": "goro",
+  "name": "Ninjas Dragons",
+  "bracket": "2-3",
+  "source": "https://archidekt.com/decks/9138206/ninjas_dragons",
+  "importedAt": "2026-11-01",
+  "commanders": [
+    "Goro-Goro and Satoru"
+  ],
+  "cards": [
+    {
+      "qty": 1,
+      "name": "Aetherize",
+      "set": "blc",
+      "num": "161",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Alora, Merry Thief",
+      "set": "clb",
+      "num": "55",
+      "categories": [
+        "Evasion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Arcane Signet",
+      "set": "dsc",
+      "num": "92",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Barrin, Tolarian Archmage",
+      "set": "j22",
+      "num": "276",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Bident of Thassa",
+      "set": "blc",
+      "num": "162",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Blade of Selves",
+      "set": "clb",
+      "num": "301",
+      "categories": [
+        "Tokens"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Blasphemous Act",
+      "set": "blc",
+      "num": "114",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Bojuka Bog",
+      "set": "blc",
+      "num": "294",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Command Tower",
+      "set": "dsc",
+      "num": "96",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Counterspell",
+      "set": "cmm",
+      "num": "81",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Crumbling Necropolis",
+      "set": "lcc",
+      "num": "326",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Daring Piracy",
+      "set": "j22",
+      "num": "33",
+      "categories": [
+        "Tokens"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Deadly Tempest",
+      "set": "scd",
+      "num": "75",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Determined Iteration",
+      "set": "ncc",
+      "num": "45",
+      "categories": [
+        "Tokens"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Dimir Aqueduct",
+      "set": "otc",
+      "num": "288",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Dimir Signet",
+      "set": "clu",
+      "num": "221",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Disciple of Bolas",
+      "set": "ncc",
+      "num": "247",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Elturel Survivors",
+      "set": "clb",
+      "num": "172",
+      "categories": [
+        "Tokens"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Fallen Shinobi",
+      "set": "otc",
+      "num": "226",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Feed the Swarm",
+      "set": "otc",
+      "num": "134",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Finale of Revelation",
+      "set": "otc",
+      "num": "97",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Flamekin Village",
+      "set": "plst",
+      "num": "C14-60",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Flamewake Phoenix",
+      "set": "frf",
+      "num": "100",
+      "categories": [
+        "Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Frostcliff Siege",
+      "set": "tdm",
+      "num": "187",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Goro-Goro and Satoru",
+      "set": "moc",
+      "num": "448",
+      "categories": [],
+      "board": "commander"
+    },
+    {
+      "qty": 1,
+      "name": "Grazilaxx, Illithid Scholar",
+      "set": "clb",
+      "num": "723",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Gut, True Soul Zealot",
+      "set": "clb",
+      "num": "180",
+      "categories": [
+        "Tokens"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Hoard Robber",
+      "set": "afr",
+      "num": "110",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Impetuous Sunchaser",
+      "set": "bng",
+      "num": "99",
+      "categories": [
+        "Creature"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Ingenious Infiltrator",
+      "set": "mh1",
+      "num": "204",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 9,
+      "name": "Island",
+      "set": "blb",
+      "num": "371",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Izzet Boilerworks",
+      "set": "otc",
+      "num": "302",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Jaxis, the Troublemaker",
+      "set": "snc",
+      "num": "112",
+      "categories": [
+        "Copy"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Kaito, Bane of Nightmares",
+      "set": "dsk",
+      "num": "220",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Kaya's Ghostform",
+      "set": "plst",
+      "num": "WAR-94",
+      "categories": [
+        "Protection"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Keep Safe",
+      "set": "iko",
+      "num": "56",
+      "categories": [
+        "Protection"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Loyal Apprentice",
+      "set": "cmm",
+      "num": "240",
+      "categories": [
+        "Tokens"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Mahadi, Emporium Master",
+      "set": "clb",
+      "num": "282",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Mimic Vat",
+      "set": "ncc",
+      "num": "372",
+      "categories": [
+        "Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Mistblade Shinobi",
+      "set": "plst",
+      "num": "PCA-20",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Moon-Circuit Hacker",
+      "set": "neo",
+      "num": "67",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Moonsnare Specialist",
+      "set": "neo",
+      "num": "70",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 8,
+      "name": "Mountain",
+      "set": "blb",
+      "num": "376",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Nashi, Moon Sage's Scion",
+      "set": "otc",
+      "num": "143",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Negate",
+      "set": "mom",
+      "num": "68",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Nether Traitor",
+      "set": "tsr",
+      "num": "127",
+      "categories": [
+        "Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Nezumi Prowler",
+      "set": "neo",
+      "num": "116",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Ogre Battledriver",
+      "set": "tdc",
+      "num": "227",
+      "categories": [
+        "Pump"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Open into Wonder",
+      "set": "znc",
+      "num": "34",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Path of Ancestry",
+      "set": "blc",
+      "num": "322",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Phoenix Chick",
+      "set": "dmu",
+      "num": "140",
+      "categories": [
+        "Evasion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Ponder",
+      "set": "otc",
+      "num": "105",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Prosperous Thief",
+      "set": "neo",
+      "num": "73",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Rakdos Signet",
+      "set": "otc",
+      "num": "265",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Reconnaissance Mission",
+      "set": "woc",
+      "num": "105",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Rite of the Raging Storm",
+      "set": "mkc",
+      "num": "159",
+      "categories": [
+        "Tokens"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Seething Landscape",
+      "set": "mh3",
+      "num": "225",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Seize the Spoils",
+      "set": "j25",
+      "num": "141",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Sign in Blood",
+      "set": "scd",
+      "num": "107",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Silent-Blade Oni",
+      "set": "otc",
+      "num": "241",
+      "categories": [
+        "Theft"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Skyfire Phoenix",
+      "set": "c19",
+      "num": "28",
+      "categories": [
+        "Recursion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Slither Blade",
+      "set": "otc",
+      "num": "114",
+      "categories": [
+        "Evasion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Smoldering Marsh",
+      "set": "otc",
+      "num": "321",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Sol Ring",
+      "set": "dsc",
+      "num": "94",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Sprite Dragon",
+      "set": "clb",
+      "num": "852",
+      "categories": [
+        "Pump"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Sulfur Falls",
+      "set": "blc",
+      "num": "333",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Sunken Hollow",
+      "set": "otc",
+      "num": "325",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 8,
+      "name": "Swamp",
+      "set": "fdn",
+      "num": "277",
+      "categories": [
+        "Land"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Talisman of Creativity",
+      "set": "cmm",
+      "num": "979",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Talisman of Dominance",
+      "set": "drc",
+      "num": "141",
+      "categories": [
+        "Ramp"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Tetsuko Umezawa, Fugitive",
+      "set": "blc",
+      "num": "177",
+      "categories": [
+        "Evasion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Tormented Soul",
+      "set": "j22",
+      "num": "477",
+      "categories": [
+        "Evasion"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Unstoppable Plan",
+      "set": "dft",
+      "num": "72",
+      "categories": [
+        "Untap"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Urabrask's Forge",
+      "set": "one",
+      "num": "153",
+      "categories": [
+        "Tokens"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Vandalblast",
+      "set": "otc",
+      "num": "183",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Warstorm Surge",
+      "set": "blc",
+      "num": "117",
+      "categories": [
+        "Removal"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Whirler Rogue",
+      "set": "otc",
+      "num": "122",
+      "categories": [
+        "Tokens"
+      ],
+      "board": "main"
+    },
+    {
+      "qty": 1,
+      "name": "Yuriko, the Tiger's Shadow",
+      "set": "cmm",
+      "num": "364",
+      "categories": [
+        "Draw"
+      ],
+      "board": "main"
+    }
+  ],
+  "colors": [
+    "U",
+    "B",
+    "R"
+  ]
+}
