@@ -316,6 +316,16 @@
               "label": "EDHREC average deck, Bracket 3",
               "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
               "kind": "community"
+            },
+            {
+              "label": "Moxfield #2: Budget Teval (23 likes)",
+              "url": "https://moxfield.com/decks/XHq-IIBQIkCBLaaaO54ssg",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield #3: [VIDEO GUIDE] Teval 25 BUDGET CHANGES ($14) from Kotis Precon (23 likes)",
+              "url": "https://moxfield.com/decks/hka8THnJIEG4dAmTh21PQg",
+              "kind": "community"
             }
           ],
           "edhrec": {
@@ -465,6 +475,16 @@
             {
               "label": "EDHREC average deck, Bracket 2",
               "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/core",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield #1: TEVAL WHAT BALANCE BUDGET (31 likes)",
+              "url": "https://moxfield.com/decks/pqFNIAdL4EKHRWewcWQLFA",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield #3: [VIDEO GUIDE] Teval 25 BUDGET CHANGES ($14) from Kotis Precon (23 likes)",
+              "url": "https://moxfield.com/decks/hka8THnJIEG4dAmTh21PQg",
               "kind": "community"
             }
           ],
@@ -2008,6 +2028,16 @@
               "label": "EDHREC average deck, Bracket 3",
               "url": "https://edhrec.com/average-decks/teval-the-balanced-scale/upgraded",
               "kind": "community"
+            },
+            {
+              "label": "Moxfield #2: Budget Teval (23 likes)",
+              "url": "https://moxfield.com/decks/XHq-IIBQIkCBLaaaO54ssg",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield #3: [VIDEO GUIDE] Teval 25 BUDGET CHANGES ($14) from Kotis Precon (23 likes)",
+              "url": "https://moxfield.com/decks/hka8THnJIEG4dAmTh21PQg",
+              "kind": "community"
             }
           ],
           "edhrec": {
@@ -2034,6 +2064,221 @@
             "avg": "10"
           },
           "group": "Sorcery"
+        }
+      ]
+    },
+    {
+      "code": "moxfield",
+      "name": "Moxfield Top Decks",
+      "released": "checked 2026-11-02",
+      "kind": "moxfield",
+      "note": "Cards that at least 2 of the 3 most-liked Bracket 2 Teval decks on Moxfield run and your deck doesn't. Cards already listed in another section got these decks added to their sources instead (3 of them). Game Changers removed.",
+      "decks": [
+        {
+          "name": "TEVAL WHAT BALANCE BUDGET",
+          "likes": 31,
+          "url": "https://moxfield.com/decks/pqFNIAdL4EKHRWewcWQLFA"
+        },
+        {
+          "name": "Budget Teval",
+          "likes": 23,
+          "url": "https://moxfield.com/decks/XHq-IIBQIkCBLaaaO54ssg"
+        },
+        {
+          "name": "[VIDEO GUIDE] Teval 25 BUDGET CHANGES ($14) from Kotis Precon",
+          "likes": 23,
+          "url": "https://moxfield.com/decks/hka8THnJIEG4dAmTh21PQg"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Altar of Bhaal // Bone Offering",
+          "tier": "consider",
+          "why": "In 2 of the 3 most-liked Bracket 2 Teval decks on Moxfield.",
+          "sources": [
+            {
+              "label": "Moxfield #1: TEVAL WHAT BALANCE BUDGET (31 likes)",
+              "url": "https://moxfield.com/decks/pqFNIAdL4EKHRWewcWQLFA",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield #2: Budget Teval (23 likes)",
+              "url": "https://moxfield.com/decks/XHq-IIBQIkCBLaaaO54ssg",
+              "kind": "community"
+            }
+          ],
+          "mox": {
+            "n": 2,
+            "of": 3
+          }
+        },
+        {
+          "name": "Ash Barrens",
+          "tier": "consider",
+          "why": "In 2 of the 3 most-liked Bracket 2 Teval decks on Moxfield.",
+          "sources": [
+            {
+              "label": "Moxfield #1: TEVAL WHAT BALANCE BUDGET (31 likes)",
+              "url": "https://moxfield.com/decks/pqFNIAdL4EKHRWewcWQLFA",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield #2: Budget Teval (23 likes)",
+              "url": "https://moxfield.com/decks/XHq-IIBQIkCBLaaaO54ssg",
+              "kind": "community"
+            }
+          ],
+          "mox": {
+            "n": 2,
+            "of": 3
+          }
+        },
+        {
+          "name": "Demolisher Spawn",
+          "tier": "consider",
+          "why": "In 2 of the 3 most-liked Bracket 2 Teval decks on Moxfield.",
+          "sources": [
+            {
+              "label": "Moxfield #1: TEVAL WHAT BALANCE BUDGET (31 likes)",
+              "url": "https://moxfield.com/decks/pqFNIAdL4EKHRWewcWQLFA",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield #2: Budget Teval (23 likes)",
+              "url": "https://moxfield.com/decks/XHq-IIBQIkCBLaaaO54ssg",
+              "kind": "community"
+            }
+          ],
+          "mox": {
+            "n": 2,
+            "of": 3
+          }
+        },
+        {
+          "name": "Drag to the Roots",
+          "tier": "consider",
+          "why": "In 2 of the 3 most-liked Bracket 2 Teval decks on Moxfield.",
+          "sources": [
+            {
+              "label": "Moxfield #1: TEVAL WHAT BALANCE BUDGET (31 likes)",
+              "url": "https://moxfield.com/decks/pqFNIAdL4EKHRWewcWQLFA",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield #2: Budget Teval (23 likes)",
+              "url": "https://moxfield.com/decks/XHq-IIBQIkCBLaaaO54ssg",
+              "kind": "community"
+            }
+          ],
+          "mox": {
+            "n": 2,
+            "of": 3
+          }
+        },
+        {
+          "name": "Haywire Mite",
+          "tier": "consider",
+          "why": "In 2 of the 3 most-liked Bracket 2 Teval decks on Moxfield.",
+          "sources": [
+            {
+              "label": "Moxfield #1: TEVAL WHAT BALANCE BUDGET (31 likes)",
+              "url": "https://moxfield.com/decks/pqFNIAdL4EKHRWewcWQLFA",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield #2: Budget Teval (23 likes)",
+              "url": "https://moxfield.com/decks/XHq-IIBQIkCBLaaaO54ssg",
+              "kind": "community"
+            }
+          ],
+          "mox": {
+            "n": 2,
+            "of": 3
+          }
+        },
+        {
+          "name": "Pitiless Plunderer",
+          "tier": "consider",
+          "why": "In 2 of the 3 most-liked Bracket 2 Teval decks on Moxfield.",
+          "sources": [
+            {
+              "label": "Moxfield #1: TEVAL WHAT BALANCE BUDGET (31 likes)",
+              "url": "https://moxfield.com/decks/pqFNIAdL4EKHRWewcWQLFA",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield #2: Budget Teval (23 likes)",
+              "url": "https://moxfield.com/decks/XHq-IIBQIkCBLaaaO54ssg",
+              "kind": "community"
+            }
+          ],
+          "mox": {
+            "n": 2,
+            "of": 3
+          }
+        },
+        {
+          "name": "Viscera Seer",
+          "tier": "consider",
+          "why": "In 2 of the 3 most-liked Bracket 2 Teval decks on Moxfield.",
+          "sources": [
+            {
+              "label": "Moxfield #1: TEVAL WHAT BALANCE BUDGET (31 likes)",
+              "url": "https://moxfield.com/decks/pqFNIAdL4EKHRWewcWQLFA",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield #2: Budget Teval (23 likes)",
+              "url": "https://moxfield.com/decks/XHq-IIBQIkCBLaaaO54ssg",
+              "kind": "community"
+            }
+          ],
+          "mox": {
+            "n": 2,
+            "of": 3
+          }
+        },
+        {
+          "name": "Woe Strider",
+          "tier": "consider",
+          "why": "In 2 of the 3 most-liked Bracket 2 Teval decks on Moxfield.",
+          "sources": [
+            {
+              "label": "Moxfield #1: TEVAL WHAT BALANCE BUDGET (31 likes)",
+              "url": "https://moxfield.com/decks/pqFNIAdL4EKHRWewcWQLFA",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield #3: [VIDEO GUIDE] Teval 25 BUDGET CHANGES ($14) from Kotis Precon (23 likes)",
+              "url": "https://moxfield.com/decks/hka8THnJIEG4dAmTh21PQg",
+              "kind": "community"
+            }
+          ],
+          "mox": {
+            "n": 2,
+            "of": 3
+          }
+        },
+        {
+          "name": "Yavimaya Coast",
+          "tier": "consider",
+          "why": "In 2 of the 3 most-liked Bracket 2 Teval decks on Moxfield.",
+          "sources": [
+            {
+              "label": "Moxfield #1: TEVAL WHAT BALANCE BUDGET (31 likes)",
+              "url": "https://moxfield.com/decks/pqFNIAdL4EKHRWewcWQLFA",
+              "kind": "community"
+            },
+            {
+              "label": "Moxfield #2: Budget Teval (23 likes)",
+              "url": "https://moxfield.com/decks/XHq-IIBQIkCBLaaaO54ssg",
+              "kind": "community"
+            }
+          ],
+          "mox": {
+            "n": 2,
+            "of": 3
+          }
         }
       ]
     },

@@ -1,5 +1,5 @@
-import { getCards, imageFor } from './scryfall.js?v=202611011514';
-import { deckFromText } from './archidekt.js?v=202611011514';
+import { getCards, imageFor } from './scryfall.js?v=202611021841';
+import { deckFromText } from './archidekt.js?v=202611021841';
 
 const app = document.getElementById('app');
 const preview = document.getElementById('preview');
@@ -228,8 +228,9 @@ function renderUpgrades(el, deckId, upgrades, info, deck) {
       const picks = [...(s.picks || [])].sort(s.kind === 'edhrec' ? (a, b) => pct(b) - pct(a) : (a, b) => (a.tier === 'strong' ? 0 : 1) - (b.tier === 'strong' ? 0 : 1) || community(b) - community(a)).filter(p => filter === 'all' || (filter === 'open' ? !st[p.name] : st[p.name] === filter));
       const isOpen = openSets[s.code] ?? false;
       return `<details class="group set-group" data-code="${esc(s.code)}" ${isOpen ? 'open' : ''}>
-        <summary><h2>${esc(s.name)} <span class="muted">${s.kind === 'edhrec' ? 'Bracket 2-3 staples' : esc(s.code?.toUpperCase() || '') + ' · ' + esc(s.released || '')}</span> <span class="count-pill">${picks.length}</span></h2></summary>
+        <summary><h2>${esc(s.name)} <span class="muted">${s.kind === 'edhrec' ? 'Bracket 2-3 staples' : s.kind === 'moxfield' ? 'Top 3 most-liked Bracket 2 decks · ' + esc(s.released || '') : esc(s.code?.toUpperCase() || '') + ' · ' + esc(s.released || '')}</span> <span class="count-pill">${picks.length}</span></h2></summary>
         ${s.note ? `<p class="muted">${esc(s.note)}</p>` : ''}
+        ${s.decks?.length ? `<p class="small">Decks checked: ${s.decks.map((d, n) => `<a href="${esc(d.url)}" target="_blank" rel="noopener">#${n + 1} ${esc(d.name)}</a> <span class="muted">(${esc(d.likes)} likes)</span>`).join(' · ')}</p>` : ''}
         ${picks.length ? `<div class="card-grid big">${picks.map(p => {
           const i = info[p.name];
           const owned = inDeck.has(p.name);
@@ -237,7 +238,7 @@ function renderUpgrades(el, deckId, upgrades, info, deck) {
           return `<div class="pick ${st[p.name] ? 'decided-' + st[p.name] : ''}">
             <button class="pick-img" data-detail="${esc(p.name)}" title="Show why"><img loading="lazy" src="${esc(img)}" alt="${esc(p.name)}"></button>
             <div class="pick-tags">${p.tier === 'strong' ? '<span class="tag hot">Strong</span>' : '<span class="tag">Maybe</span>'}
-              ${p.edhrec ? `<span class="tag good" title="Share of Bracket 2 / Bracket 3 Hashaton decks on EDHREC">${[p.edhrec.b2 != null ? 'B2 ' + p.edhrec.b2 + '%' : '', p.edhrec.b3 != null ? 'B3 ' + p.edhrec.b3 + '%' : ''].filter(Boolean).join(' · ') || 'Average deck'}</span>` : communityBadge(p)} ${i?.price ? `<span class="tag">$${esc(i.price)}</span>` : ''} ${owned ? '<span class="tag">in deck</span>' : ''} ${inMaybe.has(p.name) ? '<span class="tag">in maybeboard</span>' : ''}</div>
+              ${p.edhrec ? `<span class="tag good" title="Share of Bracket 2 / Bracket 3 Hashaton decks on EDHREC">${[p.edhrec.b2 != null ? 'B2 ' + p.edhrec.b2 + '%' : '', p.edhrec.b3 != null ? 'B3 ' + p.edhrec.b3 + '%' : ''].filter(Boolean).join(' · ') || 'Average deck'}</span>` : p.mox ? `<span class="tag ${p.mox.n === p.mox.of ? 'good' : ''}" title="How many of the top ${p.mox.of} most-liked Moxfield decks run this card">${p.mox.n}/${p.mox.of} top decks</span>` : communityBadge(p)} ${i?.price ? `<span class="tag">$${esc(i.price)}</span>` : ''} ${owned ? '<span class="tag">in deck</span>' : ''} ${inMaybe.has(p.name) ? '<span class="tag">in maybeboard</span>' : ''}</div>
             <div class="status compact">${Object.entries(STATUS_SHORT).map(([k, v]) => `<button data-card="${esc(p.name)}" data-s="${k}" class="${st[p.name] === k ? 'on' : ''}" title="${esc(STATUS[k])}">${v}</button>`).join('')}</div>
           </div>`;
         }).join('')}</div>` : '<p class="muted">Nothing in this view for this set.</p>'}
